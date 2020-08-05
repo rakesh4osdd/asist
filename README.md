@@ -5,7 +5,7 @@ In the first column strain names will be mentioned, the second column will be le
 
 First row of csv file : Strain name	Resistance_phenotype	A1	A2	A_N
 Second row of csv file :		           Antibiotic Class
-                        Strain_1	Phenotype_1	Resistant	Resistant	Resistant
-                         Strain_2	Phenotype_2	Resistant	Susceptible	Resistant
+Third row of csv file : Strain_1	Phenotype_1	Resistant	Resistant	Resistant
+nth row of csv file : Strain_2	Phenotype_2	Resistant	Susceptible	Resistant
 
 Link to the code : https://github.com/tinabioinfo/Classification_criteria_by_CDC_ECDC_for_AB/
