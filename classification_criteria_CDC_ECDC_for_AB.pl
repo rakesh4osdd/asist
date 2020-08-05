@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w #warning mode
-use Text::CSV_XS; #(Load the module by written this) comma-separated values manipulation routines
+use Text::CSV_XS; #(Load the module) comma-separated values manipulation routines
 
-#use of checkdr( 'cat no.', 'min', 'max', 'row values' )
+#use of checkdr( 'category no.', 'min', 'max', 'row values' )
 sub checkdr{
 my $num= $_[0]; #the first argument (for category number 2,5,7,14,17 etc)
 my $min= $_[1]; #the second argument
@@ -66,14 +66,8 @@ my $sus=0, my $dr=0, my $na=0; #count numbers of NA, DR and susceptible
 
 my $csv = Text::CSV_XS->new; #comma-separated values manipulation routines
 
-open (DATA, "<812_input_paperwise.csv"); # read mode 
-#open (DATA, "<18_for_classification.csv"); # read mode 
-
-#open (DATA, "<strain3.csv"); # read mode 
-#open (DATA, "<xdr19.csv"); # read mode 
-open (OUTPUT, ">812_output_paperwise.csv"); #write mode
-#open (OUTPUT, ">18_for_classification_output"); #write mode
-
+open (DATA, "<812_strains_input.csv"); # read mode 
+open (OUTPUT, ">812_strains_output.csv"); #write mode
 
 while(my $row = $csv->getline(DATA)) { #read csv file line by line
 	#print "$row->[0]\t$row->[1]\t";
