@@ -66,8 +66,8 @@ my $sus=0, my $dr=0, my $na=0; #count numbers of NA, DR and susceptible
 
 my $csv = Text::CSV_XS->new; #comma-separated values manipulation routines
 
-open (DATA, "<812_strains_input.csv"); # read mode 
-open (OUTPUT, ">812_strains_output.csv"); #write mode
+open (DATA, "<788_strains_input.csv"); # read mode 
+open (OUTPUT, ">788_strains_output.csv"); #write mode
 
 while(my $row = $csv->getline(DATA)) { #read csv file line by line
 	#print "$row->[0]\t$row->[1]\t";
