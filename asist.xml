@@ -1,0 +1,26 @@
+<tool id="asist" name="ASIST" version="1.0.0">
+  <description>Antimicrobial Susceptibility standards</description>
+  <command interpreter="perl">iasist.pl -i $input -o $output</command>
+
+<inputs>
+
+  <param name="input" type="data" label="Input file in CSV format" help="Use CSV format."></param>
+       
+</inputs>
+<!--
+<configfiles>
+  <configfile name="input">
+   -->
+<outputs>
+  <data name="output" format="csv" label="ASIST Results"/>
+</outputs>
+
+<help>
+
+.. class:: infomark
+
+**USAGE:** Please provide the input CSV file containing AST results as Suseptible(S) and Resistant(R) for the tested strains.
+
+</help>
+
+</tool>
