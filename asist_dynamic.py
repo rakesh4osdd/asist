@@ -9,7 +9,7 @@
 # rakesh4osdd@gmail.com, 14-June-2021
 
 
-# In[1403]:
+# In[1]:
 
 
 import pandas as pd
@@ -18,18 +18,20 @@ import os
 from collections import Counter
 
 
-# In[ ]:
+# In[176]:
 
 
 input_file=sys.argv[1]
 output_file=sys.argv[2]
+#input_file='test-data/asist_input.csv'
+#output_file='test-data/asist_output.csv'
 
 
-# In[1362]:
+# In[177]:
 
 
 # strain_profile to phenotype condition
-def s_phen(sus,res,na,pb_sus):
+def s_phen(sus,res,intm,na,pb_sus):
     if (sus>0 and res==0 and na>=0):
         #print('Possible Susceptible')
         phen='Possible Susceptible'
@@ -52,13 +54,13 @@ def s_phen(sus,res,na,pb_sus):
         phen='Possible TDR'
     else:
         #print('Strain could not be classified')
-        phen='Strain could not be classified'
+        phen='Strain could not be classified ('+ str(intm)+' | ' + str(na) +')'
     return(phen)
 
 #print(s_phen(1,9,0,0))
 
 
-# In[1363]:
+# In[178]:
 
 
 # define Antibiotic groups as per antibiotic of CLSI breakpoints MIC
@@ -90,9 +92,10 @@ def s_profiler(pd_series):
         #print(cats[cat])
         cats[cat]=pd_series.filter(cats[cat])
         #print(cats[cat])
-    #define res,sus,na,pb_sus
+    #define res,sus,intm,na,pb_sus
     res=0
     sus=0
+    intm=0
     na=0
     pb_sus=0
     # special case of 'Polymyxin b' for its value
@@ -119,13 +122,16 @@ def s_profiler(pd_series):
             res=res+1
         if k['susceptible']>=1:
             sus=sus+1
+        if k['intermediate']>=1:
+            intm=intm+1
         if k['na']>=1:
             na=na+1
-    #print(s_phen(sus,res,na,pb_sus))
-    return(s_phen(sus,res,na,pb_sus))
+    #print(sus,res,intm,na,pb_sus)
+    #print(s_phen(sus,res,intm,na,pb_sus))
+    return(s_phen(sus,res,intm,na,pb_sus))
 
 
-# In[1397]:
+# In[179]:
 
 
 #input_file='input2.csv_table.csv'
@@ -133,14 +139,14 @@ def s_profiler(pd_series):
 strain_profile=pd.read_csv(input_file, sep=',',na_filter=False,skipinitialspace = True)
 
 
-# In[1387]:
+# In[180]:
 
 
 old_strain_name=strain_profile.columns[0]
 new_strain_name=old_strain_name.capitalize().strip().replace(' ', '')
 
 
-# In[1388]:
+# In[181]:
 
 
 # make header capitalization, remove leading,lagging, and multiple whitespace for comparision
@@ -150,7 +156,7 @@ strain_profile.columns=strain_profile.columns.str.capitalize().str.strip().str.r
 #strain_profile.columns
 
 
-# In[1389]:
+# In[182]:
 
 
 # add new column in dataframe on second position
@@ -158,33 +164,54 @@ strain_profile.insert(1, 'Strain phenotype','')
 #strain_profile.head()
 
 
-# In[1390]:
+# In[183]:
 
 
 strain_profile['Strain phenotype'] = strain_profile.apply(lambda x: (s_profiler(x)), axis=1)
 
 
-# In[1391]:
+# In[184]:
 
 
 #strain_profile.head()
 
 
-# In[1392]:
+# In[185]:
 
 
 #rename headers for old name
 strain_profile=strain_profile.rename(columns = {new_strain_name:old_strain_name, 'Ticarcillin/clavulanicacid':'Ticarcillin/ clavulanic acid','Piperacillin/tazobactam':'Piperacillin/ tazobactam','Trimethoprim/sulfamethoxazole': 'Trimethoprim/ sulfamethoxazole','Ampicillin/sulbactam':'Ampicillin/ sulbactam', 'Polymyxinb': 'Polymyxin B'} )
 
 
-# In[1404]:
+# In[186]:
+
+
+#strain_profile.columns
+
+
+# In[187]:
 
 
 #strain_profile
 
 
-# In[1394]:
+# In[188]:
 
 
 strain_profile.to_csv(output_file,na_rep='NA',index=False)
+
+
+# In[189]:
+
+
+# Open a file with access mode 'a'
+with open(output_file, "a") as file_object:
+    # Append 'hello' at the end of file
+    file_object.write("Note: \n1. 'MDR': Multidrug-resistant, 'XDR': Extensively drug-resistant, 'TDR':totally drug resistant, NA': Data Not Available.\n2. 'Strain could not be classified' numbers follow the format as ('Number of antibiotics categories count as Intermediate' | 'Number of antibiotics categories count as NA')")
+
+
+# In[ ]:
+
+
+
 
