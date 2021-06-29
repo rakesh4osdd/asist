@@ -1,12 +1,4 @@
 category: "Sequence Analysis"
-description: CLSI profile using MIC breakpoints
-homepage_url: https://github.com/rakesh4osdd/asist/tree/main
-long_description: CLSI profile using MIC breakpoints for bacteria from CLSI AST profiling 
-name: clsi_profile
-owner: rakesh4osdd
-remote_repository_url: https://github.com/rakesh4osdd/asist/tree/main
-
-category: "Sequence Analysis"
 description: Antimicrobial Susceptibility standards
 homepage_url: https://github.com/rakesh4osdd/asist/tree/master
 long_description: Antimicrobial Susceptibility standards from CLSI Profile
