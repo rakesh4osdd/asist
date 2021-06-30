@@ -1,0 +1,3037 @@
+,Strain name,Antibiotics,MIC
+81,Acinetobacter baumannii BJAB0868,imipenem,16
+82,Acinetobacter baumannii BJAB0868,meropenem,64
+83,Acinetobacter baumannii BJAB0868,Levofloxacin,8
+84,Acinetobacter baumannii BJAB0868,Cefotaxime,>256
+85,Acinetobacter baumannii BJAB0868,Cefepime,>256
+86,Acinetobacter baumannii BJAB0868,polymyxin B,2
+87,Acinetobacter baumannii BJAB0868,polymyxin B,>16
+109,Acinetobacter baumannii HRAB-85,Cefuroxime,64
+124,Acinetobacter baumannii HRAB-85,Gentamicin,16
+236,Acinetobacter baumannii strain MRSN11659,amikacin,8
+238,Acinetobacter baumannii strain MRSN11660,amikacin,8
+240,Acinetobacter baumannii strain MRSN11669,amikacin,16
+242,Acinetobacter baumannii strain MRSN11674,amikacin,32
+244,Acinetobacter baumannii strain MRSN11675,amikacin,32
+246,Acinetobacter baumannii strain MRSN11679,amikacin,32
+252,Acinetobacter baumannii strain MRSN11688,amikacin,32
+258,Acinetobacter baumannii strain MRSN11701,amikacin,32
+260,Acinetobacter baumannii strain MRSN11705,amikacin,32
+262,Acinetobacter baumannii strain MRSN11706,amikacin,32
+267,Acinetobacter baumannii strain MRSN11710,amikacin,32
+270,Acinetobacter baumannii strain MRSN11713,amikacin,32
+277,Acinetobacter baumannii strain MRSN11723,amikacin,32
+282,Acinetobacter baumannii strain MRSN11729,amikacin,16
+288,Acinetobacter baumannii strain MRSN11739,amikacin,32
+290,Acinetobacter baumannii strain MRSN11742,amikacin,32
+293,Acinetobacter baumannii strain MRSN11745,amikacin,32
+295,Acinetobacter baumannii strain MRSN11746,amikacin,32
+297,Acinetobacter baumannii strain MRSN11747,amikacin,32
+300,Acinetobacter baumannii strain MRSN11749,amikacin,8
+302,Acinetobacter baumannii strain MRSN11750,amikacin,16
+313,Acinetobacter baumannii strain MRSN11765,amikacin,16
+320,Acinetobacter baumannii strain MRSN11772,amikacin,32
+322,Acinetobacter baumannii strain MRSN11774,amikacin,32
+332,Acinetobacter baumannii strain MRSN11803,amikacin,32
+334,Acinetobacter baumannii strain MRSN11804,amikacin,32
+336,Acinetobacter baumannii strain MRSN11806,amikacin,8
+338,Acinetobacter baumannii strain MRSN11807,amikacin,8
+340,Acinetobacter baumannii strain MRSN11811,amikacin,16
+342,Acinetobacter baumannii strain MRSN11812,amikacin,32
+344,Acinetobacter baumannii strain MRSN11813,amikacin,8
+346,Acinetobacter baumannii strain MRSN11815,amikacin,8
+348,Acinetobacter baumannii strain MRSN11816,amikacin,16
+350,Acinetobacter baumannii strain MRSN11819,amikacin,8
+352,Acinetobacter baumannii strain MRSN11820,amikacin,32
+354,Acinetobacter baumannii strain MRSN11821,amikacin,16
+356,Acinetobacter baumannii strain MRSN11822,amikacin,16
+358,Acinetobacter baumannii strain MRSN11823,amikacin,8
+360,Acinetobacter baumannii strain MRSN11826,amikacin,8
+363,Acinetobacter baumannii strain MRSN1309,amikacin,8
+365,Acinetobacter baumannii strain MRSN1339,amikacin,8
+366,Acinetobacter baumannii strain MRSN1339,amikacin,2
+368,Acinetobacter baumannii strain MRSN1410,amikacin,32
+370,Acinetobacter baumannii strain MRSN1420,amikacin,8
+372,Acinetobacter baumannii strain MRSN1428,amikacin,8
+374,Acinetobacter baumannii strain MRSN1439,amikacin,2
+376,Acinetobacter baumannii strain MRSN1449,amikacin,8
+378,Acinetobacter baumannii strain MRSN1450,amikacin,32
+380,Acinetobacter baumannii strain MRSN1461,amikacin,64
+384,Acinetobacter baumannii strain MRSN15039,amikacin,32
+386,Acinetobacter baumannii strain MRSN15042,amikacin,8
+390,Acinetobacter baumannii strain MRSN15045,amikacin,16
+392,Acinetobacter baumannii strain MRSN15046,amikacin,16
+395,Acinetobacter baumannii strain MRSN15048,amikacin,16
+398,Acinetobacter baumannii strain MRSN15065,amikacin,16
+400,Acinetobacter baumannii strain MRSN15066,amikacin,32
+404,Acinetobacter baumannii strain MRSN15070,amikacin,8
+412,Acinetobacter baumannii strain MRSN15079,amikacin,32
+418,Acinetobacter baumannii strain MRSN15084,amikacin,32
+419,Acinetobacter baumannii strain MRSN15084,amikacin,32
+421,Acinetobacter baumannii strain MRSN15086,amikacin,32
+425,Acinetobacter baumannii strain MRSN1551,amikacin,8
+427,Acinetobacter baumannii strain MRSN1598,amikacin,2
+429,Acinetobacter baumannii strain MRSN16874,amikacin,32
+432,Acinetobacter baumannii strain MRSN16882,amikacin,32
+438,Acinetobacter baumannii strain MRSN1738,amikacin,64
+441,Acinetobacter baumannii strain MRSN1967,amikacin,32
+445,Acinetobacter baumannii strain MRSN1980,amikacin,8
+447,Acinetobacter baumannii strain MRSN1987,amikacin,64
+449,Acinetobacter baumannii strain MRSN1988,amikacin,8
+451,Acinetobacter baumannii strain MRSN1992,amikacin,2
+454,Acinetobacter baumannii strain MRSN2009,amikacin,8
+456,Acinetobacter baumannii strain MRSN2024,amikacin,32
+458,Acinetobacter baumannii strain MRSN20315,amikacin,16
+460,Acinetobacter baumannii strain MRSN20755,amikacin,8
+462,Acinetobacter baumannii strain MRSN2427,amikacin,32
+464,Acinetobacter baumannii strain MRSN2441,amikacin,32
+466,Acinetobacter baumannii strain MRSN2821,amikacin,4
+468,Acinetobacter baumannii strain MRSN2830,amikacin,4
+470,Acinetobacter baumannii strain MRSN2839,amikacin,32
+472,Acinetobacter baumannii strain MRSN2840,amikacin,32
+474,Acinetobacter baumannii strain MRSN3360,amikacin,2
+476,Acinetobacter baumannii strain MRSN3547,amikacin,64
+479,Acinetobacter baumannii strain MRSN3843,amikacin,2
+482,Acinetobacter baumannii strain MRSN4119,amikacin,32
+485,Acinetobacter baumannii strain MRSN5540,amikacin,32
+487,Acinetobacter baumannii strain MRSN6269,amikacin,32
+491,Acinetobacter baumannii strain MRSN7069,amikacin,8
+494,Acinetobacter baumannii strain MRSN7072,amikacin,32
+500,Acinetobacter baumannii strain MRSN7081,amikacin,16
+503,Acinetobacter baumannii strain MRSN7086,amikacin,8
+510,Acinetobacter baumannii strain MRSN7108,amikacin,16
+523,Acinetobacter baumannii strain MRSN7128,amikacin,32
+529,Acinetobacter baumannii strain MRSN7134,amikacin,32
+539,Acinetobacter baumannii strain MRSN7147,amikacin,16
+542,Acinetobacter baumannii strain MRSN7149,amikacin,16
+546,Acinetobacter baumannii strain MRSN7154,amikacin,32
+548,Acinetobacter baumannii strain MRSN7155,amikacin,32
+554,Acinetobacter baumannii strain MRSN7160,amikacin,16
+556,Acinetobacter baumannii strain MRSN7161,amikacin,32
+567,Acinetobacter baumannii strain MRSN7173,amikacin,32
+572,Acinetobacter baumannii strain MRSN7184,amikacin,16
+578,Acinetobacter baumannii strain MRSN7204,amikacin,16
+588,Acinetobacter baumannii strain MRSN7220,amikacin,16
+592,Acinetobacter baumannii strain MRSN7223,amikacin,16
+600,Acinetobacter baumannii strain MRSN7232,amikacin,8
+602,Acinetobacter baumannii strain MRSN7234,amikacin,8
+604,Acinetobacter baumannii strain MRSN7235,amikacin,16
+606,Acinetobacter baumannii strain MRSN7236,amikacin,16
+609,Acinetobacter baumannii strain MRSN7238,amikacin,16
+625,Acinetobacter baumannii strain MRSN7257,amikacin,16
+636,Acinetobacter baumannii strain MRSN7273,amikacin,8
+641,Acinetobacter baumannii strain MRSN7279,amikacin,32
+644,Acinetobacter baumannii strain MRSN7281,amikacin,8
+647,Acinetobacter baumannii strain MRSN7284,amikacin,8
+662,Acinetobacter baumannii strain MRSN7304,amikacin,16
+664,Acinetobacter baumannii strain MRSN7305,amikacin,16
+666,Acinetobacter baumannii strain MRSN7306,amikacin,16
+669,Acinetobacter baumannii strain MRSN7309,amikacin,8
+671,Acinetobacter baumannii strain MRSN7310,amikacin,32
+674,Acinetobacter baumannii strain MRSN7314,amikacin,16
+681,Acinetobacter baumannii strain MRSN7324,amikacin,8
+686,Acinetobacter baumannii strain MRSN7328,amikacin,16
+688,Acinetobacter baumannii strain MRSN7330,amikacin,8
+695,Acinetobacter baumannii strain MRSN7344,amikacin,8
+697,Acinetobacter baumannii strain MRSN7345,amikacin,8
+700,Acinetobacter baumannii strain MRSN7347,amikacin,4
+703,Acinetobacter baumannii strain MRSN7349,amikacin,32
+705,Acinetobacter baumannii strain MRSN7350,amikacin,8
+710,Acinetobacter baumannii strain MRSN7354,amikacin,8
+712,Acinetobacter baumannii strain MRSN7355,amikacin,8
+715,Acinetobacter baumannii strain MRSN7357,amikacin,4
+717,Acinetobacter baumannii strain MRSN7359,amikacin,8
+720,Acinetobacter baumannii strain MRSN7361,amikacin,8
+723,Acinetobacter baumannii strain MRSN7363,amikacin,8
+726,Acinetobacter baumannii strain MRSN7365,amikacin,32
+728,Acinetobacter baumannii strain MRSN7366,amikacin,4
+732,Acinetobacter baumannii strain MRSN7370,amikacin,4
+734,Acinetobacter baumannii strain MRSN7372,amikacin,4
+736,Acinetobacter baumannii strain MRSN7373,amikacin,4
+738,Acinetobacter baumannii strain MRSN7375,amikacin,8
+741,Acinetobacter baumannii strain MRSN7377,amikacin,4
+743,Acinetobacter baumannii strain MRSN7378,amikacin,4
+745,Acinetobacter baumannii strain MRSN7379,amikacin,8
+747,Acinetobacter baumannii strain MRSN7380,amikacin,8
+753,Acinetobacter baumannii strain MRSN7386,amikacin,8
+755,Acinetobacter baumannii strain MRSN7387,amikacin,4
+757,Acinetobacter baumannii strain MRSN7388,amikacin,8
+759,Acinetobacter baumannii strain MRSN7389,amikacin,8
+761,Acinetobacter baumannii strain MRSN7390,amikacin,8
+763,Acinetobacter baumannii strain MRSN7391,amikacin,8
+765,Acinetobacter baumannii strain MRSN7392,amikacin,8
+768,Acinetobacter baumannii strain MRSN7394,amikacin,4
+772,Acinetobacter baumannii strain MRSN7401,amikacin,4
+774,Acinetobacter baumannii strain MRSN7402,amikacin,8
+776,Acinetobacter baumannii strain MRSN7403,amikacin,8
+778,Acinetobacter baumannii strain MRSN7404,amikacin,4
+780,Acinetobacter baumannii strain MRSN7405,amikacin,32
+783,Acinetobacter baumannii strain MRSN7408,amikacin,4
+785,Acinetobacter baumannii strain MRSN7409,amikacin,4
+788,Acinetobacter baumannii strain MRSN7411,amikacin,8
+791,Acinetobacter baumannii strain MRSN7413,amikacin,4
+793,Acinetobacter baumannii strain MRSN7414,amikacin,4
+796,Acinetobacter baumannii strain MRSN7416,amikacin,8
+798,Acinetobacter baumannii strain MRSN7417,amikacin,8
+800,Acinetobacter baumannii strain MRSN7418,amikacin,8
+802,Acinetobacter baumannii strain MRSN7419,amikacin,8
+805,Acinetobacter baumannii strain MRSN7421,amikacin,8
+807,Acinetobacter baumannii strain MRSN7423,amikacin,4
+813,Acinetobacter baumannii strain MRSN7438,amikacin,8
+816,Acinetobacter baumannii strain MRSN7441,amikacin,8
+819,Acinetobacter baumannii strain MRSN7447,amikacin,32
+821,Acinetobacter baumannii strain MRSN7448,amikacin,32
+823,Acinetobacter baumannii strain MRSN7454,amikacin,4
+825,Acinetobacter baumannii strain MRSN7455,amikacin,4
+828,Acinetobacter baumannii strain MRSN7457,amikacin,4
+831,Acinetobacter baumannii strain MRSN7459,amikacin,8
+833,Acinetobacter baumannii strain MRSN7460,amikacin,4
+835,Acinetobacter baumannii strain MRSN7461,amikacin,8
+837,Acinetobacter baumannii strain MRSN7462,amikacin,8
+841,Acinetobacter baumannii strain MRSN7467,amikacin,8
+843,Acinetobacter baumannii strain MRSN7468,amikacin,32
+845,Acinetobacter baumannii strain MRSN7469,amikacin,32
+850,Acinetobacter baumannii strain MRSN7474,amikacin,8
+852,Acinetobacter baumannii strain MRSN7475,amikacin,4
+855,Acinetobacter baumannii strain MRSN7478,amikacin,8
+858,Acinetobacter baumannii strain MRSN7481,amikacin,4
+863,Acinetobacter baumannii strain MRSN7485,amikacin,8
+872,Acinetobacter baumannii strain MRSN7497,amikacin,8
+874,Acinetobacter baumannii strain MRSN7498,amikacin,4
+891,Acinetobacter baumannii strain MRSN7521,amikacin,32
+909,Acinetobacter baumannii strain MRSN7557,amikacin,32
+912,Acinetobacter baumannii strain MRSN7560,amikacin,8
+921,Acinetobacter baumannii strain MRSN7570,amikacin,32
+939,Acinetobacter baumannii strain MRSN7599,amikacin,8
+954,Acinetobacter baumannii strain MRSN7629,amikacin,8
+970,Acinetobacter baumannii strain MRSN7655,amikacin,8
+975,Acinetobacter baumannii strain MRSN7660,amikacin,4
+979,Acinetobacter baumannii strain MRSN7668,amikacin,8
+982,Acinetobacter baumannii strain MRSN7670,amikacin,32
+990,Acinetobacter baumannii strain MRSN7677,amikacin,32
+1008,Acinetobacter baumannii strain MRSN7707,amikacin,8
+1018,Acinetobacter baumannii strain MRSN7718,amikacin,4
+1026,Acinetobacter baumannii strain MRSN7730,amikacin,32
+1034,Acinetobacter baumannii strain MRSN7751,amikacin,32
+1045,Acinetobacter baumannii strain MRSN7776,amikacin,32
+1052,Acinetobacter baumannii strain MRSN7790,amikacin,16
+1070,Acinetobacter baumannii strain MRSN7822,amikacin,16
+1078,Acinetobacter baumannii strain MRSN83,amikacin,32
+1079,Acinetobacter baumannii strain MRSN83,amikacin,64
+1081,Acinetobacter baumannii strain MRSN85,amikacin,32
+1086,Acinetobacter baumannii strain MRSN888,amikacin,8
+1089,Acinetobacter baumannii strain MRSN8899,amikacin,32
+1091,Acinetobacter baumannii strain MRSN89,amikacin,32
+1092,Acinetobacter baumannii strain MRSN89,amikacin,32
+1094,Acinetobacter baumannii strain MRSN8900,amikacin,32
+1096,Acinetobacter baumannii strain MRSN8901,amikacin,8
+1098,Acinetobacter baumannii strain MRSN8902,amikacin,32
+1100,Acinetobacter baumannii strain MRSN8903,amikacin,32
+1104,Acinetobacter baumannii strain MRSN899,amikacin,64
+1107,Acinetobacter baumannii strain MRSN908,amikacin,32
+1108,Acinetobacter baumannii strain MRSN908,amikacin,64
+1110,Acinetobacter baumannii strain MRSN910,amikacin,8
+1112,Acinetobacter baumannii strain MRSN915,amikacin,2
+1115,Acinetobacter baumannii strain MRSN919,amikacin,32
+1118,Acinetobacter baumannii strain MRSN929,amikacin,32
+1121,Acinetobacter baumannii strain MRSN953,amikacin,8
+1238,Acinetobacter baumannii strain MRSN15038,ampicillin,32
+1265,Acinetobacter baumannii strain MRSN15084,ampicillin,32
+1633,Acinetobacter baumannii strain MRSN7557,ampicillin,32
+1675,Acinetobacter baumannii strain MRSN7629,ampicillin,32
+1787,Acinetobacter baumannii strain MRSN7834,ampicillin,16
+1790,Acinetobacter baumannii strain MRSN85,ampicillin,16
+1865,Acinetobacter baumannii strain MRSN10371,ampicillin/sulbactam, 16/8
+1870,Acinetobacter baumannii strain MRSN11660,ampicillin/sulbactam, 16/8
+1872,Acinetobacter baumannii strain MRSN11669,ampicillin/sulbactam, 8/4
+1874,Acinetobacter baumannii strain MRSN11674,ampicillin/sulbactam, 32/16
+1886,Acinetobacter baumannii strain MRSN11701,ampicillin/sulbactam, 8/4
+1891,Acinetobacter baumannii strain MRSN11708,ampicillin/sulbactam, 16/8
+1905,Acinetobacter baumannii strain MRSN11729,ampicillin/sulbactam, 8/4
+1911,Acinetobacter baumannii strain MRSN11739,ampicillin/sulbactam, 16/8
+1913,Acinetobacter baumannii strain MRSN11742,ampicillin/sulbactam, 8/4
+1917,Acinetobacter baumannii strain MRSN11746,ampicillin/sulbactam, 32/16
+1921,Acinetobacter baumannii strain MRSN11749,ampicillin/sulbactam, 4/2
+1923,Acinetobacter baumannii strain MRSN11750,ampicillin/sulbactam, 4/2
+1925,Acinetobacter baumannii strain MRSN11753,ampicillin/sulbactam, 8/4
+1929,Acinetobacter baumannii strain MRSN11760,ampicillin/sulbactam, 32/16
+1935,Acinetobacter baumannii strain MRSN11765,ampicillin/sulbactam, 2/1
+1942,Acinetobacter baumannii strain MRSN11774,ampicillin/sulbactam, 16/8
+1952,Acinetobacter baumannii strain MRSN11801,ampicillin/sulbactam, 8/4
+1954,Acinetobacter baumannii strain MRSN11803,ampicillin/sulbactam, 8/4
+1956,Acinetobacter baumannii strain MRSN11804,ampicillin/sulbactam, 8/4
+1958,Acinetobacter baumannii strain MRSN11806,ampicillin/sulbactam, 32/16
+1960,Acinetobacter baumannii strain MRSN11807,ampicillin/sulbactam, 16/8
+1962,Acinetobacter baumannii strain MRSN11811,ampicillin/sulbactam, 16/8
+1964,Acinetobacter baumannii strain MRSN11812,ampicillin/sulbactam, 8/4
+1966,Acinetobacter baumannii strain MRSN11813,ampicillin/sulbactam, 16/8
+1968,Acinetobacter baumannii strain MRSN11815,ampicillin/sulbactam, 8/4
+1970,Acinetobacter baumannii strain MRSN11816,ampicillin/sulbactam, 8/4
+1972,Acinetobacter baumannii strain MRSN11819,ampicillin/sulbactam, 8/4
+1974,Acinetobacter baumannii strain MRSN11820,ampicillin/sulbactam, 32/16
+1976,Acinetobacter baumannii strain MRSN11821,ampicillin/sulbactam, 2/1
+1978,Acinetobacter baumannii strain MRSN11822,ampicillin/sulbactam, 8/4
+1980,Acinetobacter baumannii strain MRSN11823,ampicillin/sulbactam, 32/16
+1983,Acinetobacter baumannii strain MRSN11826,ampicillin/sulbactam, 2/1
+1987,Acinetobacter baumannii strain MRSN1339,ampicillin/sulbactam, 8/4
+1997,Acinetobacter baumannii strain MRSN15039,ampicillin/sulbactam, 32/16
+2002,Acinetobacter baumannii strain MRSN15045,ampicillin/sulbactam, 2/1
+2004,Acinetobacter baumannii strain MRSN15046,ampicillin/sulbactam, 2/1
+2007,Acinetobacter baumannii strain MRSN15048,ampicillin/sulbactam, 16/8
+2020,Acinetobacter baumannii strain MRSN15081,ampicillin/sulbactam, 32/16
+2024,Acinetobacter baumannii strain MRSN15084,ampicillin/sulbactam, 4/2
+2025,Acinetobacter baumannii strain MRSN15084,ampicillin/sulbactam, 8/4
+2027,Acinetobacter baumannii strain MRSN15085,ampicillin/sulbactam, 32/16
+2029,Acinetobacter baumannii strain MRSN15086,ampicillin/sulbactam, 8/4
+2036,Acinetobacter baumannii strain MRSN16881,ampicillin/sulbactam, 32/16
+2038,Acinetobacter baumannii strain MRSN16882,ampicillin/sulbactam, 32/16
+2040,Acinetobacter baumannii strain MRSN16896,ampicillin/sulbactam, 4/2
+2042,Acinetobacter baumannii strain MRSN16897,ampicillin/sulbactam, 4/2
+2044,Acinetobacter baumannii strain MRSN16898,ampicillin/sulbactam, 8/4
+2046,Acinetobacter baumannii strain MRSN16901,ampicillin/sulbactam, 4/2
+2049,Acinetobacter baumannii strain MRSN17592,ampicillin/sulbactam, 2/1
+2051,Acinetobacter baumannii strain MRSN17593,ampicillin/sulbactam, 4/2
+2064,Acinetobacter baumannii strain MRSN20755,ampicillin/sulbactam, 32/16
+2066,Acinetobacter baumannii strain MRSN2427,ampicillin/sulbactam, 8/4
+2068,Acinetobacter baumannii strain MRSN2441,ampicillin/sulbactam, 8/4
+2070,Acinetobacter baumannii strain MRSN2821,ampicillin/sulbactam, 8/4
+2072,Acinetobacter baumannii strain MRSN2830,ampicillin/sulbactam, 2/1
+2074,Acinetobacter baumannii strain MRSN2839,ampicillin/sulbactam, 16/8
+2076,Acinetobacter baumannii strain MRSN2840,ampicillin/sulbactam, 16/8
+2082,Acinetobacter baumannii strain MRSN3941,ampicillin/sulbactam, 8/4
+2084,Acinetobacter baumannii strain MRSN4119,ampicillin/sulbactam, 8/4
+2088,Acinetobacter baumannii strain MRSN6269,ampicillin/sulbactam, 4/2
+2090,Acinetobacter baumannii strain MRSN6273,ampicillin/sulbactam, 8/4
+2094,Acinetobacter baumannii strain MRSN7072,ampicillin/sulbactam, 32/16
+2100,Acinetobacter baumannii strain MRSN7081,ampicillin/sulbactam, 32/16
+2103,Acinetobacter baumannii strain MRSN7086,ampicillin/sulbactam, 8/4
+2111,Acinetobacter baumannii strain MRSN7108,ampicillin/sulbactam, 32/16
+2129,Acinetobacter baumannii strain MRSN7134,ampicillin/sulbactam, 4/2
+2139,Acinetobacter baumannii strain MRSN7147,ampicillin/sulbactam, 8/4
+2144,Acinetobacter baumannii strain MRSN7154,ampicillin/sulbactam, 16/8
+2146,Acinetobacter baumannii strain MRSN7155,ampicillin/sulbactam, 4/2
+2152,Acinetobacter baumannii strain MRSN7161,ampicillin/sulbactam, 8/4
+2161,Acinetobacter baumannii strain MRSN7170,ampicillin/sulbactam, 4/2
+2165,Acinetobacter baumannii strain MRSN7173,ampicillin/sulbactam, 4/2
+2174,Acinetobacter baumannii strain MRSN7204,ampicillin/sulbactam, 4/2
+2185,Acinetobacter baumannii strain MRSN7220,ampicillin/sulbactam, 16/8
+2188,Acinetobacter baumannii strain MRSN7222,ampicillin/sulbactam, 16/8
+2197,Acinetobacter baumannii strain MRSN7232,ampicillin/sulbactam, 32/16
+2199,Acinetobacter baumannii strain MRSN7234,ampicillin/sulbactam, 16/8
+2201,Acinetobacter baumannii strain MRSN7235,ampicillin/sulbactam, 32/16
+2203,Acinetobacter baumannii strain MRSN7236,ampicillin/sulbactam, 16/8
+2205,Acinetobacter baumannii strain MRSN7238,ampicillin/sulbactam, 16/8
+2234,Acinetobacter baumannii strain MRSN7279,ampicillin/sulbactam, 16/8
+2253,Acinetobacter baumannii strain MRSN7305,ampicillin/sulbactam, 4/2
+2257,Acinetobacter baumannii strain MRSN7310,ampicillin/sulbactam, 16/8
+2270,Acinetobacter baumannii strain MRSN7328,ampicillin/sulbactam, 8/4
+2272,Acinetobacter baumannii strain MRSN7330,ampicillin/sulbactam, 8/4
+2279,Acinetobacter baumannii strain MRSN7344,ampicillin/sulbactam, 16/8
+2281,Acinetobacter baumannii strain MRSN7345,ampicillin/sulbactam, 2/1
+2284,Acinetobacter baumannii strain MRSN7347,ampicillin/sulbactam, 8/4
+2287,Acinetobacter baumannii strain MRSN7349,ampicillin/sulbactam, 32/16
+2293,Acinetobacter baumannii strain MRSN7354,ampicillin/sulbactam, 4/2
+2302,Acinetobacter baumannii strain MRSN7365,ampicillin/sulbactam, 16/8
+2308,Acinetobacter baumannii strain MRSN7372,ampicillin/sulbactam, 8/4
+2314,Acinetobacter baumannii strain MRSN7379,ampicillin/sulbactam, 4/2
+2327,Acinetobacter baumannii strain MRSN7394,ampicillin/sulbactam, 4/2
+2334,Acinetobacter baumannii strain MRSN7404,ampicillin/sulbactam, 2/1
+2339,Acinetobacter baumannii strain MRSN7408,ampicillin/sulbactam, 8/4
+2341,Acinetobacter baumannii strain MRSN7409,ampicillin/sulbactam, 4/2
+2348,Acinetobacter baumannii strain MRSN7416,ampicillin/sulbactam, 4/2
+2350,Acinetobacter baumannii strain MRSN7417,ampicillin/sulbactam, 32/16
+2353,Acinetobacter baumannii strain MRSN7419,ampicillin/sulbactam, 4/2
+2357,Acinetobacter baumannii strain MRSN7423,ampicillin/sulbactam, 4/2
+2365,Acinetobacter baumannii strain MRSN7441,ampicillin/sulbactam, 16/8
+2369,Acinetobacter baumannii strain MRSN7448,ampicillin/sulbactam, 8/4
+2376,Acinetobacter baumannii strain MRSN7459,ampicillin/sulbactam, 4/2
+2378,Acinetobacter baumannii strain MRSN7460,ampicillin/sulbactam, 2/1
+2384,Acinetobacter baumannii strain MRSN7468,ampicillin/sulbactam, 32/16
+2390,Acinetobacter baumannii strain MRSN7474,ampicillin/sulbactam, 32/16
+2393,Acinetobacter baumannii strain MRSN7478,ampicillin/sulbactam, 16/8
+2400,Acinetobacter baumannii strain MRSN7485,ampicillin/sulbactam, 32/16
+2409,Acinetobacter baumannii strain MRSN7497,ampicillin/sulbactam, 16/8
+2426,Acinetobacter baumannii strain MRSN7521,ampicillin/sulbactam, 4/2
+2444,Acinetobacter baumannii strain MRSN7557,ampicillin/sulbactam, 8/4
+2455,Acinetobacter baumannii strain MRSN7570,ampicillin/sulbactam, 8/4
+2460,Acinetobacter baumannii strain MRSN7578,ampicillin/sulbactam, 8/4
+2475,Acinetobacter baumannii strain MRSN7605,ampicillin/sulbactam, 8/4
+2485,Acinetobacter baumannii strain MRSN7629,ampicillin/sulbactam, 16/8
+2501,Acinetobacter baumannii strain MRSN7655,ampicillin/sulbactam, 2/1
+2509,Acinetobacter baumannii strain MRSN7668,ampicillin/sulbactam, 32/16
+2535,Acinetobacter baumannii strain MRSN7707,ampicillin/sulbactam, 32/16
+2545,Acinetobacter baumannii strain MRSN7718,ampicillin/sulbactam, 16/8
+2573,Acinetobacter baumannii strain MRSN7790,ampicillin/sulbactam, 16/8
+2585,Acinetobacter baumannii strain MRSN7815,ampicillin/sulbactam, 8/4
+2592,Acinetobacter baumannii strain MRSN7822,ampicillin/sulbactam, 32/16
+2601,Acinetobacter baumannii strain MRSN85,ampicillin/sulbactam, 8/4
+2609,Acinetobacter baumannii strain MRSN8899,ampicillin/sulbactam, 32/16
+2612,Acinetobacter baumannii strain MRSN8900,ampicillin/sulbactam, 8/4
+2614,Acinetobacter baumannii strain MRSN8901,ampicillin/sulbactam, 8/4
+2616,Acinetobacter baumannii strain MRSN8902,ampicillin/sulbactam, 4/2
+2618,Acinetobacter baumannii strain MRSN8903,ampicillin/sulbactam, 32/16
+2640,Acinetobacter baumannii strain MRSN10371,aztreonam,64
+2643,Acinetobacter baumannii strain MRSN11653,aztreonam,16
+2645,Acinetobacter baumannii strain MRSN11659,aztreonam,16
+2647,Acinetobacter baumannii strain MRSN11660,aztreonam,16
+2649,Acinetobacter baumannii strain MRSN11669,aztreonam,16
+2651,Acinetobacter baumannii strain MRSN11674,aztreonam,64
+2653,Acinetobacter baumannii strain MRSN11675,aztreonam,16
+2655,Acinetobacter baumannii strain MRSN11679,aztreonam,16
+2661,Acinetobacter baumannii strain MRSN11688,aztreonam,16
+2667,Acinetobacter baumannii strain MRSN11701,aztreonam,16
+2672,Acinetobacter baumannii strain MRSN11708,aztreonam,16
+2677,Acinetobacter baumannii strain MRSN11713,aztreonam,16
+2684,Acinetobacter baumannii strain MRSN11723,aztreonam,64
+2689,Acinetobacter baumannii strain MRSN11729,aztreonam,16
+2695,Acinetobacter baumannii strain MRSN11739,aztreonam,64
+2697,Acinetobacter baumannii strain MRSN11742,aztreonam,16
+2700,Acinetobacter baumannii strain MRSN11745,aztreonam,16
+2702,Acinetobacter baumannii strain MRSN11746,aztreonam,64
+2704,Acinetobacter baumannii strain MRSN11747,aztreonam,16
+2707,Acinetobacter baumannii strain MRSN11749,aztreonam,16
+2709,Acinetobacter baumannii strain MRSN11750,aztreonam,16
+2712,Acinetobacter baumannii strain MRSN11753,aztreonam,32
+2716,Acinetobacter baumannii strain MRSN11760,aztreonam,64
+2728,Acinetobacter baumannii strain MRSN11772,aztreonam,64
+2730,Acinetobacter baumannii strain MRSN11774,aztreonam,16
+2737,Acinetobacter baumannii strain MRSN11783,aztreonam,16
+2740,Acinetobacter baumannii strain MRSN11788,aztreonam,64
+2747,Acinetobacter baumannii strain MRSN11797,aztreonam,64
+2750,Acinetobacter baumannii strain MRSN11803,aztreonam,64
+2752,Acinetobacter baumannii strain MRSN11804,aztreonam,16
+2754,Acinetobacter baumannii strain MRSN11806,aztreonam,64
+2756,Acinetobacter baumannii strain MRSN11807,aztreonam,64
+2758,Acinetobacter baumannii strain MRSN11811,aztreonam,16
+2760,Acinetobacter baumannii strain MRSN11812,aztreonam,64
+2762,Acinetobacter baumannii strain MRSN11813,aztreonam,64
+2765,Acinetobacter baumannii strain MRSN11816,aztreonam,32
+2767,Acinetobacter baumannii strain MRSN11820,aztreonam,16
+2770,Acinetobacter baumannii strain MRSN11822,aztreonam,64
+2772,Acinetobacter baumannii strain MRSN11823,aztreonam,16
+2774,Acinetobacter baumannii strain MRSN11825,aztreonam,16
+2779,Acinetobacter baumannii strain MRSN1339,aztreonam,32
+2789,Acinetobacter baumannii strain MRSN15038,aztreonam,64
+2791,Acinetobacter baumannii strain MRSN15039,aztreonam,16
+2796,Acinetobacter baumannii strain MRSN15045,aztreonam,32
+2800,Acinetobacter baumannii strain MRSN15048,aztreonam,16
+2803,Acinetobacter baumannii strain MRSN15065,aztreonam,16
+2805,Acinetobacter baumannii strain MRSN15066,aztreonam,32
+2816,Acinetobacter baumannii strain MRSN15079,aztreonam,64
+2819,Acinetobacter baumannii strain MRSN15081,aztreonam,64
+2823,Acinetobacter baumannii strain MRSN15084,aztreonam,16
+2824,Acinetobacter baumannii strain MRSN15084,aztreonam,64
+2826,Acinetobacter baumannii strain MRSN15085,aztreonam,64
+2833,Acinetobacter baumannii strain MRSN16874,aztreonam,16
+2835,Acinetobacter baumannii strain MRSN16881,aztreonam,32
+2837,Acinetobacter baumannii strain MRSN16882,aztreonam,16
+2844,Acinetobacter baumannii strain MRSN17593,aztreonam,16
+2857,Acinetobacter baumannii strain MRSN20315,aztreonam,64
+2859,Acinetobacter baumannii strain MRSN20755,aztreonam,16
+3108,Acinetobacter baumannii strain MRSN7411,aztreonam,16
+3153,Acinetobacter baumannii strain MRSN7481,aztreonam,16
+3183,Acinetobacter baumannii strain MRSN7521,aztreonam,16
+3240,Acinetobacter baumannii strain MRSN7629,aztreonam,16
+3305,Acinetobacter baumannii strain MRSN7730,aztreonam,64
+3313,Acinetobacter baumannii strain MRSN7751,aztreonam,16
+3324,Acinetobacter baumannii strain MRSN7776,aztreonam,64
+3331,Acinetobacter baumannii strain MRSN7790,aztreonam,16
+3344,Acinetobacter baumannii strain MRSN7815,aztreonam,16
+3351,Acinetobacter baumannii strain MRSN7822,aztreonam,16
+3367,Acinetobacter baumannii strain MRSN8899,aztreonam,32
+3371,Acinetobacter baumannii strain MRSN8900,aztreonam,64
+3373,Acinetobacter baumannii strain MRSN8901,aztreonam,64
+3375,Acinetobacter baumannii strain MRSN8902,aztreonam,16
+3377,Acinetobacter baumannii strain MRSN8903,aztreonam,64
+3383,Acinetobacter baumannii strain MRSN908,aztreonam,64
+3511,Acinetobacter baumannii strain MRSN15038,cefazolin,64
+3538,Acinetobacter baumannii strain MRSN15084,cefazolin,64
+3906,Acinetobacter baumannii strain MRSN7557,cefazolin,64
+3948,Acinetobacter baumannii strain MRSN7629,cefazolin,64
+4060,Acinetobacter baumannii strain MRSN7834,cefazolin,64
+4332,Acinetobacter baumannii strain MRSN15084,cefotaxime,32
+5471,Acinetobacter baumannii strain MRSN10371,ceftazidime,64
+5472,Acinetobacter baumannii strain MRSN10371,ceftazidime,16
+5475,Acinetobacter baumannii strain MRSN11653,ceftazidime,16
+5476,Acinetobacter baumannii strain MRSN11653,ceftazidime,64
+5478,Acinetobacter baumannii strain MRSN11659,ceftazidime,16
+5479,Acinetobacter baumannii strain MRSN11659,ceftazidime,64
+5481,Acinetobacter baumannii strain MRSN11660,ceftazidime,64
+5482,Acinetobacter baumannii strain MRSN11660,ceftazidime,16
+5484,Acinetobacter baumannii strain MRSN11669,ceftazidime,8
+5486,Acinetobacter baumannii strain MRSN11674,ceftazidime,16
+5487,Acinetobacter baumannii strain MRSN11674,ceftazidime,16
+5489,Acinetobacter baumannii strain MRSN11675,ceftazidime,16
+5491,Acinetobacter baumannii strain MRSN11679,ceftazidime,16
+5492,Acinetobacter baumannii strain MRSN11679,ceftazidime,64
+5498,Acinetobacter baumannii strain MRSN11688,ceftazidime,16
+5499,Acinetobacter baumannii strain MRSN11688,ceftazidime,16
+5505,Acinetobacter baumannii strain MRSN11701,ceftazidime,16
+5506,Acinetobacter baumannii strain MRSN11701,ceftazidime,64
+5511,Acinetobacter baumannii strain MRSN11708,ceftazidime,16
+5512,Acinetobacter baumannii strain MRSN11708,ceftazidime,16
+5522,Acinetobacter baumannii strain MRSN11723,ceftazidime,16
+5523,Acinetobacter baumannii strain MRSN11723,ceftazidime,64
+5528,Acinetobacter baumannii strain MRSN11729,ceftazidime,16
+5529,Acinetobacter baumannii strain MRSN11729,ceftazidime,16
+5534,Acinetobacter baumannii strain MRSN11739,ceftazidime,64
+5535,Acinetobacter baumannii strain MRSN11739,ceftazidime,16
+5537,Acinetobacter baumannii strain MRSN11742,ceftazidime,64
+5538,Acinetobacter baumannii strain MRSN11742,ceftazidime,16
+5541,Acinetobacter baumannii strain MRSN11745,ceftazidime,16
+5542,Acinetobacter baumannii strain MRSN11745,ceftazidime,64
+5544,Acinetobacter baumannii strain MRSN11746,ceftazidime,64
+5545,Acinetobacter baumannii strain MRSN11746,ceftazidime,16
+5547,Acinetobacter baumannii strain MRSN11747,ceftazidime,16
+5552,Acinetobacter baumannii strain MRSN11760,ceftazidime,16
+5553,Acinetobacter baumannii strain MRSN11760,ceftazidime,16
+5558,Acinetobacter baumannii strain MRSN11765,ceftazidime,4
+5559,Acinetobacter baumannii strain MRSN11765,ceftazidime,2
+5566,Acinetobacter baumannii strain MRSN11772,ceftazidime,16
+5567,Acinetobacter baumannii strain MRSN11772,ceftazidime,64
+5569,Acinetobacter baumannii strain MRSN11774,ceftazidime,64
+5570,Acinetobacter baumannii strain MRSN11774,ceftazidime,16
+5577,Acinetobacter baumannii strain MRSN11783,ceftazidime,16
+5580,Acinetobacter baumannii strain MRSN11788,ceftazidime,16
+5587,Acinetobacter baumannii strain MRSN11797,ceftazidime,16
+5590,Acinetobacter baumannii strain MRSN11803,ceftazidime,16
+5592,Acinetobacter baumannii strain MRSN11804,ceftazidime,16
+5594,Acinetobacter baumannii strain MRSN11806,ceftazidime,16
+5596,Acinetobacter baumannii strain MRSN11807,ceftazidime,16
+5598,Acinetobacter baumannii strain MRSN11811,ceftazidime,16
+5600,Acinetobacter baumannii strain MRSN11812,ceftazidime,16
+5602,Acinetobacter baumannii strain MRSN11813,ceftazidime,16
+5604,Acinetobacter baumannii strain MRSN11815,ceftazidime,4
+5606,Acinetobacter baumannii strain MRSN11816,ceftazidime,4
+5608,Acinetobacter baumannii strain MRSN11820,ceftazidime,16
+5610,Acinetobacter baumannii strain MRSN11821,ceftazidime,4
+5612,Acinetobacter baumannii strain MRSN11822,ceftazidime,8
+5614,Acinetobacter baumannii strain MRSN11823,ceftazidime,16
+5618,Acinetobacter baumannii strain MRSN1309,ceftazidime,64
+5620,Acinetobacter baumannii strain MRSN1339,ceftazidime,8
+5621,Acinetobacter baumannii strain MRSN1339,ceftazidime,4
+5623,Acinetobacter baumannii strain MRSN1410,ceftazidime,16
+5625,Acinetobacter baumannii strain MRSN1420,ceftazidime,64
+5627,Acinetobacter baumannii strain MRSN1428,ceftazidime,2
+5630,Acinetobacter baumannii strain MRSN1450,ceftazidime,16
+5632,Acinetobacter baumannii strain MRSN1461,ceftazidime,16
+5636,Acinetobacter baumannii strain MRSN15039,ceftazidime,16
+5640,Acinetobacter baumannii strain MRSN15045,ceftazidime,8
+5642,Acinetobacter baumannii strain MRSN15046,ceftazidime,4
+5645,Acinetobacter baumannii strain MRSN15048,ceftazidime,16
+5648,Acinetobacter baumannii strain MRSN15065,ceftazidime,16
+5650,Acinetobacter baumannii strain MRSN15066,ceftazidime,16
+5654,Acinetobacter baumannii strain MRSN15070,ceftazidime,4
+5662,Acinetobacter baumannii strain MRSN15079,ceftazidime,16
+5665,Acinetobacter baumannii strain MRSN15081,ceftazidime,16
+5669,Acinetobacter baumannii strain MRSN15084,ceftazidime,8
+5670,Acinetobacter baumannii strain MRSN15084,ceftazidime,8
+5672,Acinetobacter baumannii strain MRSN15085,ceftazidime,16
+5674,Acinetobacter baumannii strain MRSN15086,ceftazidime,8
+5678,Acinetobacter baumannii strain MRSN1551,ceftazidime,8
+5680,Acinetobacter baumannii strain MRSN1598,ceftazidime,4
+5682,Acinetobacter baumannii strain MRSN16874,ceftazidime,16
+5684,Acinetobacter baumannii strain MRSN16881,ceftazidime,4
+5686,Acinetobacter baumannii strain MRSN16882,ceftazidime,4
+5688,Acinetobacter baumannii strain MRSN16896,ceftazidime,2
+5690,Acinetobacter baumannii strain MRSN16897,ceftazidime,4
+5692,Acinetobacter baumannii strain MRSN16898,ceftazidime,4
+5694,Acinetobacter baumannii strain MRSN16901,ceftazidime,4
+5696,Acinetobacter baumannii strain MRSN1738,ceftazidime,64
+5699,Acinetobacter baumannii strain MRSN17593,ceftazidime,8
+5701,Acinetobacter baumannii strain MRSN1967,ceftazidime,16
+5705,Acinetobacter baumannii strain MRSN1987,ceftazidime,64
+5707,Acinetobacter baumannii strain MRSN1988,ceftazidime,64
+5709,Acinetobacter baumannii strain MRSN1992,ceftazidime,64
+5711,Acinetobacter baumannii strain MRSN1998,ceftazidime,16
+5714,Acinetobacter baumannii strain MRSN2021,ceftazidime,64
+5716,Acinetobacter baumannii strain MRSN2024,ceftazidime,16
+5718,Acinetobacter baumannii strain MRSN20315,ceftazidime,16
+5720,Acinetobacter baumannii strain MRSN20755,ceftazidime,16
+5722,Acinetobacter baumannii strain MRSN2427,ceftazidime,64
+5723,Acinetobacter baumannii strain MRSN2427,ceftazidime,16
+5725,Acinetobacter baumannii strain MRSN2441,ceftazidime,16
+5726,Acinetobacter baumannii strain MRSN2441,ceftazidime,16
+5728,Acinetobacter baumannii strain MRSN2821,ceftazidime,8
+5729,Acinetobacter baumannii strain MRSN2821,ceftazidime,4
+5731,Acinetobacter baumannii strain MRSN2830,ceftazidime,1
+5732,Acinetobacter baumannii strain MRSN2830,ceftazidime,2
+5734,Acinetobacter baumannii strain MRSN2839,ceftazidime,16
+5735,Acinetobacter baumannii strain MRSN2839,ceftazidime,16
+5737,Acinetobacter baumannii strain MRSN2840,ceftazidime,16
+5738,Acinetobacter baumannii strain MRSN2840,ceftazidime,64
+5740,Acinetobacter baumannii strain MRSN3360,ceftazidime,4
+5742,Acinetobacter baumannii strain MRSN3547,ceftazidime,16
+5744,Acinetobacter baumannii strain MRSN3607,ceftazidime,16
+5746,Acinetobacter baumannii strain MRSN3843,ceftazidime,4
+5748,Acinetobacter baumannii strain MRSN3851,ceftazidime,16
+5750,Acinetobacter baumannii strain MRSN3941,ceftazidime,16
+5751,Acinetobacter baumannii strain MRSN3941,ceftazidime,16
+5753,Acinetobacter baumannii strain MRSN4119,ceftazidime,64
+5754,Acinetobacter baumannii strain MRSN4119,ceftazidime,16
+5756,Acinetobacter baumannii strain MRSN4481,ceftazidime,16
+5758,Acinetobacter baumannii strain MRSN5540,ceftazidime,64
+5759,Acinetobacter baumannii strain MRSN5540,ceftazidime,16
+5761,Acinetobacter baumannii strain MRSN6269,ceftazidime,16
+5762,Acinetobacter baumannii strain MRSN6269,ceftazidime,64
+5764,Acinetobacter baumannii strain MRSN6273,ceftazidime,16
+5765,Acinetobacter baumannii strain MRSN6273,ceftazidime,64
+5768,Acinetobacter baumannii strain MRSN7069,ceftazidime,8
+5771,Acinetobacter baumannii strain MRSN7072,ceftazidime,16
+5772,Acinetobacter baumannii strain MRSN7072,ceftazidime,64
+5778,Acinetobacter baumannii strain MRSN7081,ceftazidime,64
+5779,Acinetobacter baumannii strain MRSN7081,ceftazidime,16
+5782,Acinetobacter baumannii strain MRSN7086,ceftazidime,16
+5783,Acinetobacter baumannii strain MRSN7086,ceftazidime,64
+5789,Acinetobacter baumannii strain MRSN7108,ceftazidime,16
+5790,Acinetobacter baumannii strain MRSN7108,ceftazidime,64
+5801,Acinetobacter baumannii strain MRSN7128,ceftazidime,64
+5802,Acinetobacter baumannii strain MRSN7128,ceftazidime,16
+5808,Acinetobacter baumannii strain MRSN7134,ceftazidime,64
+5809,Acinetobacter baumannii strain MRSN7134,ceftazidime,16
+5823,Acinetobacter baumannii strain MRSN7155,ceftazidime,16
+5824,Acinetobacter baumannii strain MRSN7155,ceftazidime,64
+5831,Acinetobacter baumannii strain MRSN7161,ceftazidime,16
+5832,Acinetobacter baumannii strain MRSN7161,ceftazidime,16
+5844,Acinetobacter baumannii strain MRSN7173,ceftazidime,16
+5845,Acinetobacter baumannii strain MRSN7173,ceftazidime,16
+5850,Acinetobacter baumannii strain MRSN7184,ceftazidime,16
+5851,Acinetobacter baumannii strain MRSN7184,ceftazidime,64
+5857,Acinetobacter baumannii strain MRSN7204,ceftazidime,4
+5866,Acinetobacter baumannii strain MRSN7220,ceftazidime,16
+5867,Acinetobacter baumannii strain MRSN7220,ceftazidime,64
+5870,Acinetobacter baumannii strain MRSN7222,ceftazidime,16
+5871,Acinetobacter baumannii strain MRSN7222,ceftazidime,64
+5873,Acinetobacter baumannii strain MRSN7223,ceftazidime,8
+5874,Acinetobacter baumannii strain MRSN7223,ceftazidime,8
+5880,Acinetobacter baumannii strain MRSN7232,ceftazidime,16
+5881,Acinetobacter baumannii strain MRSN7232,ceftazidime,16
+5883,Acinetobacter baumannii strain MRSN7234,ceftazidime,16
+5884,Acinetobacter baumannii strain MRSN7234,ceftazidime,64
+5886,Acinetobacter baumannii strain MRSN7235,ceftazidime,64
+5887,Acinetobacter baumannii strain MRSN7235,ceftazidime,16
+5889,Acinetobacter baumannii strain MRSN7236,ceftazidime,16
+5890,Acinetobacter baumannii strain MRSN7236,ceftazidime,16
+5893,Acinetobacter baumannii strain MRSN7238,ceftazidime,16
+5894,Acinetobacter baumannii strain MRSN7238,ceftazidime,64
+5922,Acinetobacter baumannii strain MRSN7279,ceftazidime,16
+5923,Acinetobacter baumannii strain MRSN7279,ceftazidime,64
+5926,Acinetobacter baumannii strain MRSN7281,ceftazidime,64
+5927,Acinetobacter baumannii strain MRSN7281,ceftazidime,16
+5930,Acinetobacter baumannii strain MRSN7284,ceftazidime,64
+5931,Acinetobacter baumannii strain MRSN7284,ceftazidime,16
+5944,Acinetobacter baumannii strain MRSN7310,ceftazidime,16
+5945,Acinetobacter baumannii strain MRSN7310,ceftazidime,64
+5962,Acinetobacter baumannii strain MRSN7344,ceftazidime,64
+5963,Acinetobacter baumannii strain MRSN7344,ceftazidime,16
+5965,Acinetobacter baumannii strain MRSN7345,ceftazidime,4
+5966,Acinetobacter baumannii strain MRSN7345,ceftazidime,4
+5969,Acinetobacter baumannii strain MRSN7347,ceftazidime,4
+5970,Acinetobacter baumannii strain MRSN7347,ceftazidime,8
+5973,Acinetobacter baumannii strain MRSN7349,ceftazidime,16
+5974,Acinetobacter baumannii strain MRSN7349,ceftazidime,16
+5983,Acinetobacter baumannii strain MRSN7365,ceftazidime,16
+5984,Acinetobacter baumannii strain MRSN7365,ceftazidime,64
+5996,Acinetobacter baumannii strain MRSN7391,ceftazidime,8
+6002,Acinetobacter baumannii strain MRSN7401,ceftazidime,4
+6005,Acinetobacter baumannii strain MRSN7404,ceftazidime,8
+6007,Acinetobacter baumannii strain MRSN7405,ceftazidime,16
+6008,Acinetobacter baumannii strain MRSN7405,ceftazidime,16
+6016,Acinetobacter baumannii strain MRSN7417,ceftazidime,64
+6017,Acinetobacter baumannii strain MRSN7417,ceftazidime,16
+6027,Acinetobacter baumannii strain MRSN7441,ceftazidime,16
+6028,Acinetobacter baumannii strain MRSN7441,ceftazidime,16
+6031,Acinetobacter baumannii strain MRSN7447,ceftazidime,16
+6032,Acinetobacter baumannii strain MRSN7447,ceftazidime,16
+6034,Acinetobacter baumannii strain MRSN7448,ceftazidime,16
+6035,Acinetobacter baumannii strain MRSN7448,ceftazidime,16
+6037,Acinetobacter baumannii strain MRSN7454,ceftazidime,8
+6042,Acinetobacter baumannii strain MRSN7460,ceftazidime,4
+6043,Acinetobacter baumannii strain MRSN7460,ceftazidime,4
+6047,Acinetobacter baumannii strain MRSN7468,ceftazidime,16
+6048,Acinetobacter baumannii strain MRSN7468,ceftazidime,64
+6050,Acinetobacter baumannii strain MRSN7469,ceftazidime,64
+6051,Acinetobacter baumannii strain MRSN7469,ceftazidime,16
+6056,Acinetobacter baumannii strain MRSN7474,ceftazidime,4
+6057,Acinetobacter baumannii strain MRSN7474,ceftazidime,8
+6060,Acinetobacter baumannii strain MRSN7478,ceftazidime,64
+6061,Acinetobacter baumannii strain MRSN7478,ceftazidime,16
+6075,Acinetobacter baumannii strain MRSN7497,ceftazidime,16
+6076,Acinetobacter baumannii strain MRSN7497,ceftazidime,16
+6078,Acinetobacter baumannii strain MRSN7498,ceftazidime,8
+6094,Acinetobacter baumannii strain MRSN7521,ceftazidime,16
+6095,Acinetobacter baumannii strain MRSN7521,ceftazidime,64
+6113,Acinetobacter baumannii strain MRSN7557,ceftazidime,4
+6116,Acinetobacter baumannii strain MRSN7560,ceftazidime,8
+6125,Acinetobacter baumannii strain MRSN7570,ceftazidime,16
+6126,Acinetobacter baumannii strain MRSN7570,ceftazidime,64
+6131,Acinetobacter baumannii strain MRSN7578,ceftazidime,8
+6144,Acinetobacter baumannii strain MRSN7599,ceftazidime,8
+6156,Acinetobacter baumannii strain MRSN7629,ceftazidime,64
+6157,Acinetobacter baumannii strain MRSN7629,ceftazidime,16
+6160,Acinetobacter baumannii strain MRSN7636,ceftazidime,8
+6173,Acinetobacter baumannii strain MRSN7655,ceftazidime,8
+6174,Acinetobacter baumannii strain MRSN7655,ceftazidime,2
+6181,Acinetobacter baumannii strain MRSN7668,ceftazidime,16
+6182,Acinetobacter baumannii strain MRSN7668,ceftazidime,16
+6191,Acinetobacter baumannii strain MRSN7677,ceftazidime,8
+6209,Acinetobacter baumannii strain MRSN7707,ceftazidime,16
+6210,Acinetobacter baumannii strain MRSN7707,ceftazidime,16
+6220,Acinetobacter baumannii strain MRSN7718,ceftazidime,64
+6221,Acinetobacter baumannii strain MRSN7718,ceftazidime,16
+6229,Acinetobacter baumannii strain MRSN7730,ceftazidime,64
+6230,Acinetobacter baumannii strain MRSN7730,ceftazidime,16
+6247,Acinetobacter baumannii strain MRSN7776,ceftazidime,16
+6248,Acinetobacter baumannii strain MRSN7776,ceftazidime,16
+6254,Acinetobacter baumannii strain MRSN7790,ceftazidime,16
+6255,Acinetobacter baumannii strain MRSN7790,ceftazidime,64
+6273,Acinetobacter baumannii strain MRSN7822,ceftazidime,16
+6281,Acinetobacter baumannii strain MRSN83,ceftazidime,16
+6282,Acinetobacter baumannii strain MRSN83,ceftazidime,64
+6284,Acinetobacter baumannii strain MRSN85,ceftazidime,16
+6285,Acinetobacter baumannii strain MRSN85,ceftazidime,16
+6291,Acinetobacter baumannii strain MRSN888,ceftazidime,64
+6294,Acinetobacter baumannii strain MRSN8899,ceftazidime,16
+6295,Acinetobacter baumannii strain MRSN8899,ceftazidime,64
+6297,Acinetobacter baumannii strain MRSN89,ceftazidime,16
+6298,Acinetobacter baumannii strain MRSN89,ceftazidime,64
+6300,Acinetobacter baumannii strain MRSN890,ceftazidime,16
+6302,Acinetobacter baumannii strain MRSN8900,ceftazidime,16
+6303,Acinetobacter baumannii strain MRSN8900,ceftazidime,16
+6305,Acinetobacter baumannii strain MRSN8901,ceftazidime,64
+6306,Acinetobacter baumannii strain MRSN8901,ceftazidime,16
+6308,Acinetobacter baumannii strain MRSN8902,ceftazidime,16
+6309,Acinetobacter baumannii strain MRSN8902,ceftazidime,64
+6311,Acinetobacter baumannii strain MRSN8903,ceftazidime,64
+6312,Acinetobacter baumannii strain MRSN8903,ceftazidime,16
+6316,Acinetobacter baumannii strain MRSN899,ceftazidime,64
+6319,Acinetobacter baumannii strain MRSN908,ceftazidime,16
+6320,Acinetobacter baumannii strain MRSN908,ceftazidime,64
+6322,Acinetobacter baumannii strain MRSN909,ceftazidime,16
+6324,Acinetobacter baumannii strain MRSN910,ceftazidime,16
+6326,Acinetobacter baumannii strain MRSN915,ceftazidime,16
+6328,Acinetobacter baumannii strain MRSN916,ceftazidime,64
+6330,Acinetobacter baumannii strain MRSN917,ceftazidime,16
+6332,Acinetobacter baumannii strain MRSN919,ceftazidime,64
+6334,Acinetobacter baumannii strain MRSN920,ceftazidime,64
+6336,Acinetobacter baumannii strain MRSN921,ceftazidime,16
+6339,Acinetobacter baumannii strain MRSN926,ceftazidime,16
+6341,Acinetobacter baumannii strain MRSN927,ceftazidime,16
+6343,Acinetobacter baumannii strain MRSN929,ceftazidime,64
+6345,Acinetobacter baumannii strain MRSN939,ceftazidime,64
+6347,Acinetobacter baumannii strain MRSN946,ceftazidime,16
+6349,Acinetobacter baumannii strain MRSN953,ceftazidime,16
+6351,Acinetobacter baumannii strain MRSN966,ceftazidime,16
+6410,Acinetobacter baumannii strain MRSN10371,ceftriaxone,64
+6411,Acinetobacter baumannii strain MRSN10371,ceftriaxone,32
+6414,Acinetobacter baumannii strain MRSN11653,ceftriaxone,32
+6415,Acinetobacter baumannii strain MRSN11653,ceftriaxone,64
+6417,Acinetobacter baumannii strain MRSN11659,ceftriaxone,32
+6418,Acinetobacter baumannii strain MRSN11659,ceftriaxone,64
+6420,Acinetobacter baumannii strain MRSN11660,ceftriaxone,32
+6421,Acinetobacter baumannii strain MRSN11660,ceftriaxone,32
+6423,Acinetobacter baumannii strain MRSN11674,ceftriaxone,32
+6424,Acinetobacter baumannii strain MRSN11674,ceftriaxone,32
+6426,Acinetobacter baumannii strain MRSN11675,ceftriaxone,32
+6427,Acinetobacter baumannii strain MRSN11675,ceftriaxone,32
+6429,Acinetobacter baumannii strain MRSN11679,ceftriaxone,64
+6430,Acinetobacter baumannii strain MRSN11679,ceftriaxone,32
+6435,Acinetobacter baumannii strain MRSN11688,ceftriaxone,32
+6436,Acinetobacter baumannii strain MRSN11688,ceftriaxone,32
+6442,Acinetobacter baumannii strain MRSN11701,ceftriaxone,32
+6443,Acinetobacter baumannii strain MRSN11701,ceftriaxone,32
+6445,Acinetobacter baumannii strain MRSN11705,ceftriaxone,64
+6446,Acinetobacter baumannii strain MRSN11705,ceftriaxone,32
+6448,Acinetobacter baumannii strain MRSN11706,ceftriaxone,32
+6449,Acinetobacter baumannii strain MRSN11706,ceftriaxone,64
+6452,Acinetobacter baumannii strain MRSN11708,ceftriaxone,32
+6453,Acinetobacter baumannii strain MRSN11708,ceftriaxone,64
+6456,Acinetobacter baumannii strain MRSN11710,ceftriaxone,64
+6457,Acinetobacter baumannii strain MRSN11710,ceftriaxone,32
+6460,Acinetobacter baumannii strain MRSN11713,ceftriaxone,32
+6461,Acinetobacter baumannii strain MRSN11713,ceftriaxone,64
+6468,Acinetobacter baumannii strain MRSN11723,ceftriaxone,32
+6469,Acinetobacter baumannii strain MRSN11723,ceftriaxone,32
+6474,Acinetobacter baumannii strain MRSN11729,ceftriaxone,32
+6475,Acinetobacter baumannii strain MRSN11729,ceftriaxone,32
+6481,Acinetobacter baumannii strain MRSN11739,ceftriaxone,32
+6482,Acinetobacter baumannii strain MRSN11739,ceftriaxone,64
+6484,Acinetobacter baumannii strain MRSN11742,ceftriaxone,32
+6485,Acinetobacter baumannii strain MRSN11742,ceftriaxone,64
+6488,Acinetobacter baumannii strain MRSN11745,ceftriaxone,64
+6489,Acinetobacter baumannii strain MRSN11745,ceftriaxone,32
+6491,Acinetobacter baumannii strain MRSN11746,ceftriaxone,64
+6492,Acinetobacter baumannii strain MRSN11746,ceftriaxone,32
+6494,Acinetobacter baumannii strain MRSN11747,ceftriaxone,32
+6495,Acinetobacter baumannii strain MRSN11747,ceftriaxone,64
+6498,Acinetobacter baumannii strain MRSN11749,ceftriaxone,32
+6499,Acinetobacter baumannii strain MRSN11749,ceftriaxone,64
+6501,Acinetobacter baumannii strain MRSN11750,ceftriaxone,32
+6502,Acinetobacter baumannii strain MRSN11750,ceftriaxone,32
+6505,Acinetobacter baumannii strain MRSN11753,ceftriaxone,64
+6506,Acinetobacter baumannii strain MRSN11753,ceftriaxone,32
+6510,Acinetobacter baumannii strain MRSN11760,ceftriaxone,64
+6511,Acinetobacter baumannii strain MRSN11760,ceftriaxone,32
+6523,Acinetobacter baumannii strain MRSN11772,ceftriaxone,64
+6524,Acinetobacter baumannii strain MRSN11772,ceftriaxone,32
+6526,Acinetobacter baumannii strain MRSN11774,ceftriaxone,32
+6527,Acinetobacter baumannii strain MRSN11774,ceftriaxone,32
+6533,Acinetobacter baumannii strain MRSN11783,ceftriaxone,32
+6534,Acinetobacter baumannii strain MRSN11783,ceftriaxone,64
+6537,Acinetobacter baumannii strain MRSN11788,ceftriaxone,32
+6538,Acinetobacter baumannii strain MRSN11788,ceftriaxone,32
+6545,Acinetobacter baumannii strain MRSN11797,ceftriaxone,64
+6546,Acinetobacter baumannii strain MRSN11797,ceftriaxone,32
+6548,Acinetobacter baumannii strain MRSN11801,ceftriaxone,64
+6550,Acinetobacter baumannii strain MRSN11803,ceftriaxone,32
+6551,Acinetobacter baumannii strain MRSN11803,ceftriaxone,32
+6553,Acinetobacter baumannii strain MRSN11804,ceftriaxone,32
+6554,Acinetobacter baumannii strain MRSN11804,ceftriaxone,64
+6556,Acinetobacter baumannii strain MRSN11806,ceftriaxone,32
+6557,Acinetobacter baumannii strain MRSN11806,ceftriaxone,32
+6559,Acinetobacter baumannii strain MRSN11807,ceftriaxone,64
+6560,Acinetobacter baumannii strain MRSN11807,ceftriaxone,32
+6562,Acinetobacter baumannii strain MRSN11811,ceftriaxone,32
+6563,Acinetobacter baumannii strain MRSN11811,ceftriaxone,32
+6565,Acinetobacter baumannii strain MRSN11812,ceftriaxone,64
+6566,Acinetobacter baumannii strain MRSN11812,ceftriaxone,32
+6568,Acinetobacter baumannii strain MRSN11813,ceftriaxone,32
+6569,Acinetobacter baumannii strain MRSN11813,ceftriaxone,32
+6573,Acinetobacter baumannii strain MRSN11820,ceftriaxone,32
+6574,Acinetobacter baumannii strain MRSN11820,ceftriaxone,32
+6577,Acinetobacter baumannii strain MRSN11823,ceftriaxone,64
+6578,Acinetobacter baumannii strain MRSN11823,ceftriaxone,32
+6580,Acinetobacter baumannii strain MRSN11825,ceftriaxone,32
+6584,Acinetobacter baumannii strain MRSN1309,ceftriaxone,32
+6586,Acinetobacter baumannii strain MRSN1410,ceftriaxone,32
+6588,Acinetobacter baumannii strain MRSN1420,ceftriaxone,64
+6593,Acinetobacter baumannii strain MRSN1450,ceftriaxone,32
+6595,Acinetobacter baumannii strain MRSN1461,ceftriaxone,64
+6598,Acinetobacter baumannii strain MRSN15038,ceftriaxone,32
+6600,Acinetobacter baumannii strain MRSN15039,ceftriaxone,64
+6601,Acinetobacter baumannii strain MRSN15039,ceftriaxone,32
+6603,Acinetobacter baumannii strain MRSN15042,ceftriaxone,32
+6604,Acinetobacter baumannii strain MRSN15042,ceftriaxone,64
+6609,Acinetobacter baumannii strain MRSN15046,ceftriaxone,8
+6610,Acinetobacter baumannii strain MRSN15046,ceftriaxone,8
+6613,Acinetobacter baumannii strain MRSN15048,ceftriaxone,32
+6614,Acinetobacter baumannii strain MRSN15048,ceftriaxone,32
+6617,Acinetobacter baumannii strain MRSN15065,ceftriaxone,32
+6618,Acinetobacter baumannii strain MRSN15065,ceftriaxone,64
+6620,Acinetobacter baumannii strain MRSN15066,ceftriaxone,64
+6621,Acinetobacter baumannii strain MRSN15066,ceftriaxone,32
+6630,Acinetobacter baumannii strain MRSN15079,ceftriaxone,32
+6631,Acinetobacter baumannii strain MRSN15079,ceftriaxone,32
+6634,Acinetobacter baumannii strain MRSN15081,ceftriaxone,64
+6635,Acinetobacter baumannii strain MRSN15081,ceftriaxone,32
+6638,Acinetobacter baumannii strain MRSN15084,ceftriaxone,32
+6639,Acinetobacter baumannii strain MRSN15084,ceftriaxone,32
+6640,Acinetobacter baumannii strain MRSN15084,ceftriaxone,64
+6642,Acinetobacter baumannii strain MRSN15085,ceftriaxone,64
+6643,Acinetobacter baumannii strain MRSN15085,ceftriaxone,32
+6645,Acinetobacter baumannii strain MRSN15086,ceftriaxone,64
+6646,Acinetobacter baumannii strain MRSN15086,ceftriaxone,32
+6649,Acinetobacter baumannii strain MRSN16874,ceftriaxone,32
+6650,Acinetobacter baumannii strain MRSN16874,ceftriaxone,32
+6652,Acinetobacter baumannii strain MRSN16882,ceftriaxone,8
+6657,Acinetobacter baumannii strain MRSN1738,ceftriaxone,32
+6661,Acinetobacter baumannii strain MRSN1967,ceftriaxone,32
+6665,Acinetobacter baumannii strain MRSN1980,ceftriaxone,32
+6667,Acinetobacter baumannii strain MRSN1987,ceftriaxone,32
+6669,Acinetobacter baumannii strain MRSN1988,ceftriaxone,32
+6671,Acinetobacter baumannii strain MRSN1992,ceftriaxone,32
+6673,Acinetobacter baumannii strain MRSN1998,ceftriaxone,64
+6676,Acinetobacter baumannii strain MRSN2021,ceftriaxone,32
+6678,Acinetobacter baumannii strain MRSN2024,ceftriaxone,64
+6680,Acinetobacter baumannii strain MRSN20315,ceftriaxone,64
+6681,Acinetobacter baumannii strain MRSN20315,ceftriaxone,32
+6683,Acinetobacter baumannii strain MRSN20755,ceftriaxone,32
+6684,Acinetobacter baumannii strain MRSN20755,ceftriaxone,32
+6686,Acinetobacter baumannii strain MRSN2427,ceftriaxone,32
+6687,Acinetobacter baumannii strain MRSN2427,ceftriaxone,64
+6689,Acinetobacter baumannii strain MRSN2441,ceftriaxone,64
+6690,Acinetobacter baumannii strain MRSN2441,ceftriaxone,32
+6692,Acinetobacter baumannii strain MRSN2821,ceftriaxone,8
+6694,Acinetobacter baumannii strain MRSN2830,ceftriaxone,8
+6695,Acinetobacter baumannii strain MRSN2830,ceftriaxone,8
+6697,Acinetobacter baumannii strain MRSN2839,ceftriaxone,64
+6698,Acinetobacter baumannii strain MRSN2839,ceftriaxone,32
+6700,Acinetobacter baumannii strain MRSN2840,ceftriaxone,32
+6701,Acinetobacter baumannii strain MRSN2840,ceftriaxone,64
+6704,Acinetobacter baumannii strain MRSN3547,ceftriaxone,64
+6706,Acinetobacter baumannii strain MRSN3607,ceftriaxone,64
+6708,Acinetobacter baumannii strain MRSN3851,ceftriaxone,32
+6710,Acinetobacter baumannii strain MRSN3941,ceftriaxone,32
+6711,Acinetobacter baumannii strain MRSN3941,ceftriaxone,64
+6713,Acinetobacter baumannii strain MRSN4119,ceftriaxone,32
+6714,Acinetobacter baumannii strain MRSN4119,ceftriaxone,32
+6716,Acinetobacter baumannii strain MRSN4481,ceftriaxone,64
+6718,Acinetobacter baumannii strain MRSN5540,ceftriaxone,32
+6719,Acinetobacter baumannii strain MRSN5540,ceftriaxone,32
+6721,Acinetobacter baumannii strain MRSN6269,ceftriaxone,64
+6722,Acinetobacter baumannii strain MRSN6269,ceftriaxone,32
+6724,Acinetobacter baumannii strain MRSN6273,ceftriaxone,64
+6725,Acinetobacter baumannii strain MRSN6273,ceftriaxone,32
+6730,Acinetobacter baumannii strain MRSN7072,ceftriaxone,64
+6731,Acinetobacter baumannii strain MRSN7072,ceftriaxone,32
+6737,Acinetobacter baumannii strain MRSN7081,ceftriaxone,32
+6738,Acinetobacter baumannii strain MRSN7081,ceftriaxone,64
+6741,Acinetobacter baumannii strain MRSN7086,ceftriaxone,64
+6742,Acinetobacter baumannii strain MRSN7086,ceftriaxone,32
+6749,Acinetobacter baumannii strain MRSN7108,ceftriaxone,64
+6750,Acinetobacter baumannii strain MRSN7108,ceftriaxone,32
+6763,Acinetobacter baumannii strain MRSN7128,ceftriaxone,32
+6764,Acinetobacter baumannii strain MRSN7128,ceftriaxone,64
+6770,Acinetobacter baumannii strain MRSN7134,ceftriaxone,64
+6771,Acinetobacter baumannii strain MRSN7134,ceftriaxone,32
+6781,Acinetobacter baumannii strain MRSN7147,ceftriaxone,32
+6782,Acinetobacter baumannii strain MRSN7147,ceftriaxone,64
+6784,Acinetobacter baumannii strain MRSN7149,ceftriaxone,32
+6785,Acinetobacter baumannii strain MRSN7149,ceftriaxone,64
+6787,Acinetobacter baumannii strain MRSN7154,ceftriaxone,64
+6788,Acinetobacter baumannii strain MRSN7154,ceftriaxone,32
+6790,Acinetobacter baumannii strain MRSN7155,ceftriaxone,64
+6791,Acinetobacter baumannii strain MRSN7155,ceftriaxone,32
+6797,Acinetobacter baumannii strain MRSN7160,ceftriaxone,64
+6798,Acinetobacter baumannii strain MRSN7160,ceftriaxone,32
+6800,Acinetobacter baumannii strain MRSN7161,ceftriaxone,32
+6801,Acinetobacter baumannii strain MRSN7161,ceftriaxone,64
+6810,Acinetobacter baumannii strain MRSN7170,ceftriaxone,64
+6811,Acinetobacter baumannii strain MRSN7170,ceftriaxone,32
+6815,Acinetobacter baumannii strain MRSN7173,ceftriaxone,32
+6816,Acinetobacter baumannii strain MRSN7173,ceftriaxone,64
+6821,Acinetobacter baumannii strain MRSN7184,ceftriaxone,32
+6822,Acinetobacter baumannii strain MRSN7184,ceftriaxone,32
+6835,Acinetobacter baumannii strain MRSN7217,ceftriaxone,64
+6836,Acinetobacter baumannii strain MRSN7217,ceftriaxone,32
+6839,Acinetobacter baumannii strain MRSN7220,ceftriaxone,32
+6840,Acinetobacter baumannii strain MRSN7220,ceftriaxone,64
+6843,Acinetobacter baumannii strain MRSN7222,ceftriaxone,64
+6844,Acinetobacter baumannii strain MRSN7222,ceftriaxone,32
+6853,Acinetobacter baumannii strain MRSN7232,ceftriaxone,64
+6854,Acinetobacter baumannii strain MRSN7232,ceftriaxone,32
+6856,Acinetobacter baumannii strain MRSN7234,ceftriaxone,32
+6857,Acinetobacter baumannii strain MRSN7234,ceftriaxone,32
+6859,Acinetobacter baumannii strain MRSN7235,ceftriaxone,32
+6860,Acinetobacter baumannii strain MRSN7235,ceftriaxone,64
+6862,Acinetobacter baumannii strain MRSN7236,ceftriaxone,32
+6863,Acinetobacter baumannii strain MRSN7236,ceftriaxone,64
+6866,Acinetobacter baumannii strain MRSN7238,ceftriaxone,32
+6867,Acinetobacter baumannii strain MRSN7238,ceftriaxone,64
+6883,Acinetobacter baumannii strain MRSN7257,ceftriaxone,32
+6884,Acinetobacter baumannii strain MRSN7257,ceftriaxone,64
+6894,Acinetobacter baumannii strain MRSN7273,ceftriaxone,32
+6895,Acinetobacter baumannii strain MRSN7273,ceftriaxone,64
+6899,Acinetobacter baumannii strain MRSN7279,ceftriaxone,64
+6900,Acinetobacter baumannii strain MRSN7279,ceftriaxone,32
+6903,Acinetobacter baumannii strain MRSN7281,ceftriaxone,32
+6904,Acinetobacter baumannii strain MRSN7281,ceftriaxone,32
+6907,Acinetobacter baumannii strain MRSN7284,ceftriaxone,64
+6908,Acinetobacter baumannii strain MRSN7284,ceftriaxone,32
+6924,Acinetobacter baumannii strain MRSN7304,ceftriaxone,32
+6925,Acinetobacter baumannii strain MRSN7304,ceftriaxone,64
+6927,Acinetobacter baumannii strain MRSN7305,ceftriaxone,64
+6928,Acinetobacter baumannii strain MRSN7305,ceftriaxone,32
+6930,Acinetobacter baumannii strain MRSN7306,ceftriaxone,64
+6931,Acinetobacter baumannii strain MRSN7306,ceftriaxone,32
+6934,Acinetobacter baumannii strain MRSN7309,ceftriaxone,32
+6935,Acinetobacter baumannii strain MRSN7309,ceftriaxone,64
+6937,Acinetobacter baumannii strain MRSN7310,ceftriaxone,32
+6938,Acinetobacter baumannii strain MRSN7310,ceftriaxone,32
+6941,Acinetobacter baumannii strain MRSN7314,ceftriaxone,64
+6942,Acinetobacter baumannii strain MRSN7314,ceftriaxone,32
+6949,Acinetobacter baumannii strain MRSN7324,ceftriaxone,32
+6950,Acinetobacter baumannii strain MRSN7324,ceftriaxone,32
+6954,Acinetobacter baumannii strain MRSN7328,ceftriaxone,32
+6955,Acinetobacter baumannii strain MRSN7328,ceftriaxone,64
+6957,Acinetobacter baumannii strain MRSN7330,ceftriaxone,64
+6958,Acinetobacter baumannii strain MRSN7330,ceftriaxone,32
+6965,Acinetobacter baumannii strain MRSN7344,ceftriaxone,32
+6966,Acinetobacter baumannii strain MRSN7344,ceftriaxone,32
+6968,Acinetobacter baumannii strain MRSN7345,ceftriaxone,4
+6972,Acinetobacter baumannii strain MRSN7349,ceftriaxone,32
+6973,Acinetobacter baumannii strain MRSN7349,ceftriaxone,32
+6975,Acinetobacter baumannii strain MRSN7350,ceftriaxone,64
+6976,Acinetobacter baumannii strain MRSN7350,ceftriaxone,32
+6980,Acinetobacter baumannii strain MRSN7354,ceftriaxone,32
+6981,Acinetobacter baumannii strain MRSN7354,ceftriaxone,32
+6983,Acinetobacter baumannii strain MRSN7355,ceftriaxone,64
+6984,Acinetobacter baumannii strain MRSN7355,ceftriaxone,32
+6987,Acinetobacter baumannii strain MRSN7357,ceftriaxone,32
+6988,Acinetobacter baumannii strain MRSN7357,ceftriaxone,32
+6990,Acinetobacter baumannii strain MRSN7359,ceftriaxone,64
+6991,Acinetobacter baumannii strain MRSN7359,ceftriaxone,32
+6994,Acinetobacter baumannii strain MRSN7361,ceftriaxone,32
+6995,Acinetobacter baumannii strain MRSN7361,ceftriaxone,64
+6998,Acinetobacter baumannii strain MRSN7363,ceftriaxone,64
+6999,Acinetobacter baumannii strain MRSN7363,ceftriaxone,32
+7002,Acinetobacter baumannii strain MRSN7365,ceftriaxone,64
+7003,Acinetobacter baumannii strain MRSN7365,ceftriaxone,32
+7005,Acinetobacter baumannii strain MRSN7366,ceftriaxone,32
+7006,Acinetobacter baumannii strain MRSN7366,ceftriaxone,64
+7010,Acinetobacter baumannii strain MRSN7370,ceftriaxone,32
+7011,Acinetobacter baumannii strain MRSN7370,ceftriaxone,64
+7013,Acinetobacter baumannii strain MRSN7372,ceftriaxone,32
+7014,Acinetobacter baumannii strain MRSN7372,ceftriaxone,64
+7016,Acinetobacter baumannii strain MRSN7373,ceftriaxone,64
+7017,Acinetobacter baumannii strain MRSN7373,ceftriaxone,32
+7019,Acinetobacter baumannii strain MRSN7375,ceftriaxone,32
+7020,Acinetobacter baumannii strain MRSN7375,ceftriaxone,64
+7023,Acinetobacter baumannii strain MRSN7377,ceftriaxone,32
+7024,Acinetobacter baumannii strain MRSN7377,ceftriaxone,32
+7026,Acinetobacter baumannii strain MRSN7378,ceftriaxone,64
+7027,Acinetobacter baumannii strain MRSN7378,ceftriaxone,32
+7029,Acinetobacter baumannii strain MRSN7379,ceftriaxone,64
+7030,Acinetobacter baumannii strain MRSN7379,ceftriaxone,32
+7032,Acinetobacter baumannii strain MRSN7380,ceftriaxone,64
+7033,Acinetobacter baumannii strain MRSN7380,ceftriaxone,32
+7039,Acinetobacter baumannii strain MRSN7386,ceftriaxone,32
+7040,Acinetobacter baumannii strain MRSN7386,ceftriaxone,32
+7042,Acinetobacter baumannii strain MRSN7387,ceftriaxone,32
+7043,Acinetobacter baumannii strain MRSN7387,ceftriaxone,32
+7045,Acinetobacter baumannii strain MRSN7388,ceftriaxone,64
+7046,Acinetobacter baumannii strain MRSN7388,ceftriaxone,32
+7048,Acinetobacter baumannii strain MRSN7389,ceftriaxone,32
+7049,Acinetobacter baumannii strain MRSN7389,ceftriaxone,32
+7051,Acinetobacter baumannii strain MRSN7390,ceftriaxone,64
+7052,Acinetobacter baumannii strain MRSN7390,ceftriaxone,32
+7054,Acinetobacter baumannii strain MRSN7391,ceftriaxone,32
+7056,Acinetobacter baumannii strain MRSN7392,ceftriaxone,32
+7057,Acinetobacter baumannii strain MRSN7392,ceftriaxone,32
+7060,Acinetobacter baumannii strain MRSN7394,ceftriaxone,32
+7061,Acinetobacter baumannii strain MRSN7394,ceftriaxone,64
+7065,Acinetobacter baumannii strain MRSN7401,ceftriaxone,32
+7066,Acinetobacter baumannii strain MRSN7401,ceftriaxone,64
+7068,Acinetobacter baumannii strain MRSN7402,ceftriaxone,64
+7069,Acinetobacter baumannii strain MRSN7402,ceftriaxone,32
+7071,Acinetobacter baumannii strain MRSN7403,ceftriaxone,64
+7072,Acinetobacter baumannii strain MRSN7403,ceftriaxone,32
+7074,Acinetobacter baumannii strain MRSN7404,ceftriaxone,32
+7076,Acinetobacter baumannii strain MRSN7405,ceftriaxone,64
+7077,Acinetobacter baumannii strain MRSN7405,ceftriaxone,32
+7080,Acinetobacter baumannii strain MRSN7407,ceftriaxone,64
+7081,Acinetobacter baumannii strain MRSN7407,ceftriaxone,32
+7083,Acinetobacter baumannii strain MRSN7408,ceftriaxone,32
+7084,Acinetobacter baumannii strain MRSN7408,ceftriaxone,32
+7086,Acinetobacter baumannii strain MRSN7409,ceftriaxone,64
+7087,Acinetobacter baumannii strain MRSN7409,ceftriaxone,32
+7090,Acinetobacter baumannii strain MRSN7411,ceftriaxone,32
+7091,Acinetobacter baumannii strain MRSN7411,ceftriaxone,64
+7094,Acinetobacter baumannii strain MRSN7413,ceftriaxone,32
+7095,Acinetobacter baumannii strain MRSN7413,ceftriaxone,32
+7097,Acinetobacter baumannii strain MRSN7414,ceftriaxone,32
+7098,Acinetobacter baumannii strain MRSN7414,ceftriaxone,32
+7101,Acinetobacter baumannii strain MRSN7416,ceftriaxone,32
+7102,Acinetobacter baumannii strain MRSN7416,ceftriaxone,32
+7104,Acinetobacter baumannii strain MRSN7417,ceftriaxone,32
+7105,Acinetobacter baumannii strain MRSN7417,ceftriaxone,64
+7107,Acinetobacter baumannii strain MRSN7418,ceftriaxone,32
+7108,Acinetobacter baumannii strain MRSN7418,ceftriaxone,32
+7110,Acinetobacter baumannii strain MRSN7419,ceftriaxone,32
+7111,Acinetobacter baumannii strain MRSN7419,ceftriaxone,32
+7114,Acinetobacter baumannii strain MRSN7421,ceftriaxone,32
+7115,Acinetobacter baumannii strain MRSN7421,ceftriaxone,32
+7117,Acinetobacter baumannii strain MRSN7423,ceftriaxone,32
+7118,Acinetobacter baumannii strain MRSN7423,ceftriaxone,64
+7123,Acinetobacter baumannii strain MRSN7438,ceftriaxone,64
+7124,Acinetobacter baumannii strain MRSN7438,ceftriaxone,32
+7127,Acinetobacter baumannii strain MRSN7441,ceftriaxone,32
+7128,Acinetobacter baumannii strain MRSN7441,ceftriaxone,64
+7131,Acinetobacter baumannii strain MRSN7447,ceftriaxone,64
+7132,Acinetobacter baumannii strain MRSN7447,ceftriaxone,32
+7134,Acinetobacter baumannii strain MRSN7448,ceftriaxone,64
+7135,Acinetobacter baumannii strain MRSN7448,ceftriaxone,32
+7137,Acinetobacter baumannii strain MRSN7454,ceftriaxone,32
+7138,Acinetobacter baumannii strain MRSN7454,ceftriaxone,32
+7140,Acinetobacter baumannii strain MRSN7455,ceftriaxone,32
+7141,Acinetobacter baumannii strain MRSN7455,ceftriaxone,64
+7144,Acinetobacter baumannii strain MRSN7457,ceftriaxone,64
+7145,Acinetobacter baumannii strain MRSN7457,ceftriaxone,32
+7148,Acinetobacter baumannii strain MRSN7459,ceftriaxone,64
+7149,Acinetobacter baumannii strain MRSN7459,ceftriaxone,32
+7151,Acinetobacter baumannii strain MRSN7460,ceftriaxone,8
+7153,Acinetobacter baumannii strain MRSN7461,ceftriaxone,32
+7154,Acinetobacter baumannii strain MRSN7461,ceftriaxone,32
+7156,Acinetobacter baumannii strain MRSN7462,ceftriaxone,32
+7157,Acinetobacter baumannii strain MRSN7462,ceftriaxone,64
+7161,Acinetobacter baumannii strain MRSN7467,ceftriaxone,64
+7162,Acinetobacter baumannii strain MRSN7467,ceftriaxone,32
+7164,Acinetobacter baumannii strain MRSN7468,ceftriaxone,32
+7165,Acinetobacter baumannii strain MRSN7468,ceftriaxone,64
+7167,Acinetobacter baumannii strain MRSN7469,ceftriaxone,32
+7168,Acinetobacter baumannii strain MRSN7469,ceftriaxone,32
+7176,Acinetobacter baumannii strain MRSN7478,ceftriaxone,32
+7177,Acinetobacter baumannii strain MRSN7478,ceftriaxone,64
+7179,Acinetobacter baumannii strain MRSN7481,ceftriaxone,32
+7180,Acinetobacter baumannii strain MRSN7481,ceftriaxone,32
+7184,Acinetobacter baumannii strain MRSN7485,ceftriaxone,64
+7185,Acinetobacter baumannii strain MRSN7485,ceftriaxone,32
+7194,Acinetobacter baumannii strain MRSN7497,ceftriaxone,32
+7195,Acinetobacter baumannii strain MRSN7497,ceftriaxone,64
+7197,Acinetobacter baumannii strain MRSN7498,ceftriaxone,32
+7198,Acinetobacter baumannii strain MRSN7498,ceftriaxone,32
+7215,Acinetobacter baumannii strain MRSN7521,ceftriaxone,64
+7216,Acinetobacter baumannii strain MRSN7521,ceftriaxone,32
+7234,Acinetobacter baumannii strain MRSN7557,ceftriaxone,64
+7237,Acinetobacter baumannii strain MRSN7560,ceftriaxone,32
+7238,Acinetobacter baumannii strain MRSN7560,ceftriaxone,64
+7245,Acinetobacter baumannii strain MRSN7570,ceftriaxone,32
+7246,Acinetobacter baumannii strain MRSN7570,ceftriaxone,64
+7251,Acinetobacter baumannii strain MRSN7578,ceftriaxone,64
+7255,Acinetobacter baumannii strain MRSN7582,ceftriaxone,32
+7256,Acinetobacter baumannii strain MRSN7582,ceftriaxone,64
+7266,Acinetobacter baumannii strain MRSN7599,ceftriaxone,32
+7267,Acinetobacter baumannii strain MRSN7599,ceftriaxone,32
+7271,Acinetobacter baumannii strain MRSN7605,ceftriaxone,32
+7277,Acinetobacter baumannii strain MRSN7617,ceftriaxone,32
+7278,Acinetobacter baumannii strain MRSN7617,ceftriaxone,64
+7285,Acinetobacter baumannii strain MRSN7629,ceftriaxone,32
+7286,Acinetobacter baumannii strain MRSN7629,ceftriaxone,32
+7289,Acinetobacter baumannii strain MRSN7636,ceftriaxone,64
+7292,Acinetobacter baumannii strain MRSN7640,ceftriaxone,64
+7293,Acinetobacter baumannii strain MRSN7640,ceftriaxone,32
+7307,Acinetobacter baumannii strain MRSN7660,ceftriaxone,32
+7308,Acinetobacter baumannii strain MRSN7660,ceftriaxone,32
+7312,Acinetobacter baumannii strain MRSN7668,ceftriaxone,32
+7313,Acinetobacter baumannii strain MRSN7668,ceftriaxone,32
+7316,Acinetobacter baumannii strain MRSN7670,ceftriaxone,64
+7317,Acinetobacter baumannii strain MRSN7670,ceftriaxone,32
+7325,Acinetobacter baumannii strain MRSN7677,ceftriaxone,32
+7326,Acinetobacter baumannii strain MRSN7677,ceftriaxone,64
+7343,Acinetobacter baumannii strain MRSN7706,ceftriaxone,32
+7344,Acinetobacter baumannii strain MRSN7706,ceftriaxone,64
+7346,Acinetobacter baumannii strain MRSN7707,ceftriaxone,64
+7347,Acinetobacter baumannii strain MRSN7707,ceftriaxone,32
+7357,Acinetobacter baumannii strain MRSN7718,ceftriaxone,64
+7358,Acinetobacter baumannii strain MRSN7718,ceftriaxone,32
+7366,Acinetobacter baumannii strain MRSN7730,ceftriaxone,64
+7367,Acinetobacter baumannii strain MRSN7730,ceftriaxone,32
+7374,Acinetobacter baumannii strain MRSN7751,ceftriaxone,32
+7375,Acinetobacter baumannii strain MRSN7751,ceftriaxone,32
+7386,Acinetobacter baumannii strain MRSN7776,ceftriaxone,32
+7387,Acinetobacter baumannii strain MRSN7776,ceftriaxone,64
+7393,Acinetobacter baumannii strain MRSN7790,ceftriaxone,32
+7394,Acinetobacter baumannii strain MRSN7790,ceftriaxone,64
+7407,Acinetobacter baumannii strain MRSN7815,ceftriaxone,32
+7408,Acinetobacter baumannii strain MRSN7815,ceftriaxone,64
+7415,Acinetobacter baumannii strain MRSN7822,ceftriaxone,32
+7416,Acinetobacter baumannii strain MRSN7822,ceftriaxone,32
+7423,Acinetobacter baumannii strain MRSN7834,ceftriaxone,64
+7425,Acinetobacter baumannii strain MRSN83,ceftriaxone,32
+7426,Acinetobacter baumannii strain MRSN83,ceftriaxone,64
+7428,Acinetobacter baumannii strain MRSN85,ceftriaxone,32
+7429,Acinetobacter baumannii strain MRSN85,ceftriaxone,64
+7432,Acinetobacter baumannii strain MRSN870,ceftriaxone,32
+7436,Acinetobacter baumannii strain MRSN888,ceftriaxone,64
+7439,Acinetobacter baumannii strain MRSN8899,ceftriaxone,32
+7440,Acinetobacter baumannii strain MRSN8899,ceftriaxone,64
+7442,Acinetobacter baumannii strain MRSN89,ceftriaxone,64
+7443,Acinetobacter baumannii strain MRSN89,ceftriaxone,32
+7445,Acinetobacter baumannii strain MRSN890,ceftriaxone,32
+7447,Acinetobacter baumannii strain MRSN8900,ceftriaxone,32
+7448,Acinetobacter baumannii strain MRSN8900,ceftriaxone,64
+7450,Acinetobacter baumannii strain MRSN8901,ceftriaxone,32
+7451,Acinetobacter baumannii strain MRSN8901,ceftriaxone,64
+7453,Acinetobacter baumannii strain MRSN8902,ceftriaxone,32
+7454,Acinetobacter baumannii strain MRSN8902,ceftriaxone,64
+7456,Acinetobacter baumannii strain MRSN8903,ceftriaxone,32
+7457,Acinetobacter baumannii strain MRSN8903,ceftriaxone,32
+7461,Acinetobacter baumannii strain MRSN899,ceftriaxone,32
+7464,Acinetobacter baumannii strain MRSN908,ceftriaxone,32
+7465,Acinetobacter baumannii strain MRSN908,ceftriaxone,64
+7467,Acinetobacter baumannii strain MRSN909,ceftriaxone,32
+7469,Acinetobacter baumannii strain MRSN910,ceftriaxone,64
+7471,Acinetobacter baumannii strain MRSN915,ceftriaxone,64
+7473,Acinetobacter baumannii strain MRSN916,ceftriaxone,64
+7475,Acinetobacter baumannii strain MRSN917,ceftriaxone,64
+7477,Acinetobacter baumannii strain MRSN919,ceftriaxone,32
+7479,Acinetobacter baumannii strain MRSN920,ceftriaxone,64
+7481,Acinetobacter baumannii strain MRSN921,ceftriaxone,32
+7483,Acinetobacter baumannii strain MRSN922,ceftriaxone,32
+7485,Acinetobacter baumannii strain MRSN926,ceftriaxone,32
+7487,Acinetobacter baumannii strain MRSN927,ceftriaxone,32
+7489,Acinetobacter baumannii strain MRSN929,ceftriaxone,32
+7491,Acinetobacter baumannii strain MRSN939,ceftriaxone,64
+7493,Acinetobacter baumannii strain MRSN946,ceftriaxone,64
+7495,Acinetobacter baumannii strain MRSN953,ceftriaxone,32
+7497,Acinetobacter baumannii strain MRSN966,ceftriaxone,64
+7584,Acinetobacter baumannii strain MRSN10371,ciprofloxacin,2
+7587,Acinetobacter baumannii strain MRSN11653,ciprofloxacin,2
+7589,Acinetobacter baumannii strain MRSN11659,ciprofloxacin,2
+7591,Acinetobacter baumannii strain MRSN11660,ciprofloxacin,2
+7593,Acinetobacter baumannii strain MRSN11669,ciprofloxacin,2
+7595,Acinetobacter baumannii strain MRSN11674,ciprofloxacin,2
+7597,Acinetobacter baumannii strain MRSN11675,ciprofloxacin,2
+7599,Acinetobacter baumannii strain MRSN11679,ciprofloxacin,2
+7605,Acinetobacter baumannii strain MRSN11688,ciprofloxacin,2
+7611,Acinetobacter baumannii strain MRSN11701,ciprofloxacin,2
+7613,Acinetobacter baumannii strain MRSN11705,ciprofloxacin,2
+7615,Acinetobacter baumannii strain MRSN11706,ciprofloxacin,2
+7618,Acinetobacter baumannii strain MRSN11708,ciprofloxacin,2
+7621,Acinetobacter baumannii strain MRSN11710,ciprofloxacin,2
+7624,Acinetobacter baumannii strain MRSN11713,ciprofloxacin,2
+7631,Acinetobacter baumannii strain MRSN11723,ciprofloxacin,2
+7640,Acinetobacter baumannii strain MRSN11739,ciprofloxacin,2
+7642,Acinetobacter baumannii strain MRSN11742,ciprofloxacin,2
+7645,Acinetobacter baumannii strain MRSN11745,ciprofloxacin,2
+7647,Acinetobacter baumannii strain MRSN11746,ciprofloxacin,2
+7649,Acinetobacter baumannii strain MRSN11747,ciprofloxacin,2
+7650,Acinetobacter baumannii strain MRSN11747,ciprofloxacin,2
+7653,Acinetobacter baumannii strain MRSN11749,ciprofloxacin,2
+7655,Acinetobacter baumannii strain MRSN11750,ciprofloxacin,2
+7658,Acinetobacter baumannii strain MRSN11753,ciprofloxacin,2
+7661,Acinetobacter baumannii strain MRSN11760,ciprofloxacin,2
+7673,Acinetobacter baumannii strain MRSN11772,ciprofloxacin,2
+7675,Acinetobacter baumannii strain MRSN11774,ciprofloxacin,2
+7682,Acinetobacter baumannii strain MRSN11783,ciprofloxacin,2
+7683,Acinetobacter baumannii strain MRSN11783,ciprofloxacin,2
+7686,Acinetobacter baumannii strain MRSN11788,ciprofloxacin,2
+7687,Acinetobacter baumannii strain MRSN11788,ciprofloxacin,2
+7694,Acinetobacter baumannii strain MRSN11797,ciprofloxacin,2
+7695,Acinetobacter baumannii strain MRSN11797,ciprofloxacin,2
+7697,Acinetobacter baumannii strain MRSN11801,ciprofloxacin,2
+7699,Acinetobacter baumannii strain MRSN11803,ciprofloxacin,2
+7700,Acinetobacter baumannii strain MRSN11803,ciprofloxacin,2
+7702,Acinetobacter baumannii strain MRSN11804,ciprofloxacin,4
+7703,Acinetobacter baumannii strain MRSN11804,ciprofloxacin,2
+7705,Acinetobacter baumannii strain MRSN11806,ciprofloxacin,4
+7706,Acinetobacter baumannii strain MRSN11806,ciprofloxacin,2
+7708,Acinetobacter baumannii strain MRSN11807,ciprofloxacin,2
+7709,Acinetobacter baumannii strain MRSN11807,ciprofloxacin,2
+7711,Acinetobacter baumannii strain MRSN11811,ciprofloxacin,2
+7712,Acinetobacter baumannii strain MRSN11811,ciprofloxacin,2
+7714,Acinetobacter baumannii strain MRSN11812,ciprofloxacin,4
+7715,Acinetobacter baumannii strain MRSN11812,ciprofloxacin,2
+7717,Acinetobacter baumannii strain MRSN11813,ciprofloxacin,4
+7718,Acinetobacter baumannii strain MRSN11813,ciprofloxacin,2
+7720,Acinetobacter baumannii strain MRSN11815,ciprofloxacin,1
+7721,Acinetobacter baumannii strain MRSN11815,ciprofloxacin,0.25
+7723,Acinetobacter baumannii strain MRSN11816,ciprofloxacin,1
+7724,Acinetobacter baumannii strain MRSN11816,ciprofloxacin,0.5
+7726,Acinetobacter baumannii strain MRSN11820,ciprofloxacin,2
+7727,Acinetobacter baumannii strain MRSN11820,ciprofloxacin,2
+7729,Acinetobacter baumannii strain MRSN11821,ciprofloxacin,0.5
+7730,Acinetobacter baumannii strain MRSN11821,ciprofloxacin,1
+7732,Acinetobacter baumannii strain MRSN11822,ciprofloxacin,1
+7733,Acinetobacter baumannii strain MRSN11822,ciprofloxacin,0.5
+7735,Acinetobacter baumannii strain MRSN11823,ciprofloxacin,4
+7736,Acinetobacter baumannii strain MRSN11823,ciprofloxacin,2
+7738,Acinetobacter baumannii strain MRSN11825,ciprofloxacin,2
+7739,Acinetobacter baumannii strain MRSN11825,ciprofloxacin,4
+7743,Acinetobacter baumannii strain MRSN1309,ciprofloxacin,2
+7745,Acinetobacter baumannii strain MRSN1339,ciprofloxacin,0.25
+7746,Acinetobacter baumannii strain MRSN1339,ciprofloxacin,0.5
+7748,Acinetobacter baumannii strain MRSN1410,ciprofloxacin,2
+7750,Acinetobacter baumannii strain MRSN1420,ciprofloxacin,2
+7752,Acinetobacter baumannii strain MRSN1428,ciprofloxacin,0.25
+7755,Acinetobacter baumannii strain MRSN1449,ciprofloxacin,0.25
+7757,Acinetobacter baumannii strain MRSN1450,ciprofloxacin,2
+7759,Acinetobacter baumannii strain MRSN1461,ciprofloxacin,4
+7762,Acinetobacter baumannii strain MRSN15038,ciprofloxacin,1
+7764,Acinetobacter baumannii strain MRSN15039,ciprofloxacin,2
+7765,Acinetobacter baumannii strain MRSN15039,ciprofloxacin,2
+7767,Acinetobacter baumannii strain MRSN15042,ciprofloxacin,1
+7771,Acinetobacter baumannii strain MRSN15045,ciprofloxacin,1
+7772,Acinetobacter baumannii strain MRSN15045,ciprofloxacin,0.25
+7774,Acinetobacter baumannii strain MRSN15046,ciprofloxacin,2
+7775,Acinetobacter baumannii strain MRSN15046,ciprofloxacin,4
+7778,Acinetobacter baumannii strain MRSN15048,ciprofloxacin,2
+7779,Acinetobacter baumannii strain MRSN15048,ciprofloxacin,2
+7782,Acinetobacter baumannii strain MRSN15065,ciprofloxacin,2
+7783,Acinetobacter baumannii strain MRSN15065,ciprofloxacin,2
+7785,Acinetobacter baumannii strain MRSN15066,ciprofloxacin,2
+7786,Acinetobacter baumannii strain MRSN15066,ciprofloxacin,4
+7790,Acinetobacter baumannii strain MRSN15070,ciprofloxacin,0.25
+7791,Acinetobacter baumannii strain MRSN15070,ciprofloxacin,0.5
+7799,Acinetobacter baumannii strain MRSN15079,ciprofloxacin,2
+7800,Acinetobacter baumannii strain MRSN15079,ciprofloxacin,2
+7803,Acinetobacter baumannii strain MRSN15081,ciprofloxacin,4
+7804,Acinetobacter baumannii strain MRSN15081,ciprofloxacin,2
+7808,Acinetobacter baumannii strain MRSN15084,ciprofloxacin,4
+7809,Acinetobacter baumannii strain MRSN15084,ciprofloxacin,2
+7810,Acinetobacter baumannii strain MRSN15084,ciprofloxacin,2
+7812,Acinetobacter baumannii strain MRSN15085,ciprofloxacin,2
+7813,Acinetobacter baumannii strain MRSN15085,ciprofloxacin,4
+7815,Acinetobacter baumannii strain MRSN15086,ciprofloxacin,0.5
+7819,Acinetobacter baumannii strain MRSN1598,ciprofloxacin,0.5
+7821,Acinetobacter baumannii strain MRSN16874,ciprofloxacin,4
+7822,Acinetobacter baumannii strain MRSN16874,ciprofloxacin,2
+7824,Acinetobacter baumannii strain MRSN16881,ciprofloxacin,4
+7825,Acinetobacter baumannii strain MRSN16881,ciprofloxacin,2
+7827,Acinetobacter baumannii strain MRSN16882,ciprofloxacin,2
+7828,Acinetobacter baumannii strain MRSN16882,ciprofloxacin,2
+7830,Acinetobacter baumannii strain MRSN16896,ciprofloxacin,4
+7831,Acinetobacter baumannii strain MRSN16896,ciprofloxacin,2
+7833,Acinetobacter baumannii strain MRSN16897,ciprofloxacin,2
+7834,Acinetobacter baumannii strain MRSN16897,ciprofloxacin,2
+7836,Acinetobacter baumannii strain MRSN16898,ciprofloxacin,4
+7837,Acinetobacter baumannii strain MRSN16898,ciprofloxacin,2
+7839,Acinetobacter baumannii strain MRSN16901,ciprofloxacin,2
+7840,Acinetobacter baumannii strain MRSN16901,ciprofloxacin,4
+7842,Acinetobacter baumannii strain MRSN1738,ciprofloxacin,4
+7844,Acinetobacter baumannii strain MRSN17592,ciprofloxacin,4
+7846,Acinetobacter baumannii strain MRSN17593,ciprofloxacin,2
+7847,Acinetobacter baumannii strain MRSN17593,ciprofloxacin,4
+7849,Acinetobacter baumannii strain MRSN1967,ciprofloxacin,4
+7853,Acinetobacter baumannii strain MRSN1980,ciprofloxacin,4
+7855,Acinetobacter baumannii strain MRSN1987,ciprofloxacin,4
+7857,Acinetobacter baumannii strain MRSN1988,ciprofloxacin,4
+7859,Acinetobacter baumannii strain MRSN1992,ciprofloxacin,4
+7861,Acinetobacter baumannii strain MRSN1998,ciprofloxacin,4
+7863,Acinetobacter baumannii strain MRSN2009,ciprofloxacin,0.5
+7865,Acinetobacter baumannii strain MRSN2021,ciprofloxacin,4
+7867,Acinetobacter baumannii strain MRSN2024,ciprofloxacin,4
+7869,Acinetobacter baumannii strain MRSN20315,ciprofloxacin,4
+7870,Acinetobacter baumannii strain MRSN20315,ciprofloxacin,2
+7872,Acinetobacter baumannii strain MRSN20755,ciprofloxacin,1
+7873,Acinetobacter baumannii strain MRSN20755,ciprofloxacin,1
+7875,Acinetobacter baumannii strain MRSN2427,ciprofloxacin,4
+7876,Acinetobacter baumannii strain MRSN2427,ciprofloxacin,2
+7878,Acinetobacter baumannii strain MRSN2441,ciprofloxacin,2
+7879,Acinetobacter baumannii strain MRSN2441,ciprofloxacin,2
+7881,Acinetobacter baumannii strain MRSN2821,ciprofloxacin,0.5
+7882,Acinetobacter baumannii strain MRSN2821,ciprofloxacin,1
+7884,Acinetobacter baumannii strain MRSN2830,ciprofloxacin,0.25
+7885,Acinetobacter baumannii strain MRSN2830,ciprofloxacin,0.5
+7887,Acinetobacter baumannii strain MRSN2839,ciprofloxacin,4
+7888,Acinetobacter baumannii strain MRSN2839,ciprofloxacin,2
+7890,Acinetobacter baumannii strain MRSN2840,ciprofloxacin,2
+7891,Acinetobacter baumannii strain MRSN2840,ciprofloxacin,2
+7893,Acinetobacter baumannii strain MRSN3360,ciprofloxacin,4
+7895,Acinetobacter baumannii strain MRSN3547,ciprofloxacin,4
+7897,Acinetobacter baumannii strain MRSN3607,ciprofloxacin,4
+7899,Acinetobacter baumannii strain MRSN3843,ciprofloxacin,0.5
+7901,Acinetobacter baumannii strain MRSN3851,ciprofloxacin,2
+7903,Acinetobacter baumannii strain MRSN3941,ciprofloxacin,2
+7904,Acinetobacter baumannii strain MRSN3941,ciprofloxacin,2
+7906,Acinetobacter baumannii strain MRSN4119,ciprofloxacin,4
+7907,Acinetobacter baumannii strain MRSN4119,ciprofloxacin,2
+7909,Acinetobacter baumannii strain MRSN4481,ciprofloxacin,4
+7911,Acinetobacter baumannii strain MRSN5540,ciprofloxacin,4
+7912,Acinetobacter baumannii strain MRSN5540,ciprofloxacin,2
+7914,Acinetobacter baumannii strain MRSN6269,ciprofloxacin,2
+7915,Acinetobacter baumannii strain MRSN6269,ciprofloxacin,2
+7917,Acinetobacter baumannii strain MRSN6273,ciprofloxacin,2
+7918,Acinetobacter baumannii strain MRSN6273,ciprofloxacin,2
+7921,Acinetobacter baumannii strain MRSN7069,ciprofloxacin,2
+7922,Acinetobacter baumannii strain MRSN7069,ciprofloxacin,2
+7925,Acinetobacter baumannii strain MRSN7072,ciprofloxacin,4
+7926,Acinetobacter baumannii strain MRSN7072,ciprofloxacin,2
+7932,Acinetobacter baumannii strain MRSN7081,ciprofloxacin,0.5
+7933,Acinetobacter baumannii strain MRSN7081,ciprofloxacin,0.5
+7936,Acinetobacter baumannii strain MRSN7086,ciprofloxacin,2
+7937,Acinetobacter baumannii strain MRSN7086,ciprofloxacin,2
+7945,Acinetobacter baumannii strain MRSN7108,ciprofloxacin,4
+7946,Acinetobacter baumannii strain MRSN7108,ciprofloxacin,2
+7959,Acinetobacter baumannii strain MRSN7128,ciprofloxacin,4
+7960,Acinetobacter baumannii strain MRSN7128,ciprofloxacin,2
+7966,Acinetobacter baumannii strain MRSN7134,ciprofloxacin,4
+7967,Acinetobacter baumannii strain MRSN7134,ciprofloxacin,2
+7976,Acinetobacter baumannii strain MRSN7147,ciprofloxacin,4
+7977,Acinetobacter baumannii strain MRSN7147,ciprofloxacin,2
+7980,Acinetobacter baumannii strain MRSN7149,ciprofloxacin,2
+7981,Acinetobacter baumannii strain MRSN7149,ciprofloxacin,2
+7985,Acinetobacter baumannii strain MRSN7154,ciprofloxacin,4
+7986,Acinetobacter baumannii strain MRSN7154,ciprofloxacin,2
+7988,Acinetobacter baumannii strain MRSN7155,ciprofloxacin,2
+7989,Acinetobacter baumannii strain MRSN7155,ciprofloxacin,4
+7995,Acinetobacter baumannii strain MRSN7160,ciprofloxacin,2
+7996,Acinetobacter baumannii strain MRSN7160,ciprofloxacin,2
+7998,Acinetobacter baumannii strain MRSN7161,ciprofloxacin,2
+7999,Acinetobacter baumannii strain MRSN7161,ciprofloxacin,2
+8008,Acinetobacter baumannii strain MRSN7170,ciprofloxacin,2
+8009,Acinetobacter baumannii strain MRSN7170,ciprofloxacin,4
+8013,Acinetobacter baumannii strain MRSN7173,ciprofloxacin,2
+8014,Acinetobacter baumannii strain MRSN7173,ciprofloxacin,2
+8019,Acinetobacter baumannii strain MRSN7184,ciprofloxacin,0.25
+8020,Acinetobacter baumannii strain MRSN7184,ciprofloxacin,1
+8026,Acinetobacter baumannii strain MRSN7204,ciprofloxacin,1
+8027,Acinetobacter baumannii strain MRSN7204,ciprofloxacin,1
+8036,Acinetobacter baumannii strain MRSN7217,ciprofloxacin,1
+8037,Acinetobacter baumannii strain MRSN7217,ciprofloxacin,1
+8040,Acinetobacter baumannii strain MRSN7220,ciprofloxacin,4
+8041,Acinetobacter baumannii strain MRSN7220,ciprofloxacin,2
+8044,Acinetobacter baumannii strain MRSN7222,ciprofloxacin,4
+8045,Acinetobacter baumannii strain MRSN7222,ciprofloxacin,2
+8047,Acinetobacter baumannii strain MRSN7223,ciprofloxacin,1
+8055,Acinetobacter baumannii strain MRSN7232,ciprofloxacin,2
+8056,Acinetobacter baumannii strain MRSN7232,ciprofloxacin,4
+8058,Acinetobacter baumannii strain MRSN7234,ciprofloxacin,2
+8059,Acinetobacter baumannii strain MRSN7234,ciprofloxacin,2
+8061,Acinetobacter baumannii strain MRSN7235,ciprofloxacin,2
+8062,Acinetobacter baumannii strain MRSN7235,ciprofloxacin,4
+8064,Acinetobacter baumannii strain MRSN7236,ciprofloxacin,4
+8065,Acinetobacter baumannii strain MRSN7236,ciprofloxacin,2
+8068,Acinetobacter baumannii strain MRSN7238,ciprofloxacin,2
+8069,Acinetobacter baumannii strain MRSN7238,ciprofloxacin,4
+8085,Acinetobacter baumannii strain MRSN7257,ciprofloxacin,2
+8086,Acinetobacter baumannii strain MRSN7257,ciprofloxacin,2
+8097,Acinetobacter baumannii strain MRSN7273,ciprofloxacin,2
+8098,Acinetobacter baumannii strain MRSN7273,ciprofloxacin,4
+8103,Acinetobacter baumannii strain MRSN7279,ciprofloxacin,2
+8104,Acinetobacter baumannii strain MRSN7279,ciprofloxacin,4
+8107,Acinetobacter baumannii strain MRSN7281,ciprofloxacin,2
+8108,Acinetobacter baumannii strain MRSN7281,ciprofloxacin,4
+8111,Acinetobacter baumannii strain MRSN7284,ciprofloxacin,2
+8112,Acinetobacter baumannii strain MRSN7284,ciprofloxacin,2
+8128,Acinetobacter baumannii strain MRSN7304,ciprofloxacin,2
+8129,Acinetobacter baumannii strain MRSN7304,ciprofloxacin,4
+8131,Acinetobacter baumannii strain MRSN7305,ciprofloxacin,4
+8132,Acinetobacter baumannii strain MRSN7305,ciprofloxacin,2
+8134,Acinetobacter baumannii strain MRSN7306,ciprofloxacin,2
+8135,Acinetobacter baumannii strain MRSN7306,ciprofloxacin,4
+8138,Acinetobacter baumannii strain MRSN7309,ciprofloxacin,2
+8139,Acinetobacter baumannii strain MRSN7309,ciprofloxacin,2
+8141,Acinetobacter baumannii strain MRSN7310,ciprofloxacin,4
+8142,Acinetobacter baumannii strain MRSN7310,ciprofloxacin,2
+8145,Acinetobacter baumannii strain MRSN7314,ciprofloxacin,2
+8146,Acinetobacter baumannii strain MRSN7314,ciprofloxacin,4
+8153,Acinetobacter baumannii strain MRSN7324,ciprofloxacin,2
+8154,Acinetobacter baumannii strain MRSN7324,ciprofloxacin,4
+8159,Acinetobacter baumannii strain MRSN7328,ciprofloxacin,2
+8160,Acinetobacter baumannii strain MRSN7328,ciprofloxacin,4
+8162,Acinetobacter baumannii strain MRSN7330,ciprofloxacin,2
+8163,Acinetobacter baumannii strain MRSN7330,ciprofloxacin,2
+8170,Acinetobacter baumannii strain MRSN7344,ciprofloxacin,2
+8171,Acinetobacter baumannii strain MRSN7344,ciprofloxacin,4
+8173,Acinetobacter baumannii strain MRSN7345,ciprofloxacin,0.25
+8174,Acinetobacter baumannii strain MRSN7345,ciprofloxacin,1
+8177,Acinetobacter baumannii strain MRSN7347,ciprofloxacin,1
+8178,Acinetobacter baumannii strain MRSN7347,ciprofloxacin,0.25
+8181,Acinetobacter baumannii strain MRSN7349,ciprofloxacin,2
+8182,Acinetobacter baumannii strain MRSN7349,ciprofloxacin,4
+8184,Acinetobacter baumannii strain MRSN7350,ciprofloxacin,4
+8185,Acinetobacter baumannii strain MRSN7350,ciprofloxacin,2
+8190,Acinetobacter baumannii strain MRSN7354,ciprofloxacin,2
+8191,Acinetobacter baumannii strain MRSN7354,ciprofloxacin,4
+8193,Acinetobacter baumannii strain MRSN7355,ciprofloxacin,2
+8194,Acinetobacter baumannii strain MRSN7355,ciprofloxacin,4
+8197,Acinetobacter baumannii strain MRSN7357,ciprofloxacin,2
+8198,Acinetobacter baumannii strain MRSN7357,ciprofloxacin,4
+8200,Acinetobacter baumannii strain MRSN7359,ciprofloxacin,2
+8201,Acinetobacter baumannii strain MRSN7359,ciprofloxacin,2
+8204,Acinetobacter baumannii strain MRSN7361,ciprofloxacin,4
+8205,Acinetobacter baumannii strain MRSN7361,ciprofloxacin,2
+8208,Acinetobacter baumannii strain MRSN7363,ciprofloxacin,2
+8209,Acinetobacter baumannii strain MRSN7363,ciprofloxacin,4
+8212,Acinetobacter baumannii strain MRSN7365,ciprofloxacin,2
+8213,Acinetobacter baumannii strain MRSN7365,ciprofloxacin,2
+8215,Acinetobacter baumannii strain MRSN7366,ciprofloxacin,2
+8216,Acinetobacter baumannii strain MRSN7366,ciprofloxacin,2
+8220,Acinetobacter baumannii strain MRSN7370,ciprofloxacin,2
+8221,Acinetobacter baumannii strain MRSN7370,ciprofloxacin,2
+8223,Acinetobacter baumannii strain MRSN7372,ciprofloxacin,4
+8224,Acinetobacter baumannii strain MRSN7372,ciprofloxacin,2
+8226,Acinetobacter baumannii strain MRSN7373,ciprofloxacin,2
+8227,Acinetobacter baumannii strain MRSN7373,ciprofloxacin,2
+8229,Acinetobacter baumannii strain MRSN7375,ciprofloxacin,2
+8230,Acinetobacter baumannii strain MRSN7375,ciprofloxacin,2
+8233,Acinetobacter baumannii strain MRSN7377,ciprofloxacin,2
+8234,Acinetobacter baumannii strain MRSN7377,ciprofloxacin,2
+8236,Acinetobacter baumannii strain MRSN7378,ciprofloxacin,2
+8237,Acinetobacter baumannii strain MRSN7378,ciprofloxacin,4
+8239,Acinetobacter baumannii strain MRSN7379,ciprofloxacin,2
+8240,Acinetobacter baumannii strain MRSN7379,ciprofloxacin,2
+8242,Acinetobacter baumannii strain MRSN7380,ciprofloxacin,2
+8243,Acinetobacter baumannii strain MRSN7380,ciprofloxacin,4
+8249,Acinetobacter baumannii strain MRSN7386,ciprofloxacin,4
+8250,Acinetobacter baumannii strain MRSN7386,ciprofloxacin,2
+8252,Acinetobacter baumannii strain MRSN7387,ciprofloxacin,4
+8253,Acinetobacter baumannii strain MRSN7387,ciprofloxacin,2
+8255,Acinetobacter baumannii strain MRSN7388,ciprofloxacin,2
+8256,Acinetobacter baumannii strain MRSN7388,ciprofloxacin,4
+8258,Acinetobacter baumannii strain MRSN7389,ciprofloxacin,2
+8259,Acinetobacter baumannii strain MRSN7389,ciprofloxacin,4
+8261,Acinetobacter baumannii strain MRSN7390,ciprofloxacin,2
+8262,Acinetobacter baumannii strain MRSN7390,ciprofloxacin,2
+8264,Acinetobacter baumannii strain MRSN7391,ciprofloxacin,2
+8265,Acinetobacter baumannii strain MRSN7391,ciprofloxacin,4
+8267,Acinetobacter baumannii strain MRSN7392,ciprofloxacin,4
+8268,Acinetobacter baumannii strain MRSN7392,ciprofloxacin,2
+8271,Acinetobacter baumannii strain MRSN7394,ciprofloxacin,4
+8272,Acinetobacter baumannii strain MRSN7394,ciprofloxacin,2
+8276,Acinetobacter baumannii strain MRSN7401,ciprofloxacin,2
+8277,Acinetobacter baumannii strain MRSN7401,ciprofloxacin,4
+8279,Acinetobacter baumannii strain MRSN7402,ciprofloxacin,2
+8280,Acinetobacter baumannii strain MRSN7402,ciprofloxacin,2
+8282,Acinetobacter baumannii strain MRSN7403,ciprofloxacin,2
+8283,Acinetobacter baumannii strain MRSN7403,ciprofloxacin,2
+8285,Acinetobacter baumannii strain MRSN7404,ciprofloxacin,2
+8286,Acinetobacter baumannii strain MRSN7404,ciprofloxacin,2
+8288,Acinetobacter baumannii strain MRSN7405,ciprofloxacin,2
+8289,Acinetobacter baumannii strain MRSN7405,ciprofloxacin,4
+8292,Acinetobacter baumannii strain MRSN7407,ciprofloxacin,2
+8293,Acinetobacter baumannii strain MRSN7407,ciprofloxacin,2
+8295,Acinetobacter baumannii strain MRSN7408,ciprofloxacin,2
+8296,Acinetobacter baumannii strain MRSN7408,ciprofloxacin,2
+8298,Acinetobacter baumannii strain MRSN7409,ciprofloxacin,2
+8299,Acinetobacter baumannii strain MRSN7409,ciprofloxacin,2
+8302,Acinetobacter baumannii strain MRSN7411,ciprofloxacin,2
+8303,Acinetobacter baumannii strain MRSN7411,ciprofloxacin,4
+8306,Acinetobacter baumannii strain MRSN7413,ciprofloxacin,4
+8307,Acinetobacter baumannii strain MRSN7413,ciprofloxacin,2
+8309,Acinetobacter baumannii strain MRSN7414,ciprofloxacin,4
+8310,Acinetobacter baumannii strain MRSN7414,ciprofloxacin,2
+8313,Acinetobacter baumannii strain MRSN7416,ciprofloxacin,2
+8314,Acinetobacter baumannii strain MRSN7416,ciprofloxacin,4
+8316,Acinetobacter baumannii strain MRSN7417,ciprofloxacin,2
+8317,Acinetobacter baumannii strain MRSN7417,ciprofloxacin,4
+8319,Acinetobacter baumannii strain MRSN7418,ciprofloxacin,2
+8320,Acinetobacter baumannii strain MRSN7418,ciprofloxacin,4
+8322,Acinetobacter baumannii strain MRSN7419,ciprofloxacin,2
+8323,Acinetobacter baumannii strain MRSN7419,ciprofloxacin,4
+8326,Acinetobacter baumannii strain MRSN7421,ciprofloxacin,2
+8327,Acinetobacter baumannii strain MRSN7421,ciprofloxacin,2
+8329,Acinetobacter baumannii strain MRSN7423,ciprofloxacin,4
+8330,Acinetobacter baumannii strain MRSN7423,ciprofloxacin,2
+8336,Acinetobacter baumannii strain MRSN7438,ciprofloxacin,2
+8337,Acinetobacter baumannii strain MRSN7438,ciprofloxacin,4
+8340,Acinetobacter baumannii strain MRSN7441,ciprofloxacin,2
+8341,Acinetobacter baumannii strain MRSN7441,ciprofloxacin,2
+8344,Acinetobacter baumannii strain MRSN7447,ciprofloxacin,4
+8345,Acinetobacter baumannii strain MRSN7447,ciprofloxacin,2
+8347,Acinetobacter baumannii strain MRSN7448,ciprofloxacin,4
+8348,Acinetobacter baumannii strain MRSN7448,ciprofloxacin,2
+8350,Acinetobacter baumannii strain MRSN7454,ciprofloxacin,2
+8351,Acinetobacter baumannii strain MRSN7454,ciprofloxacin,4
+8353,Acinetobacter baumannii strain MRSN7455,ciprofloxacin,2
+8354,Acinetobacter baumannii strain MRSN7455,ciprofloxacin,2
+8357,Acinetobacter baumannii strain MRSN7457,ciprofloxacin,2
+8358,Acinetobacter baumannii strain MRSN7457,ciprofloxacin,4
+8361,Acinetobacter baumannii strain MRSN7459,ciprofloxacin,2
+8362,Acinetobacter baumannii strain MRSN7459,ciprofloxacin,4
+8364,Acinetobacter baumannii strain MRSN7460,ciprofloxacin,0.25
+8365,Acinetobacter baumannii strain MRSN7460,ciprofloxacin,1
+8367,Acinetobacter baumannii strain MRSN7461,ciprofloxacin,2
+8368,Acinetobacter baumannii strain MRSN7461,ciprofloxacin,4
+8370,Acinetobacter baumannii strain MRSN7462,ciprofloxacin,2
+8371,Acinetobacter baumannii strain MRSN7462,ciprofloxacin,2
+8375,Acinetobacter baumannii strain MRSN7467,ciprofloxacin,4
+8376,Acinetobacter baumannii strain MRSN7467,ciprofloxacin,2
+8378,Acinetobacter baumannii strain MRSN7468,ciprofloxacin,2
+8379,Acinetobacter baumannii strain MRSN7468,ciprofloxacin,2
+8381,Acinetobacter baumannii strain MRSN7469,ciprofloxacin,2
+8386,Acinetobacter baumannii strain MRSN7474,ciprofloxacin,2
+8387,Acinetobacter baumannii strain MRSN7474,ciprofloxacin,2
+8389,Acinetobacter baumannii strain MRSN7475,ciprofloxacin,2
+8390,Acinetobacter baumannii strain MRSN7475,ciprofloxacin,2
+8393,Acinetobacter baumannii strain MRSN7478,ciprofloxacin,4
+8394,Acinetobacter baumannii strain MRSN7478,ciprofloxacin,2
+8397,Acinetobacter baumannii strain MRSN7481,ciprofloxacin,2
+8398,Acinetobacter baumannii strain MRSN7481,ciprofloxacin,2
+8403,Acinetobacter baumannii strain MRSN7485,ciprofloxacin,2
+8404,Acinetobacter baumannii strain MRSN7485,ciprofloxacin,4
+8413,Acinetobacter baumannii strain MRSN7497,ciprofloxacin,2
+8414,Acinetobacter baumannii strain MRSN7497,ciprofloxacin,4
+8416,Acinetobacter baumannii strain MRSN7498,ciprofloxacin,2
+8417,Acinetobacter baumannii strain MRSN7498,ciprofloxacin,4
+8434,Acinetobacter baumannii strain MRSN7521,ciprofloxacin,4
+8435,Acinetobacter baumannii strain MRSN7521,ciprofloxacin,2
+8453,Acinetobacter baumannii strain MRSN7557,ciprofloxacin,4
+8454,Acinetobacter baumannii strain MRSN7557,ciprofloxacin,2
+8457,Acinetobacter baumannii strain MRSN7560,ciprofloxacin,2
+8458,Acinetobacter baumannii strain MRSN7560,ciprofloxacin,4
+8467,Acinetobacter baumannii strain MRSN7570,ciprofloxacin,2
+8468,Acinetobacter baumannii strain MRSN7570,ciprofloxacin,2
+8473,Acinetobacter baumannii strain MRSN7578,ciprofloxacin,2
+8474,Acinetobacter baumannii strain MRSN7578,ciprofloxacin,2
+8478,Acinetobacter baumannii strain MRSN7582,ciprofloxacin,2
+8479,Acinetobacter baumannii strain MRSN7582,ciprofloxacin,2
+8489,Acinetobacter baumannii strain MRSN7599,ciprofloxacin,2
+8490,Acinetobacter baumannii strain MRSN7599,ciprofloxacin,4
+8494,Acinetobacter baumannii strain MRSN7605,ciprofloxacin,2
+8500,Acinetobacter baumannii strain MRSN7617,ciprofloxacin,4
+8501,Acinetobacter baumannii strain MRSN7617,ciprofloxacin,2
+8508,Acinetobacter baumannii strain MRSN7629,ciprofloxacin,2
+8509,Acinetobacter baumannii strain MRSN7629,ciprofloxacin,4
+8512,Acinetobacter baumannii strain MRSN7636,ciprofloxacin,2
+8513,Acinetobacter baumannii strain MRSN7636,ciprofloxacin,2
+8517,Acinetobacter baumannii strain MRSN7640,ciprofloxacin,2
+8518,Acinetobacter baumannii strain MRSN7640,ciprofloxacin,2
+8529,Acinetobacter baumannii strain MRSN7655,ciprofloxacin,1
+8530,Acinetobacter baumannii strain MRSN7655,ciprofloxacin,0.25
+8535,Acinetobacter baumannii strain MRSN7660,ciprofloxacin,2
+8536,Acinetobacter baumannii strain MRSN7660,ciprofloxacin,2
+8540,Acinetobacter baumannii strain MRSN7668,ciprofloxacin,2
+8541,Acinetobacter baumannii strain MRSN7668,ciprofloxacin,2
+8544,Acinetobacter baumannii strain MRSN7670,ciprofloxacin,4
+8545,Acinetobacter baumannii strain MRSN7670,ciprofloxacin,2
+8553,Acinetobacter baumannii strain MRSN7677,ciprofloxacin,4
+8554,Acinetobacter baumannii strain MRSN7677,ciprofloxacin,2
+8570,Acinetobacter baumannii strain MRSN7706,ciprofloxacin,2
+8571,Acinetobacter baumannii strain MRSN7706,ciprofloxacin,4
+8573,Acinetobacter baumannii strain MRSN7707,ciprofloxacin,4
+8574,Acinetobacter baumannii strain MRSN7707,ciprofloxacin,2
+8584,Acinetobacter baumannii strain MRSN7718,ciprofloxacin,2
+8585,Acinetobacter baumannii strain MRSN7718,ciprofloxacin,4
+8593,Acinetobacter baumannii strain MRSN7730,ciprofloxacin,2
+8601,Acinetobacter baumannii strain MRSN7751,ciprofloxacin,2
+8612,Acinetobacter baumannii strain MRSN7776,ciprofloxacin,2
+8619,Acinetobacter baumannii strain MRSN7790,ciprofloxacin,2
+8632,Acinetobacter baumannii strain MRSN7815,ciprofloxacin,2
+8639,Acinetobacter baumannii strain MRSN7822,ciprofloxacin,2
+8640,Acinetobacter baumannii strain MRSN7822,ciprofloxacin,2
+8647,Acinetobacter baumannii strain MRSN7834,ciprofloxacin,2
+8648,Acinetobacter baumannii strain MRSN7834,ciprofloxacin,4
+8650,Acinetobacter baumannii strain MRSN83,ciprofloxacin,4
+8651,Acinetobacter baumannii strain MRSN83,ciprofloxacin,2
+8653,Acinetobacter baumannii strain MRSN85,ciprofloxacin,2
+8654,Acinetobacter baumannii strain MRSN85,ciprofloxacin,2
+8657,Acinetobacter baumannii strain MRSN870,ciprofloxacin,4
+8661,Acinetobacter baumannii strain MRSN888,ciprofloxacin,4
+8664,Acinetobacter baumannii strain MRSN8899,ciprofloxacin,2
+8666,Acinetobacter baumannii strain MRSN89,ciprofloxacin,2
+8667,Acinetobacter baumannii strain MRSN89,ciprofloxacin,2
+8669,Acinetobacter baumannii strain MRSN890,ciprofloxacin,2
+8671,Acinetobacter baumannii strain MRSN8900,ciprofloxacin,2
+8673,Acinetobacter baumannii strain MRSN8901,ciprofloxacin,2
+8675,Acinetobacter baumannii strain MRSN8902,ciprofloxacin,2
+8677,Acinetobacter baumannii strain MRSN8903,ciprofloxacin,2
+8681,Acinetobacter baumannii strain MRSN899,ciprofloxacin,2
+8684,Acinetobacter baumannii strain MRSN908,ciprofloxacin,2
+8685,Acinetobacter baumannii strain MRSN908,ciprofloxacin,2
+8687,Acinetobacter baumannii strain MRSN909,ciprofloxacin,4
+8689,Acinetobacter baumannii strain MRSN910,ciprofloxacin,4
+8691,Acinetobacter baumannii strain MRSN915,ciprofloxacin,2
+8693,Acinetobacter baumannii strain MRSN916,ciprofloxacin,2
+8695,Acinetobacter baumannii strain MRSN917,ciprofloxacin,4
+8697,Acinetobacter baumannii strain MRSN919,ciprofloxacin,2
+8699,Acinetobacter baumannii strain MRSN920,ciprofloxacin,2
+8701,Acinetobacter baumannii strain MRSN921,ciprofloxacin,4
+8703,Acinetobacter baumannii strain MRSN922,ciprofloxacin,2
+8705,Acinetobacter baumannii strain MRSN926,ciprofloxacin,2
+8707,Acinetobacter baumannii strain MRSN927,ciprofloxacin,4
+8709,Acinetobacter baumannii strain MRSN929,ciprofloxacin,4
+8711,Acinetobacter baumannii strain MRSN939,ciprofloxacin,2
+8713,Acinetobacter baumannii strain MRSN946,ciprofloxacin,4
+8715,Acinetobacter baumannii strain MRSN953,ciprofloxacin,4
+8717,Acinetobacter baumannii strain MRSN966,ciprofloxacin,2
+9041,Acinetobacter baumannii strain MRSN11659,gentamicin,16
+9042,Acinetobacter baumannii strain MRSN11659,gentamicin,8
+9044,Acinetobacter baumannii strain MRSN11660,gentamicin,16
+9045,Acinetobacter baumannii strain MRSN11660,gentamicin,8
+9047,Acinetobacter baumannii strain MRSN11669,gentamicin,4
+9048,Acinetobacter baumannii strain MRSN11669,gentamicin,4
+9050,Acinetobacter baumannii strain MRSN11674,gentamicin,8
+9051,Acinetobacter baumannii strain MRSN11674,gentamicin,8
+9053,Acinetobacter baumannii strain MRSN11675,gentamicin,16
+9054,Acinetobacter baumannii strain MRSN11675,gentamicin,8
+9056,Acinetobacter baumannii strain MRSN11679,gentamicin,8
+9057,Acinetobacter baumannii strain MRSN11679,gentamicin,8
+9063,Acinetobacter baumannii strain MRSN11688,gentamicin,8
+9064,Acinetobacter baumannii strain MRSN11688,gentamicin,16
+9070,Acinetobacter baumannii strain MRSN11701,gentamicin,16
+9071,Acinetobacter baumannii strain MRSN11701,gentamicin,8
+9073,Acinetobacter baumannii strain MRSN11705,gentamicin,8
+9074,Acinetobacter baumannii strain MRSN11705,gentamicin,16
+9076,Acinetobacter baumannii strain MRSN11706,gentamicin,8
+9077,Acinetobacter baumannii strain MRSN11706,gentamicin,16
+9080,Acinetobacter baumannii strain MRSN11708,gentamicin,8
+9081,Acinetobacter baumannii strain MRSN11708,gentamicin,16
+9084,Acinetobacter baumannii strain MRSN11710,gentamicin,16
+9085,Acinetobacter baumannii strain MRSN11710,gentamicin,8
+9088,Acinetobacter baumannii strain MRSN11713,gentamicin,8
+9089,Acinetobacter baumannii strain MRSN11713,gentamicin,8
+9095,Acinetobacter baumannii strain MRSN11723,gentamicin,8
+9096,Acinetobacter baumannii strain MRSN11723,gentamicin,16
+9101,Acinetobacter baumannii strain MRSN11729,gentamicin,8
+9102,Acinetobacter baumannii strain MRSN11729,gentamicin,16
+9108,Acinetobacter baumannii strain MRSN11739,gentamicin,16
+9109,Acinetobacter baumannii strain MRSN11739,gentamicin,8
+9111,Acinetobacter baumannii strain MRSN11742,gentamicin,16
+9112,Acinetobacter baumannii strain MRSN11742,gentamicin,8
+9115,Acinetobacter baumannii strain MRSN11745,gentamicin,8
+9116,Acinetobacter baumannii strain MRSN11745,gentamicin,16
+9118,Acinetobacter baumannii strain MRSN11746,gentamicin,8
+9119,Acinetobacter baumannii strain MRSN11746,gentamicin,8
+9121,Acinetobacter baumannii strain MRSN11747,gentamicin,16
+9122,Acinetobacter baumannii strain MRSN11747,gentamicin,8
+9125,Acinetobacter baumannii strain MRSN11749,gentamicin,8
+9127,Acinetobacter baumannii strain MRSN11750,gentamicin,8
+9130,Acinetobacter baumannii strain MRSN11753,gentamicin,8
+9134,Acinetobacter baumannii strain MRSN11760,gentamicin,16
+9135,Acinetobacter baumannii strain MRSN11760,gentamicin,8
+9141,Acinetobacter baumannii strain MRSN11765,gentamicin,4
+9142,Acinetobacter baumannii strain MRSN11765,gentamicin,1
+9149,Acinetobacter baumannii strain MRSN11772,gentamicin,16
+9150,Acinetobacter baumannii strain MRSN11772,gentamicin,8
+9152,Acinetobacter baumannii strain MRSN11774,gentamicin,8
+9159,Acinetobacter baumannii strain MRSN11783,gentamicin,16
+9160,Acinetobacter baumannii strain MRSN11783,gentamicin,8
+9163,Acinetobacter baumannii strain MRSN11788,gentamicin,16
+9164,Acinetobacter baumannii strain MRSN11788,gentamicin,8
+9171,Acinetobacter baumannii strain MRSN11797,gentamicin,8
+9172,Acinetobacter baumannii strain MRSN11797,gentamicin,8
+9174,Acinetobacter baumannii strain MRSN11801,gentamicin,8
+9176,Acinetobacter baumannii strain MRSN11803,gentamicin,8
+9177,Acinetobacter baumannii strain MRSN11803,gentamicin,8
+9179,Acinetobacter baumannii strain MRSN11804,gentamicin,16
+9180,Acinetobacter baumannii strain MRSN11804,gentamicin,8
+9182,Acinetobacter baumannii strain MRSN11806,gentamicin,8
+9183,Acinetobacter baumannii strain MRSN11806,gentamicin,8
+9185,Acinetobacter baumannii strain MRSN11807,gentamicin,16
+9186,Acinetobacter baumannii strain MRSN11807,gentamicin,8
+9188,Acinetobacter baumannii strain MRSN11811,gentamicin,8
+9189,Acinetobacter baumannii strain MRSN11811,gentamicin,8
+9191,Acinetobacter baumannii strain MRSN11812,gentamicin,16
+9192,Acinetobacter baumannii strain MRSN11812,gentamicin,8
+9194,Acinetobacter baumannii strain MRSN11813,gentamicin,16
+9195,Acinetobacter baumannii strain MRSN11813,gentamicin,8
+9197,Acinetobacter baumannii strain MRSN11815,gentamicin,4
+9198,Acinetobacter baumannii strain MRSN11815,gentamicin,1
+9200,Acinetobacter baumannii strain MRSN11816,gentamicin,4
+9201,Acinetobacter baumannii strain MRSN11816,gentamicin,1
+9203,Acinetobacter baumannii strain MRSN11819,gentamicin,4
+9204,Acinetobacter baumannii strain MRSN11819,gentamicin,1
+9206,Acinetobacter baumannii strain MRSN11820,gentamicin,16
+9207,Acinetobacter baumannii strain MRSN11820,gentamicin,8
+9209,Acinetobacter baumannii strain MRSN11821,gentamicin,4
+9211,Acinetobacter baumannii strain MRSN11822,gentamicin,2
+9212,Acinetobacter baumannii strain MRSN11822,gentamicin,1
+9214,Acinetobacter baumannii strain MRSN11823,gentamicin,8
+9215,Acinetobacter baumannii strain MRSN11823,gentamicin,16
+9218,Acinetobacter baumannii strain MRSN11826,gentamicin,1
+9219,Acinetobacter baumannii strain MRSN11826,gentamicin,4
+9222,Acinetobacter baumannii strain MRSN1309,gentamicin,8
+9224,Acinetobacter baumannii strain MRSN1339,gentamicin,2
+9225,Acinetobacter baumannii strain MRSN1339,gentamicin,4
+9227,Acinetobacter baumannii strain MRSN1410,gentamicin,16
+9229,Acinetobacter baumannii strain MRSN1420,gentamicin,8
+9231,Acinetobacter baumannii strain MRSN1428,gentamicin,1
+9233,Acinetobacter baumannii strain MRSN1439,gentamicin,1
+9235,Acinetobacter baumannii strain MRSN1449,gentamicin,1
+9237,Acinetobacter baumannii strain MRSN1450,gentamicin,16
+9239,Acinetobacter baumannii strain MRSN1461,gentamicin,8
+9242,Acinetobacter baumannii strain MRSN15038,gentamicin,8
+9244,Acinetobacter baumannii strain MRSN15039,gentamicin,8
+9245,Acinetobacter baumannii strain MRSN15039,gentamicin,16
+9247,Acinetobacter baumannii strain MRSN15042,gentamicin,8
+9251,Acinetobacter baumannii strain MRSN15045,gentamicin,4
+9252,Acinetobacter baumannii strain MRSN15045,gentamicin,1
+9256,Acinetobacter baumannii strain MRSN15048,gentamicin,8
+9257,Acinetobacter baumannii strain MRSN15048,gentamicin,8
+9260,Acinetobacter baumannii strain MRSN15065,gentamicin,8
+9261,Acinetobacter baumannii strain MRSN15065,gentamicin,8
+9263,Acinetobacter baumannii strain MRSN15066,gentamicin,16
+9264,Acinetobacter baumannii strain MRSN15066,gentamicin,8
+9274,Acinetobacter baumannii strain MRSN15079,gentamicin,8
+9275,Acinetobacter baumannii strain MRSN15079,gentamicin,8
+9278,Acinetobacter baumannii strain MRSN15081,gentamicin,8
+9279,Acinetobacter baumannii strain MRSN15081,gentamicin,8
+9283,Acinetobacter baumannii strain MRSN15084,gentamicin,8
+9284,Acinetobacter baumannii strain MRSN15084,gentamicin,8
+9285,Acinetobacter baumannii strain MRSN15084,gentamicin,8
+9287,Acinetobacter baumannii strain MRSN15085,gentamicin,8
+9288,Acinetobacter baumannii strain MRSN15085,gentamicin,16
+9290,Acinetobacter baumannii strain MRSN15086,gentamicin,8
+9291,Acinetobacter baumannii strain MRSN15086,gentamicin,8
+9295,Acinetobacter baumannii strain MRSN1551,gentamicin,1
+9297,Acinetobacter baumannii strain MRSN1598,gentamicin,1
+9299,Acinetobacter baumannii strain MRSN16874,gentamicin,16
+9300,Acinetobacter baumannii strain MRSN16874,gentamicin,8
+9302,Acinetobacter baumannii strain MRSN16881,gentamicin,8
+9303,Acinetobacter baumannii strain MRSN16881,gentamicin,8
+9305,Acinetobacter baumannii strain MRSN16882,gentamicin,8
+9306,Acinetobacter baumannii strain MRSN16882,gentamicin,8
+9308,Acinetobacter baumannii strain MRSN16896,gentamicin,8
+9310,Acinetobacter baumannii strain MRSN16897,gentamicin,8
+9312,Acinetobacter baumannii strain MRSN16898,gentamicin,8
+9314,Acinetobacter baumannii strain MRSN16901,gentamicin,8
+9315,Acinetobacter baumannii strain MRSN16901,gentamicin,16
+9317,Acinetobacter baumannii strain MRSN1738,gentamicin,16
+9319,Acinetobacter baumannii strain MRSN17593,gentamicin,8
+9321,Acinetobacter baumannii strain MRSN1967,gentamicin,16
+9326,Acinetobacter baumannii strain MRSN1987,gentamicin,16
+9328,Acinetobacter baumannii strain MRSN1988,gentamicin,8
+9330,Acinetobacter baumannii strain MRSN1992,gentamicin,8
+9332,Acinetobacter baumannii strain MRSN1998,gentamicin,8
+9334,Acinetobacter baumannii strain MRSN2009,gentamicin,1
+9336,Acinetobacter baumannii strain MRSN2021,gentamicin,16
+9338,Acinetobacter baumannii strain MRSN2024,gentamicin,16
+9340,Acinetobacter baumannii strain MRSN20315,gentamicin,16
+9341,Acinetobacter baumannii strain MRSN20315,gentamicin,8
+9343,Acinetobacter baumannii strain MRSN20755,gentamicin,8
+9344,Acinetobacter baumannii strain MRSN20755,gentamicin,16
+9346,Acinetobacter baumannii strain MRSN2821,gentamicin,1
+9347,Acinetobacter baumannii strain MRSN2821,gentamicin,2
+9349,Acinetobacter baumannii strain MRSN2830,gentamicin,1
+9350,Acinetobacter baumannii strain MRSN2830,gentamicin,1
+9352,Acinetobacter baumannii strain MRSN2839,gentamicin,16
+9353,Acinetobacter baumannii strain MRSN2839,gentamicin,8
+9355,Acinetobacter baumannii strain MRSN2840,gentamicin,8
+9358,Acinetobacter baumannii strain MRSN3547,gentamicin,8
+9360,Acinetobacter baumannii strain MRSN3607,gentamicin,16
+9362,Acinetobacter baumannii strain MRSN3843,gentamicin,1
+9364,Acinetobacter baumannii strain MRSN3851,gentamicin,16
+9366,Acinetobacter baumannii strain MRSN3941,gentamicin,8
+9367,Acinetobacter baumannii strain MRSN3941,gentamicin,16
+9369,Acinetobacter baumannii strain MRSN4119,gentamicin,16
+9370,Acinetobacter baumannii strain MRSN4119,gentamicin,8
+9372,Acinetobacter baumannii strain MRSN4481,gentamicin,8
+9374,Acinetobacter baumannii strain MRSN5540,gentamicin,16
+9375,Acinetobacter baumannii strain MRSN5540,gentamicin,8
+9377,Acinetobacter baumannii strain MRSN6269,gentamicin,16
+9378,Acinetobacter baumannii strain MRSN6269,gentamicin,8
+9380,Acinetobacter baumannii strain MRSN6273,gentamicin,16
+9381,Acinetobacter baumannii strain MRSN6273,gentamicin,8
+9385,Acinetobacter baumannii strain MRSN7072,gentamicin,16
+9386,Acinetobacter baumannii strain MRSN7072,gentamicin,8
+9392,Acinetobacter baumannii strain MRSN7081,gentamicin,16
+9393,Acinetobacter baumannii strain MRSN7081,gentamicin,8
+9396,Acinetobacter baumannii strain MRSN7086,gentamicin,8
+9397,Acinetobacter baumannii strain MRSN7086,gentamicin,8
+9405,Acinetobacter baumannii strain MRSN7108,gentamicin,8
+9406,Acinetobacter baumannii strain MRSN7108,gentamicin,8
+9419,Acinetobacter baumannii strain MRSN7128,gentamicin,16
+9420,Acinetobacter baumannii strain MRSN7128,gentamicin,8
+9426,Acinetobacter baumannii strain MRSN7134,gentamicin,8
+9427,Acinetobacter baumannii strain MRSN7134,gentamicin,16
+9437,Acinetobacter baumannii strain MRSN7147,gentamicin,8
+9440,Acinetobacter baumannii strain MRSN7149,gentamicin,8
+9444,Acinetobacter baumannii strain MRSN7154,gentamicin,8
+9445,Acinetobacter baumannii strain MRSN7154,gentamicin,16
+9447,Acinetobacter baumannii strain MRSN7155,gentamicin,8
+9448,Acinetobacter baumannii strain MRSN7155,gentamicin,8
+9454,Acinetobacter baumannii strain MRSN7160,gentamicin,8
+9456,Acinetobacter baumannii strain MRSN7161,gentamicin,8
+9457,Acinetobacter baumannii strain MRSN7161,gentamicin,16
+9468,Acinetobacter baumannii strain MRSN7173,gentamicin,8
+9469,Acinetobacter baumannii strain MRSN7173,gentamicin,16
+9474,Acinetobacter baumannii strain MRSN7184,gentamicin,8
+9475,Acinetobacter baumannii strain MRSN7184,gentamicin,16
+9481,Acinetobacter baumannii strain MRSN7204,gentamicin,16
+9482,Acinetobacter baumannii strain MRSN7204,gentamicin,8
+9491,Acinetobacter baumannii strain MRSN7217,gentamicin,8
+9494,Acinetobacter baumannii strain MRSN7220,gentamicin,8
+9495,Acinetobacter baumannii strain MRSN7220,gentamicin,8
+9498,Acinetobacter baumannii strain MRSN7222,gentamicin,8
+9499,Acinetobacter baumannii strain MRSN7222,gentamicin,16
+9501,Acinetobacter baumannii strain MRSN7223,gentamicin,8
+9509,Acinetobacter baumannii strain MRSN7232,gentamicin,8
+9510,Acinetobacter baumannii strain MRSN7232,gentamicin,16
+9512,Acinetobacter baumannii strain MRSN7234,gentamicin,8
+9513,Acinetobacter baumannii strain MRSN7234,gentamicin,8
+9515,Acinetobacter baumannii strain MRSN7235,gentamicin,8
+9516,Acinetobacter baumannii strain MRSN7235,gentamicin,16
+9518,Acinetobacter baumannii strain MRSN7236,gentamicin,16
+9519,Acinetobacter baumannii strain MRSN7236,gentamicin,8
+9522,Acinetobacter baumannii strain MRSN7238,gentamicin,8
+9523,Acinetobacter baumannii strain MRSN7238,gentamicin,8
+9539,Acinetobacter baumannii strain MRSN7257,gentamicin,8
+9550,Acinetobacter baumannii strain MRSN7273,gentamicin,8
+9555,Acinetobacter baumannii strain MRSN7279,gentamicin,8
+9556,Acinetobacter baumannii strain MRSN7279,gentamicin,16
+9559,Acinetobacter baumannii strain MRSN7281,gentamicin,8
+9562,Acinetobacter baumannii strain MRSN7284,gentamicin,8
+9578,Acinetobacter baumannii strain MRSN7304,gentamicin,8
+9580,Acinetobacter baumannii strain MRSN7305,gentamicin,8
+9582,Acinetobacter baumannii strain MRSN7306,gentamicin,8
+9585,Acinetobacter baumannii strain MRSN7309,gentamicin,8
+9587,Acinetobacter baumannii strain MRSN7310,gentamicin,8
+9588,Acinetobacter baumannii strain MRSN7310,gentamicin,8
+9591,Acinetobacter baumannii strain MRSN7314,gentamicin,8
+9598,Acinetobacter baumannii strain MRSN7324,gentamicin,8
+9603,Acinetobacter baumannii strain MRSN7328,gentamicin,8
+9605,Acinetobacter baumannii strain MRSN7330,gentamicin,8
+9612,Acinetobacter baumannii strain MRSN7344,gentamicin,8
+9613,Acinetobacter baumannii strain MRSN7344,gentamicin,16
+9615,Acinetobacter baumannii strain MRSN7345,gentamicin,1
+9616,Acinetobacter baumannii strain MRSN7345,gentamicin,1
+9619,Acinetobacter baumannii strain MRSN7347,gentamicin,1
+9620,Acinetobacter baumannii strain MRSN7347,gentamicin,1
+9623,Acinetobacter baumannii strain MRSN7349,gentamicin,8
+9624,Acinetobacter baumannii strain MRSN7349,gentamicin,16
+9626,Acinetobacter baumannii strain MRSN7350,gentamicin,8
+9631,Acinetobacter baumannii strain MRSN7354,gentamicin,8
+9633,Acinetobacter baumannii strain MRSN7355,gentamicin,8
+9636,Acinetobacter baumannii strain MRSN7357,gentamicin,8
+9638,Acinetobacter baumannii strain MRSN7359,gentamicin,8
+9641,Acinetobacter baumannii strain MRSN7361,gentamicin,8
+9644,Acinetobacter baumannii strain MRSN7363,gentamicin,8
+9647,Acinetobacter baumannii strain MRSN7365,gentamicin,8
+9648,Acinetobacter baumannii strain MRSN7365,gentamicin,8
+9650,Acinetobacter baumannii strain MRSN7366,gentamicin,8
+9654,Acinetobacter baumannii strain MRSN7370,gentamicin,8
+9656,Acinetobacter baumannii strain MRSN7372,gentamicin,8
+9658,Acinetobacter baumannii strain MRSN7373,gentamicin,8
+9660,Acinetobacter baumannii strain MRSN7375,gentamicin,8
+9663,Acinetobacter baumannii strain MRSN7377,gentamicin,8
+9665,Acinetobacter baumannii strain MRSN7378,gentamicin,8
+9667,Acinetobacter baumannii strain MRSN7379,gentamicin,8
+9669,Acinetobacter baumannii strain MRSN7380,gentamicin,8
+9675,Acinetobacter baumannii strain MRSN7386,gentamicin,8
+9677,Acinetobacter baumannii strain MRSN7387,gentamicin,8
+9679,Acinetobacter baumannii strain MRSN7388,gentamicin,8
+9681,Acinetobacter baumannii strain MRSN7389,gentamicin,8
+9682,Acinetobacter baumannii strain MRSN7389,gentamicin,8
+9684,Acinetobacter baumannii strain MRSN7390,gentamicin,8
+9686,Acinetobacter baumannii strain MRSN7391,gentamicin,8
+9688,Acinetobacter baumannii strain MRSN7392,gentamicin,8
+9691,Acinetobacter baumannii strain MRSN7394,gentamicin,8
+9695,Acinetobacter baumannii strain MRSN7401,gentamicin,16
+9696,Acinetobacter baumannii strain MRSN7401,gentamicin,8
+9698,Acinetobacter baumannii strain MRSN7402,gentamicin,8
+9700,Acinetobacter baumannii strain MRSN7403,gentamicin,8
+9702,Acinetobacter baumannii strain MRSN7404,gentamicin,8
+9703,Acinetobacter baumannii strain MRSN7404,gentamicin,8
+9707,Acinetobacter baumannii strain MRSN7407,gentamicin,8
+9709,Acinetobacter baumannii strain MRSN7408,gentamicin,8
+9711,Acinetobacter baumannii strain MRSN7409,gentamicin,8
+9714,Acinetobacter baumannii strain MRSN7411,gentamicin,1
+9715,Acinetobacter baumannii strain MRSN7411,gentamicin,1
+9718,Acinetobacter baumannii strain MRSN7413,gentamicin,8
+9720,Acinetobacter baumannii strain MRSN7414,gentamicin,8
+9723,Acinetobacter baumannii strain MRSN7416,gentamicin,8
+9725,Acinetobacter baumannii strain MRSN7417,gentamicin,8
+9726,Acinetobacter baumannii strain MRSN7417,gentamicin,8
+9728,Acinetobacter baumannii strain MRSN7418,gentamicin,8
+9730,Acinetobacter baumannii strain MRSN7419,gentamicin,16
+9731,Acinetobacter baumannii strain MRSN7419,gentamicin,8
+9734,Acinetobacter baumannii strain MRSN7421,gentamicin,8
+9736,Acinetobacter baumannii strain MRSN7423,gentamicin,8
+9742,Acinetobacter baumannii strain MRSN7438,gentamicin,1
+9743,Acinetobacter baumannii strain MRSN7438,gentamicin,1
+9746,Acinetobacter baumannii strain MRSN7441,gentamicin,8
+9747,Acinetobacter baumannii strain MRSN7441,gentamicin,8
+9750,Acinetobacter baumannii strain MRSN7447,gentamicin,16
+9751,Acinetobacter baumannii strain MRSN7447,gentamicin,8
+9753,Acinetobacter baumannii strain MRSN7448,gentamicin,8
+9754,Acinetobacter baumannii strain MRSN7448,gentamicin,8
+9756,Acinetobacter baumannii strain MRSN7454,gentamicin,8
+9757,Acinetobacter baumannii strain MRSN7454,gentamicin,16
+9759,Acinetobacter baumannii strain MRSN7455,gentamicin,8
+9762,Acinetobacter baumannii strain MRSN7457,gentamicin,8
+9765,Acinetobacter baumannii strain MRSN7459,gentamicin,8
+9767,Acinetobacter baumannii strain MRSN7460,gentamicin,1
+9768,Acinetobacter baumannii strain MRSN7460,gentamicin,1
+9770,Acinetobacter baumannii strain MRSN7461,gentamicin,8
+9772,Acinetobacter baumannii strain MRSN7462,gentamicin,8
+9776,Acinetobacter baumannii strain MRSN7467,gentamicin,8
+9778,Acinetobacter baumannii strain MRSN7468,gentamicin,8
+9779,Acinetobacter baumannii strain MRSN7468,gentamicin,16
+9781,Acinetobacter baumannii strain MRSN7469,gentamicin,16
+9782,Acinetobacter baumannii strain MRSN7469,gentamicin,8
+9787,Acinetobacter baumannii strain MRSN7474,gentamicin,8
+9788,Acinetobacter baumannii strain MRSN7474,gentamicin,8
+9792,Acinetobacter baumannii strain MRSN7478,gentamicin,8
+9793,Acinetobacter baumannii strain MRSN7478,gentamicin,8
+9799,Acinetobacter baumannii strain MRSN7485,gentamicin,8
+9808,Acinetobacter baumannii strain MRSN7497,gentamicin,8
+9809,Acinetobacter baumannii strain MRSN7497,gentamicin,16
+9811,Acinetobacter baumannii strain MRSN7498,gentamicin,8
+9828,Acinetobacter baumannii strain MRSN7521,gentamicin,8
+9829,Acinetobacter baumannii strain MRSN7521,gentamicin,8
+9846,Acinetobacter baumannii strain MRSN7557,gentamicin,8
+9847,Acinetobacter baumannii strain MRSN7557,gentamicin,8
+9850,Acinetobacter baumannii strain MRSN7560,gentamicin,8
+9859,Acinetobacter baumannii strain MRSN7570,gentamicin,8
+9860,Acinetobacter baumannii strain MRSN7570,gentamicin,16
+9865,Acinetobacter baumannii strain MRSN7578,gentamicin,16
+9866,Acinetobacter baumannii strain MRSN7578,gentamicin,8
+9870,Acinetobacter baumannii strain MRSN7582,gentamicin,8
+9871,Acinetobacter baumannii strain MRSN7582,gentamicin,16
+9882,Acinetobacter baumannii strain MRSN7599,gentamicin,8
+9886,Acinetobacter baumannii strain MRSN7605,gentamicin,16
+9891,Acinetobacter baumannii strain MRSN7617,gentamicin,16
+9892,Acinetobacter baumannii strain MRSN7617,gentamicin,8
+9899,Acinetobacter baumannii strain MRSN7629,gentamicin,8
+9900,Acinetobacter baumannii strain MRSN7629,gentamicin,8
+9903,Acinetobacter baumannii strain MRSN7636,gentamicin,8
+9904,Acinetobacter baumannii strain MRSN7636,gentamicin,8
+9908,Acinetobacter baumannii strain MRSN7640,gentamicin,8
+9909,Acinetobacter baumannii strain MRSN7640,gentamicin,16
+9920,Acinetobacter baumannii strain MRSN7655,gentamicin,1
+9921,Acinetobacter baumannii strain MRSN7655,gentamicin,2
+9926,Acinetobacter baumannii strain MRSN7660,gentamicin,8
+9930,Acinetobacter baumannii strain MRSN7668,gentamicin,8
+9931,Acinetobacter baumannii strain MRSN7668,gentamicin,8
+9934,Acinetobacter baumannii strain MRSN7670,gentamicin,8
+9935,Acinetobacter baumannii strain MRSN7670,gentamicin,8
+9943,Acinetobacter baumannii strain MRSN7677,gentamicin,16
+9944,Acinetobacter baumannii strain MRSN7677,gentamicin,8
+9961,Acinetobacter baumannii strain MRSN7706,gentamicin,1
+9962,Acinetobacter baumannii strain MRSN7706,gentamicin,1
+9964,Acinetobacter baumannii strain MRSN7707,gentamicin,8
+9965,Acinetobacter baumannii strain MRSN7707,gentamicin,16
+9975,Acinetobacter baumannii strain MRSN7718,gentamicin,8
+9976,Acinetobacter baumannii strain MRSN7718,gentamicin,16
+9984,Acinetobacter baumannii strain MRSN7730,gentamicin,8
+9985,Acinetobacter baumannii strain MRSN7730,gentamicin,16
+9993,Acinetobacter baumannii strain MRSN7751,gentamicin,8
+9994,Acinetobacter baumannii strain MRSN7751,gentamicin,16
+10005,Acinetobacter baumannii strain MRSN7776,gentamicin,8
+10006,Acinetobacter baumannii strain MRSN7776,gentamicin,16
+10013,Acinetobacter baumannii strain MRSN7790,gentamicin,16
+10014,Acinetobacter baumannii strain MRSN7790,gentamicin,8
+10027,Acinetobacter baumannii strain MRSN7815,gentamicin,8
+10034,Acinetobacter baumannii strain MRSN7822,gentamicin,16
+10035,Acinetobacter baumannii strain MRSN7822,gentamicin,8
+10042,Acinetobacter baumannii strain MRSN7834,gentamicin,16
+10043,Acinetobacter baumannii strain MRSN7834,gentamicin,8
+10045,Acinetobacter baumannii strain MRSN83,gentamicin,8
+10046,Acinetobacter baumannii strain MRSN83,gentamicin,16
+10048,Acinetobacter baumannii strain MRSN85,gentamicin,16
+10051,Acinetobacter baumannii strain MRSN870,gentamicin,16
+10055,Acinetobacter baumannii strain MRSN888,gentamicin,8
+10058,Acinetobacter baumannii strain MRSN8899,gentamicin,8
+10059,Acinetobacter baumannii strain MRSN8899,gentamicin,16
+10061,Acinetobacter baumannii strain MRSN89,gentamicin,16
+10062,Acinetobacter baumannii strain MRSN89,gentamicin,8
+10064,Acinetobacter baumannii strain MRSN890,gentamicin,16
+10066,Acinetobacter baumannii strain MRSN8900,gentamicin,8
+10067,Acinetobacter baumannii strain MRSN8900,gentamicin,8
+10069,Acinetobacter baumannii strain MRSN8901,gentamicin,8
+10070,Acinetobacter baumannii strain MRSN8901,gentamicin,8
+10072,Acinetobacter baumannii strain MRSN8902,gentamicin,8
+10073,Acinetobacter baumannii strain MRSN8902,gentamicin,16
+10075,Acinetobacter baumannii strain MRSN8903,gentamicin,16
+10076,Acinetobacter baumannii strain MRSN8903,gentamicin,8
+10080,Acinetobacter baumannii strain MRSN899,gentamicin,16
+10083,Acinetobacter baumannii strain MRSN908,gentamicin,16
+10084,Acinetobacter baumannii strain MRSN908,gentamicin,8
+10086,Acinetobacter baumannii strain MRSN909,gentamicin,16
+10088,Acinetobacter baumannii strain MRSN910,gentamicin,16
+10091,Acinetobacter baumannii strain MRSN916,gentamicin,8
+10093,Acinetobacter baumannii strain MRSN917,gentamicin,16
+10095,Acinetobacter baumannii strain MRSN919,gentamicin,16
+10097,Acinetobacter baumannii strain MRSN920,gentamicin,16
+10099,Acinetobacter baumannii strain MRSN921,gentamicin,8
+10101,Acinetobacter baumannii strain MRSN922,gentamicin,8
+10103,Acinetobacter baumannii strain MRSN926,gentamicin,8
+10105,Acinetobacter baumannii strain MRSN927,gentamicin,16
+10107,Acinetobacter baumannii strain MRSN929,gentamicin,16
+10109,Acinetobacter baumannii strain MRSN939,gentamicin,8
+10111,Acinetobacter baumannii strain MRSN946,gentamicin,16
+10113,Acinetobacter baumannii strain MRSN953,gentamicin,16
+10115,Acinetobacter baumannii strain MRSN966,gentamicin,8
+10229,Acinetobacter baumannii strain MRSN11747,imipenem,16
+10253,Acinetobacter baumannii strain MRSN11783,imipenem,4
+10256,Acinetobacter baumannii strain MRSN11788,imipenem,2
+10263,Acinetobacter baumannii strain MRSN11797,imipenem,4
+10267,Acinetobacter baumannii strain MRSN11806,imipenem,0.5
+10269,Acinetobacter baumannii strain MRSN11807,imipenem,1
+10271,Acinetobacter baumannii strain MRSN11811,imipenem,0.5
+10273,Acinetobacter baumannii strain MRSN11812,imipenem,0.5
+10275,Acinetobacter baumannii strain MRSN11813,imipenem,0.5
+10277,Acinetobacter baumannii strain MRSN11815,imipenem,0.25
+10279,Acinetobacter baumannii strain MRSN11816,imipenem,0.25
+10281,Acinetobacter baumannii strain MRSN11819,imipenem,4
+10283,Acinetobacter baumannii strain MRSN11820,imipenem,16
+10285,Acinetobacter baumannii strain MRSN11821,imipenem,1
+10287,Acinetobacter baumannii strain MRSN11822,imipenem,0.25
+10289,Acinetobacter baumannii strain MRSN11823,imipenem,2
+10291,Acinetobacter baumannii strain MRSN11826,imipenem,4
+10294,Acinetobacter baumannii strain MRSN1309,imipenem,16
+10296,Acinetobacter baumannii strain MRSN1339,imipenem,1
+10298,Acinetobacter baumannii strain MRSN1410,imipenem,16
+10300,Acinetobacter baumannii strain MRSN1420,imipenem,1
+10302,Acinetobacter baumannii strain MRSN1428,imipenem,1
+10304,Acinetobacter baumannii strain MRSN1439,imipenem,1
+10306,Acinetobacter baumannii strain MRSN1449,imipenem,1
+10308,Acinetobacter baumannii strain MRSN1450,imipenem,8
+10310,Acinetobacter baumannii strain MRSN1461,imipenem,16
+10313,Acinetobacter baumannii strain MRSN15038,imipenem,4
+10315,Acinetobacter baumannii strain MRSN15039,imipenem,1
+10319,Acinetobacter baumannii strain MRSN15045,imipenem,0.25
+10321,Acinetobacter baumannii strain MRSN15046,imipenem,0.25
+10324,Acinetobacter baumannii strain MRSN15048,imipenem,16
+10327,Acinetobacter baumannii strain MRSN15065,imipenem,2
+10329,Acinetobacter baumannii strain MRSN15066,imipenem,1
+10333,Acinetobacter baumannii strain MRSN15070,imipenem,0.25
+10341,Acinetobacter baumannii strain MRSN15079,imipenem,2
+10344,Acinetobacter baumannii strain MRSN15081,imipenem,16
+10348,Acinetobacter baumannii strain MRSN15084,imipenem,1
+10349,Acinetobacter baumannii strain MRSN15084,imipenem,2
+10351,Acinetobacter baumannii strain MRSN15085,imipenem,8
+10353,Acinetobacter baumannii strain MRSN15086,imipenem,2
+10357,Acinetobacter baumannii strain MRSN1551,imipenem,1
+10359,Acinetobacter baumannii strain MRSN1598,imipenem,1
+10361,Acinetobacter baumannii strain MRSN16874,imipenem,16
+10363,Acinetobacter baumannii strain MRSN16881,imipenem,8
+10365,Acinetobacter baumannii strain MRSN16882,imipenem,8
+10367,Acinetobacter baumannii strain MRSN16896,imipenem,2
+10369,Acinetobacter baumannii strain MRSN16897,imipenem,1
+10371,Acinetobacter baumannii strain MRSN16898,imipenem,1
+10373,Acinetobacter baumannii strain MRSN16901,imipenem,1
+10375,Acinetobacter baumannii strain MRSN1738,imipenem,8
+10378,Acinetobacter baumannii strain MRSN17593,imipenem,1
+10380,Acinetobacter baumannii strain MRSN1967,imipenem,16
+10384,Acinetobacter baumannii strain MRSN1980,imipenem,4
+10386,Acinetobacter baumannii strain MRSN1987,imipenem,2
+10388,Acinetobacter baumannii strain MRSN1988,imipenem,1
+10390,Acinetobacter baumannii strain MRSN1992,imipenem,2
+10393,Acinetobacter baumannii strain MRSN2009,imipenem,1
+10395,Acinetobacter baumannii strain MRSN2021,imipenem,1
+10397,Acinetobacter baumannii strain MRSN2024,imipenem,8
+10399,Acinetobacter baumannii strain MRSN20315,imipenem,4
+10401,Acinetobacter baumannii strain MRSN20755,imipenem,4
+10403,Acinetobacter baumannii strain MRSN2427,imipenem,8
+10405,Acinetobacter baumannii strain MRSN2441,imipenem,16
+10407,Acinetobacter baumannii strain MRSN2821,imipenem,1
+10409,Acinetobacter baumannii strain MRSN2830,imipenem,1
+10411,Acinetobacter baumannii strain MRSN2839,imipenem,8
+10413,Acinetobacter baumannii strain MRSN2840,imipenem,1
+10415,Acinetobacter baumannii strain MRSN3360,imipenem,16
+10417,Acinetobacter baumannii strain MRSN3547,imipenem,8
+10420,Acinetobacter baumannii strain MRSN3843,imipenem,1
+10422,Acinetobacter baumannii strain MRSN3851,imipenem,16
+10424,Acinetobacter baumannii strain MRSN3941,imipenem,16
+10426,Acinetobacter baumannii strain MRSN4119,imipenem,16
+10429,Acinetobacter baumannii strain MRSN5540,imipenem,16
+10431,Acinetobacter baumannii strain MRSN6269,imipenem,8
+10435,Acinetobacter baumannii strain MRSN7069,imipenem,1
+10438,Acinetobacter baumannii strain MRSN7072,imipenem,1
+10444,Acinetobacter baumannii strain MRSN7081,imipenem,8
+10447,Acinetobacter baumannii strain MRSN7086,imipenem,1
+10454,Acinetobacter baumannii strain MRSN7108,imipenem,16
+10467,Acinetobacter baumannii strain MRSN7128,imipenem,2
+10473,Acinetobacter baumannii strain MRSN7134,imipenem,2
+10484,Acinetobacter baumannii strain MRSN7149,imipenem,8
+10488,Acinetobacter baumannii strain MRSN7154,imipenem,1
+10490,Acinetobacter baumannii strain MRSN7155,imipenem,1
+10496,Acinetobacter baumannii strain MRSN7160,imipenem,8
+10498,Acinetobacter baumannii strain MRSN7161,imipenem,2
+10507,Acinetobacter baumannii strain MRSN7170,imipenem,4
+10511,Acinetobacter baumannii strain MRSN7173,imipenem,2
+10516,Acinetobacter baumannii strain MRSN7184,imipenem,1
+10522,Acinetobacter baumannii strain MRSN7204,imipenem,1
+10533,Acinetobacter baumannii strain MRSN7220,imipenem,1
+10536,Acinetobacter baumannii strain MRSN7222,imipenem,8
+10538,Acinetobacter baumannii strain MRSN7223,imipenem,8
+10546,Acinetobacter baumannii strain MRSN7232,imipenem,8
+10548,Acinetobacter baumannii strain MRSN7234,imipenem,16
+10550,Acinetobacter baumannii strain MRSN7235,imipenem,16
+10552,Acinetobacter baumannii strain MRSN7236,imipenem,8
+10555,Acinetobacter baumannii strain MRSN7238,imipenem,2
+10571,Acinetobacter baumannii strain MRSN7257,imipenem,16
+10586,Acinetobacter baumannii strain MRSN7279,imipenem,1
+10591,Acinetobacter baumannii strain MRSN7284,imipenem,8
+10608,Acinetobacter baumannii strain MRSN7305,imipenem,4
+10610,Acinetobacter baumannii strain MRSN7306,imipenem,8
+10614,Acinetobacter baumannii strain MRSN7310,imipenem,1
+10627,Acinetobacter baumannii strain MRSN7328,imipenem,4
+10629,Acinetobacter baumannii strain MRSN7330,imipenem,4
+10636,Acinetobacter baumannii strain MRSN7344,imipenem,1
+10638,Acinetobacter baumannii strain MRSN7345,imipenem,1
+10641,Acinetobacter baumannii strain MRSN7347,imipenem,1
+10644,Acinetobacter baumannii strain MRSN7349,imipenem,1
+10654,Acinetobacter baumannii strain MRSN7359,imipenem,16
+10661,Acinetobacter baumannii strain MRSN7365,imipenem,1
+10666,Acinetobacter baumannii strain MRSN7370,imipenem,8
+10668,Acinetobacter baumannii strain MRSN7372,imipenem,2
+10671,Acinetobacter baumannii strain MRSN7375,imipenem,16
+10674,Acinetobacter baumannii strain MRSN7377,imipenem,8
+10676,Acinetobacter baumannii strain MRSN7378,imipenem,8
+10679,Acinetobacter baumannii strain MRSN7380,imipenem,16
+10686,Acinetobacter baumannii strain MRSN7387,imipenem,8
+10688,Acinetobacter baumannii strain MRSN7389,imipenem,8
+10690,Acinetobacter baumannii strain MRSN7390,imipenem,16
+10695,Acinetobacter baumannii strain MRSN7394,imipenem,16
+10699,Acinetobacter baumannii strain MRSN7401,imipenem,16
+10701,Acinetobacter baumannii strain MRSN7402,imipenem,16
+10703,Acinetobacter baumannii strain MRSN7403,imipenem,8
+10705,Acinetobacter baumannii strain MRSN7404,imipenem,1
+10707,Acinetobacter baumannii strain MRSN7405,imipenem,1
+10710,Acinetobacter baumannii strain MRSN7407,imipenem,8
+10712,Acinetobacter baumannii strain MRSN7408,imipenem,8
+10714,Acinetobacter baumannii strain MRSN7409,imipenem,16
+10717,Acinetobacter baumannii strain MRSN7411,imipenem,8
+10720,Acinetobacter baumannii strain MRSN7413,imipenem,16
+10722,Acinetobacter baumannii strain MRSN7414,imipenem,16
+10725,Acinetobacter baumannii strain MRSN7416,imipenem,8
+10727,Acinetobacter baumannii strain MRSN7417,imipenem,8
+10729,Acinetobacter baumannii strain MRSN7418,imipenem,8
+10733,Acinetobacter baumannii strain MRSN7423,imipenem,8
+10739,Acinetobacter baumannii strain MRSN7438,imipenem,16
+10742,Acinetobacter baumannii strain MRSN7441,imipenem,1
+10745,Acinetobacter baumannii strain MRSN7447,imipenem,16
+10747,Acinetobacter baumannii strain MRSN7448,imipenem,4
+10749,Acinetobacter baumannii strain MRSN7454,imipenem,8
+10755,Acinetobacter baumannii strain MRSN7460,imipenem,1
+10757,Acinetobacter baumannii strain MRSN7461,imipenem,8
+10759,Acinetobacter baumannii strain MRSN7462,imipenem,16
+10763,Acinetobacter baumannii strain MRSN7467,imipenem,8
+10765,Acinetobacter baumannii strain MRSN7468,imipenem,1
+10767,Acinetobacter baumannii strain MRSN7469,imipenem,1
+10772,Acinetobacter baumannii strain MRSN7474,imipenem,1
+10774,Acinetobacter baumannii strain MRSN7475,imipenem,8
+10777,Acinetobacter baumannii strain MRSN7478,imipenem,16
+10783,Acinetobacter baumannii strain MRSN7485,imipenem,8
+10792,Acinetobacter baumannii strain MRSN7497,imipenem,16
+10794,Acinetobacter baumannii strain MRSN7498,imipenem,16
+10811,Acinetobacter baumannii strain MRSN7521,imipenem,8
+10829,Acinetobacter baumannii strain MRSN7557,imipenem,8
+10839,Acinetobacter baumannii strain MRSN7570,imipenem,2
+10844,Acinetobacter baumannii strain MRSN7578,imipenem,8
+10848,Acinetobacter baumannii strain MRSN7582,imipenem,16
+10859,Acinetobacter baumannii strain MRSN7599,imipenem,16
+10868,Acinetobacter baumannii strain MRSN7617,imipenem,8
+10876,Acinetobacter baumannii strain MRSN7636,imipenem,8
+10880,Acinetobacter baumannii strain MRSN7640,imipenem,8
+10891,Acinetobacter baumannii strain MRSN7655,imipenem,1
+10898,Acinetobacter baumannii strain MRSN7668,imipenem,8
+10901,Acinetobacter baumannii strain MRSN7670,imipenem,16
+10909,Acinetobacter baumannii strain MRSN7677,imipenem,8
+10926,Acinetobacter baumannii strain MRSN7706,imipenem,16
+10928,Acinetobacter baumannii strain MRSN7707,imipenem,16
+10937,Acinetobacter baumannii strain MRSN7718,imipenem,8
+10986,Acinetobacter baumannii strain MRSN7822,imipenem,8
+10993,Acinetobacter baumannii strain MRSN7834,imipenem,8
+10994,Acinetobacter baumannii strain MRSN7834,imipenem,16
+10996,Acinetobacter baumannii strain MRSN83,imipenem,16
+10998,Acinetobacter baumannii strain MRSN85,imipenem,16
+10999,Acinetobacter baumannii strain MRSN85,imipenem,8
+11002,Acinetobacter baumannii strain MRSN870,imipenem,16
+11006,Acinetobacter baumannii strain MRSN888,imipenem,1
+11010,Acinetobacter baumannii strain MRSN89,imipenem,16
+11012,Acinetobacter baumannii strain MRSN890,imipenem,16
+11019,Acinetobacter baumannii strain MRSN899,imipenem,8
+11022,Acinetobacter baumannii strain MRSN909,imipenem,16
+11025,Acinetobacter baumannii strain MRSN915,imipenem,16
+11028,Acinetobacter baumannii strain MRSN922,imipenem,16
+11031,Acinetobacter baumannii strain MRSN929,imipenem,16
+11033,Acinetobacter baumannii strain MRSN946,imipenem,8
+11035,Acinetobacter baumannii strain MRSN953,imipenem,16
+11037,Acinetobacter baumannii strain MRSN966,imipenem,8
+11094,Acinetobacter baumannii strain MRSN10371,levofloxacin,8
+11095,Acinetobacter baumannii strain MRSN10371,levofloxacin,4
+11098,Acinetobacter baumannii strain MRSN11653,levofloxacin,4
+11099,Acinetobacter baumannii strain MRSN11653,levofloxacin,4
+11101,Acinetobacter baumannii strain MRSN11659,levofloxacin,4
+11102,Acinetobacter baumannii strain MRSN11659,levofloxacin,4
+11105,Acinetobacter baumannii strain MRSN11669,levofloxacin,4
+11106,Acinetobacter baumannii strain MRSN11669,levofloxacin,4
+11108,Acinetobacter baumannii strain MRSN11675,levofloxacin,4
+11110,Acinetobacter baumannii strain MRSN11679,levofloxacin,4
+11116,Acinetobacter baumannii strain MRSN11688,levofloxacin,4
+11117,Acinetobacter baumannii strain MRSN11688,levofloxacin,4
+11123,Acinetobacter baumannii strain MRSN11701,levofloxacin,4
+11126,Acinetobacter baumannii strain MRSN11708,levofloxacin,4
+11127,Acinetobacter baumannii strain MRSN11708,levofloxacin,4
+11140,Acinetobacter baumannii strain MRSN11729,levofloxacin,2
+11141,Acinetobacter baumannii strain MRSN11729,levofloxacin,1
+11147,Acinetobacter baumannii strain MRSN11742,levofloxacin,4
+11148,Acinetobacter baumannii strain MRSN11742,levofloxacin,4
+11152,Acinetobacter baumannii strain MRSN11747,levofloxacin,4
+11153,Acinetobacter baumannii strain MRSN11747,levofloxacin,8
+11159,Acinetobacter baumannii strain MRSN11760,levofloxacin,4
+11165,Acinetobacter baumannii strain MRSN11765,levofloxacin,0.12
+11166,Acinetobacter baumannii strain MRSN11765,levofloxacin,1
+11173,Acinetobacter baumannii strain MRSN11772,levofloxacin,8
+11174,Acinetobacter baumannii strain MRSN11772,levofloxacin,4
+11176,Acinetobacter baumannii strain MRSN11774,levofloxacin,8
+11177,Acinetobacter baumannii strain MRSN11774,levofloxacin,4
+11184,Acinetobacter baumannii strain MRSN11783,levofloxacin,4
+11187,Acinetobacter baumannii strain MRSN11788,levofloxacin,4
+11194,Acinetobacter baumannii strain MRSN11797,levofloxacin,4
+11197,Acinetobacter baumannii strain MRSN11803,levofloxacin,4
+11199,Acinetobacter baumannii strain MRSN11804,levofloxacin,4
+11201,Acinetobacter baumannii strain MRSN11806,levofloxacin,4
+11203,Acinetobacter baumannii strain MRSN11807,levofloxacin,4
+11205,Acinetobacter baumannii strain MRSN11811,levofloxacin,4
+11207,Acinetobacter baumannii strain MRSN11812,levofloxacin,4
+11210,Acinetobacter baumannii strain MRSN11815,levofloxacin,1
+11212,Acinetobacter baumannii strain MRSN11816,levofloxacin,1
+11215,Acinetobacter baumannii strain MRSN11820,levofloxacin,4
+11217,Acinetobacter baumannii strain MRSN11822,levofloxacin,2
+11219,Acinetobacter baumannii strain MRSN11823,levofloxacin,4
+11221,Acinetobacter baumannii strain MRSN11826,levofloxacin,1
+11225,Acinetobacter baumannii strain MRSN1339,levofloxacin,2
+11226,Acinetobacter baumannii strain MRSN1339,levofloxacin,1
+11228,Acinetobacter baumannii strain MRSN1410,levofloxacin,4
+11230,Acinetobacter baumannii strain MRSN1420,levofloxacin,4
+11232,Acinetobacter baumannii strain MRSN1428,levofloxacin,0.12
+11234,Acinetobacter baumannii strain MRSN1439,levofloxacin,1
+11236,Acinetobacter baumannii strain MRSN1449,levofloxacin,1
+11238,Acinetobacter baumannii strain MRSN1450,levofloxacin,4
+11240,Acinetobacter baumannii strain MRSN1461,levofloxacin,4
+11243,Acinetobacter baumannii strain MRSN15039,levofloxacin,4
+11245,Acinetobacter baumannii strain MRSN15042,levofloxacin,1
+11249,Acinetobacter baumannii strain MRSN15045,levofloxacin,2
+11251,Acinetobacter baumannii strain MRSN15046,levofloxacin,2
+11254,Acinetobacter baumannii strain MRSN15048,levofloxacin,4
+11257,Acinetobacter baumannii strain MRSN15065,levofloxacin,4
+11259,Acinetobacter baumannii strain MRSN15066,levofloxacin,4
+11263,Acinetobacter baumannii strain MRSN15070,levofloxacin,2
+11271,Acinetobacter baumannii strain MRSN15079,levofloxacin,4
+11274,Acinetobacter baumannii strain MRSN15081,levofloxacin,4
+11278,Acinetobacter baumannii strain MRSN15084,levofloxacin,4
+11279,Acinetobacter baumannii strain MRSN15084,levofloxacin,4
+11281,Acinetobacter baumannii strain MRSN15085,levofloxacin,4
+11283,Acinetobacter baumannii strain MRSN15086,levofloxacin,1
+11287,Acinetobacter baumannii strain MRSN1551,levofloxacin,1
+11289,Acinetobacter baumannii strain MRSN1598,levofloxacin,1
+11291,Acinetobacter baumannii strain MRSN16874,levofloxacin,4
+11297,Acinetobacter baumannii strain MRSN16901,levofloxacin,4
+11299,Acinetobacter baumannii strain MRSN1738,levofloxacin,4
+11302,Acinetobacter baumannii strain MRSN17593,levofloxacin,4
+11304,Acinetobacter baumannii strain MRSN1967,levofloxacin,4
+11308,Acinetobacter baumannii strain MRSN1987,levofloxacin,8
+11310,Acinetobacter baumannii strain MRSN1988,levofloxacin,4
+11312,Acinetobacter baumannii strain MRSN1992,levofloxacin,4
+11314,Acinetobacter baumannii strain MRSN1998,levofloxacin,8
+11316,Acinetobacter baumannii strain MRSN2009,levofloxacin,1
+11318,Acinetobacter baumannii strain MRSN2021,levofloxacin,4
+11320,Acinetobacter baumannii strain MRSN2024,levofloxacin,4
+11323,Acinetobacter baumannii strain MRSN20755,levofloxacin,1
+11325,Acinetobacter baumannii strain MRSN2427,levofloxacin,4
+11326,Acinetobacter baumannii strain MRSN2427,levofloxacin,8
+11328,Acinetobacter baumannii strain MRSN2441,levofloxacin,4
+11329,Acinetobacter baumannii strain MRSN2441,levofloxacin,8
+11331,Acinetobacter baumannii strain MRSN2821,levofloxacin,0.12
+11332,Acinetobacter baumannii strain MRSN2821,levofloxacin,2
+11334,Acinetobacter baumannii strain MRSN2830,levofloxacin,1
+11335,Acinetobacter baumannii strain MRSN2830,levofloxacin,2
+11337,Acinetobacter baumannii strain MRSN2839,levofloxacin,8
+11338,Acinetobacter baumannii strain MRSN2839,levofloxacin,4
+11340,Acinetobacter baumannii strain MRSN2840,levofloxacin,8
+11341,Acinetobacter baumannii strain MRSN2840,levofloxacin,4
+11343,Acinetobacter baumannii strain MRSN3360,levofloxacin,8
+11345,Acinetobacter baumannii strain MRSN3547,levofloxacin,4
+11348,Acinetobacter baumannii strain MRSN3843,levofloxacin,1
+11350,Acinetobacter baumannii strain MRSN3851,levofloxacin,8
+11352,Acinetobacter baumannii strain MRSN3941,levofloxacin,4
+11353,Acinetobacter baumannii strain MRSN3941,levofloxacin,8
+11355,Acinetobacter baumannii strain MRSN4119,levofloxacin,8
+11356,Acinetobacter baumannii strain MRSN4119,levofloxacin,4
+11358,Acinetobacter baumannii strain MRSN4481,levofloxacin,8
+11360,Acinetobacter baumannii strain MRSN5540,levofloxacin,4
+11361,Acinetobacter baumannii strain MRSN5540,levofloxacin,4
+11363,Acinetobacter baumannii strain MRSN6269,levofloxacin,4
+11364,Acinetobacter baumannii strain MRSN6269,levofloxacin,8
+11366,Acinetobacter baumannii strain MRSN6273,levofloxacin,4
+11367,Acinetobacter baumannii strain MRSN6273,levofloxacin,8
+11370,Acinetobacter baumannii strain MRSN7069,levofloxacin,8
+11371,Acinetobacter baumannii strain MRSN7069,levofloxacin,4
+11374,Acinetobacter baumannii strain MRSN7072,levofloxacin,4
+11375,Acinetobacter baumannii strain MRSN7072,levofloxacin,8
+11381,Acinetobacter baumannii strain MRSN7081,levofloxacin,2
+11382,Acinetobacter baumannii strain MRSN7081,levofloxacin,1
+11392,Acinetobacter baumannii strain MRSN7108,levofloxacin,4
+11393,Acinetobacter baumannii strain MRSN7108,levofloxacin,8
+11404,Acinetobacter baumannii strain MRSN7128,levofloxacin,8
+11405,Acinetobacter baumannii strain MRSN7128,levofloxacin,4
+11409,Acinetobacter baumannii strain MRSN7134,levofloxacin,4
+11410,Acinetobacter baumannii strain MRSN7134,levofloxacin,8
+11419,Acinetobacter baumannii strain MRSN7147,levofloxacin,2
+11422,Acinetobacter baumannii strain MRSN7149,levofloxacin,2
+11426,Acinetobacter baumannii strain MRSN7154,levofloxacin,4
+11427,Acinetobacter baumannii strain MRSN7154,levofloxacin,8
+11429,Acinetobacter baumannii strain MRSN7155,levofloxacin,8
+11430,Acinetobacter baumannii strain MRSN7155,levofloxacin,4
+11435,Acinetobacter baumannii strain MRSN7161,levofloxacin,4
+11436,Acinetobacter baumannii strain MRSN7161,levofloxacin,4
+11447,Acinetobacter baumannii strain MRSN7173,levofloxacin,4
+11448,Acinetobacter baumannii strain MRSN7173,levofloxacin,4
+11453,Acinetobacter baumannii strain MRSN7184,levofloxacin,2
+11454,Acinetobacter baumannii strain MRSN7184,levofloxacin,1
+11459,Acinetobacter baumannii strain MRSN7204,levofloxacin,0.25
+11460,Acinetobacter baumannii strain MRSN7204,levofloxacin,2
+11469,Acinetobacter baumannii strain MRSN7217,levofloxacin,1
+11470,Acinetobacter baumannii strain MRSN7217,levofloxacin,0.5
+11473,Acinetobacter baumannii strain MRSN7220,levofloxacin,2
+11476,Acinetobacter baumannii strain MRSN7222,levofloxacin,4
+11477,Acinetobacter baumannii strain MRSN7222,levofloxacin,8
+11479,Acinetobacter baumannii strain MRSN7223,levofloxacin,1
+11480,Acinetobacter baumannii strain MRSN7223,levofloxacin,2
+11486,Acinetobacter baumannii strain MRSN7232,levofloxacin,4
+11487,Acinetobacter baumannii strain MRSN7232,levofloxacin,4
+11489,Acinetobacter baumannii strain MRSN7234,levofloxacin,4
+11490,Acinetobacter baumannii strain MRSN7234,levofloxacin,8
+11492,Acinetobacter baumannii strain MRSN7235,levofloxacin,4
+11493,Acinetobacter baumannii strain MRSN7235,levofloxacin,8
+11495,Acinetobacter baumannii strain MRSN7236,levofloxacin,8
+11496,Acinetobacter baumannii strain MRSN7236,levofloxacin,4
+11525,Acinetobacter baumannii strain MRSN7279,levofloxacin,4
+11528,Acinetobacter baumannii strain MRSN7281,levofloxacin,2
+11544,Acinetobacter baumannii strain MRSN7310,levofloxacin,8
+11545,Acinetobacter baumannii strain MRSN7310,levofloxacin,4
+11559,Acinetobacter baumannii strain MRSN7344,levofloxacin,8
+11560,Acinetobacter baumannii strain MRSN7344,levofloxacin,4
+11562,Acinetobacter baumannii strain MRSN7345,levofloxacin,1
+11563,Acinetobacter baumannii strain MRSN7345,levofloxacin,0.12
+11566,Acinetobacter baumannii strain MRSN7347,levofloxacin,0.12
+11567,Acinetobacter baumannii strain MRSN7347,levofloxacin,1
+11570,Acinetobacter baumannii strain MRSN7349,levofloxacin,8
+11579,Acinetobacter baumannii strain MRSN7365,levofloxacin,8
+11583,Acinetobacter baumannii strain MRSN7370,levofloxacin,2
+11596,Acinetobacter baumannii strain MRSN7401,levofloxacin,8
+11597,Acinetobacter baumannii strain MRSN7401,levofloxacin,4
+11601,Acinetobacter baumannii strain MRSN7408,levofloxacin,4
+11602,Acinetobacter baumannii strain MRSN7408,levofloxacin,8
+11607,Acinetobacter baumannii strain MRSN7417,levofloxacin,4
+11608,Acinetobacter baumannii strain MRSN7417,levofloxacin,4
+11610,Acinetobacter baumannii strain MRSN7418,levofloxacin,4
+11611,Acinetobacter baumannii strain MRSN7418,levofloxacin,8
+11614,Acinetobacter baumannii strain MRSN7423,levofloxacin,8
+11615,Acinetobacter baumannii strain MRSN7423,levofloxacin,4
+11622,Acinetobacter baumannii strain MRSN7441,levofloxacin,2
+11623,Acinetobacter baumannii strain MRSN7441,levofloxacin,2
+11626,Acinetobacter baumannii strain MRSN7447,levofloxacin,8
+11627,Acinetobacter baumannii strain MRSN7447,levofloxacin,4
+11629,Acinetobacter baumannii strain MRSN7448,levofloxacin,4
+11630,Acinetobacter baumannii strain MRSN7448,levofloxacin,4
+11634,Acinetobacter baumannii strain MRSN7460,levofloxacin,2
+11635,Acinetobacter baumannii strain MRSN7460,levofloxacin,0.12
+11640,Acinetobacter baumannii strain MRSN7468,levofloxacin,8
+11641,Acinetobacter baumannii strain MRSN7468,levofloxacin,4
+11643,Acinetobacter baumannii strain MRSN7469,levofloxacin,2
+11644,Acinetobacter baumannii strain MRSN7469,levofloxacin,1
+11649,Acinetobacter baumannii strain MRSN7474,levofloxacin,2
+11650,Acinetobacter baumannii strain MRSN7474,levofloxacin,2
+11654,Acinetobacter baumannii strain MRSN7478,levofloxacin,8
+11655,Acinetobacter baumannii strain MRSN7478,levofloxacin,4
+11668,Acinetobacter baumannii strain MRSN7497,levofloxacin,4
+11669,Acinetobacter baumannii strain MRSN7497,levofloxacin,4
+11683,Acinetobacter baumannii strain MRSN7521,levofloxacin,8
+11684,Acinetobacter baumannii strain MRSN7521,levofloxacin,4
+11709,Acinetobacter baumannii strain MRSN7570,levofloxacin,8
+11710,Acinetobacter baumannii strain MRSN7570,levofloxacin,4
+11735,Acinetobacter baumannii strain MRSN7629,levofloxacin,4
+11736,Acinetobacter baumannii strain MRSN7629,levofloxacin,4
+11750,Acinetobacter baumannii strain MRSN7655,levofloxacin,2
+11751,Acinetobacter baumannii strain MRSN7655,levofloxacin,0.12
+11756,Acinetobacter baumannii strain MRSN7668,levofloxacin,4
+11757,Acinetobacter baumannii strain MRSN7668,levofloxacin,4
+11760,Acinetobacter baumannii strain MRSN7670,levofloxacin,4
+11761,Acinetobacter baumannii strain MRSN7670,levofloxacin,8
+11783,Acinetobacter baumannii strain MRSN7707,levofloxacin,8
+11784,Acinetobacter baumannii strain MRSN7707,levofloxacin,4
+11794,Acinetobacter baumannii strain MRSN7718,levofloxacin,4
+11795,Acinetobacter baumannii strain MRSN7718,levofloxacin,8
+11802,Acinetobacter baumannii strain MRSN7730,levofloxacin,8
+11803,Acinetobacter baumannii strain MRSN7730,levofloxacin,4
+11820,Acinetobacter baumannii strain MRSN7776,levofloxacin,4
+11821,Acinetobacter baumannii strain MRSN7776,levofloxacin,4
+11828,Acinetobacter baumannii strain MRSN7790,levofloxacin,4
+11829,Acinetobacter baumannii strain MRSN7790,levofloxacin,8
+11846,Acinetobacter baumannii strain MRSN7822,levofloxacin,4
+11853,Acinetobacter baumannii strain MRSN83,levofloxacin,4
+11854,Acinetobacter baumannii strain MRSN83,levofloxacin,4
+11856,Acinetobacter baumannii strain MRSN85,levofloxacin,4
+11857,Acinetobacter baumannii strain MRSN85,levofloxacin,4
+11862,Acinetobacter baumannii strain MRSN888,levofloxacin,4
+11865,Acinetobacter baumannii strain MRSN8899,levofloxacin,4
+11866,Acinetobacter baumannii strain MRSN8899,levofloxacin,8
+11868,Acinetobacter baumannii strain MRSN89,levofloxacin,8
+11870,Acinetobacter baumannii strain MRSN890,levofloxacin,4
+11872,Acinetobacter baumannii strain MRSN8900,levofloxacin,8
+11873,Acinetobacter baumannii strain MRSN8900,levofloxacin,4
+11875,Acinetobacter baumannii strain MRSN8901,levofloxacin,8
+11876,Acinetobacter baumannii strain MRSN8901,levofloxacin,4
+11878,Acinetobacter baumannii strain MRSN8902,levofloxacin,4
+11879,Acinetobacter baumannii strain MRSN8902,levofloxacin,8
+11881,Acinetobacter baumannii strain MRSN8903,levofloxacin,8
+11882,Acinetobacter baumannii strain MRSN8903,levofloxacin,4
+11886,Acinetobacter baumannii strain MRSN899,levofloxacin,8
+11889,Acinetobacter baumannii strain MRSN908,levofloxacin,4
+11890,Acinetobacter baumannii strain MRSN908,levofloxacin,4
+11892,Acinetobacter baumannii strain MRSN909,levofloxacin,8
+11894,Acinetobacter baumannii strain MRSN910,levofloxacin,8
+11896,Acinetobacter baumannii strain MRSN915,levofloxacin,8
+11898,Acinetobacter baumannii strain MRSN916,levofloxacin,4
+11900,Acinetobacter baumannii strain MRSN917,levofloxacin,8
+11902,Acinetobacter baumannii strain MRSN919,levofloxacin,8
+11904,Acinetobacter baumannii strain MRSN920,levofloxacin,4
+11906,Acinetobacter baumannii strain MRSN921,levofloxacin,8
+11908,Acinetobacter baumannii strain MRSN926,levofloxacin,8
+11910,Acinetobacter baumannii strain MRSN927,levofloxacin,8
+11912,Acinetobacter baumannii strain MRSN929,levofloxacin,8
+11914,Acinetobacter baumannii strain MRSN939,levofloxacin,4
+11916,Acinetobacter baumannii strain MRSN946,levofloxacin,8
+11918,Acinetobacter baumannii strain MRSN953,levofloxacin,4
+11920,Acinetobacter baumannii strain MRSN966,levofloxacin,4
+12080,Acinetobacter baumannii strain MRSN15038,meropenem,2
+12107,Acinetobacter baumannii strain MRSN15084,meropenem,1
+12146,Acinetobacter baumannii strain MRSN3941,meropenem,8
+12188,Acinetobacter baumannii strain MRSN7521,meropenem,8
+12223,Acinetobacter baumannii strain MRSN83,meropenem,16
+12225,Acinetobacter baumannii strain MRSN85,meropenem,8
+12233,Acinetobacter baumannii strain MRSN89,meropenem,16
+12317,Acinetobacter baumannii strain MRSN15038,moxifloxacin,0.25
+12344,Acinetobacter baumannii strain MRSN15084,moxifloxacin,8
+12485,Acinetobacter baumannii strain MRSN15038,nitrofurantoin,512
+12512,Acinetobacter baumannii strain MRSN15084,nitrofurantoin,512
+13264,Acinetobacter baumannii strain MRSN10371,tetracycline,8
+13267,Acinetobacter baumannii strain MRSN11653,tetracycline,8
+13269,Acinetobacter baumannii strain MRSN11659,tetracycline,4
+13271,Acinetobacter baumannii strain MRSN11660,tetracycline,8
+13274,Acinetobacter baumannii strain MRSN11674,tetracycline,8
+13276,Acinetobacter baumannii strain MRSN11675,tetracycline,8
+13282,Acinetobacter baumannii strain MRSN11688,tetracycline,4
+13287,Acinetobacter baumannii strain MRSN11701,tetracycline,8
+13289,Acinetobacter baumannii strain MRSN11705,tetracycline,8
+13291,Acinetobacter baumannii strain MRSN11706,tetracycline,8
+13294,Acinetobacter baumannii strain MRSN11708,tetracycline,8
+13297,Acinetobacter baumannii strain MRSN11710,tetracycline,8
+13300,Acinetobacter baumannii strain MRSN11713,tetracycline,8
+13316,Acinetobacter baumannii strain MRSN11739,tetracycline,8
+13318,Acinetobacter baumannii strain MRSN11742,tetracycline,8
+13321,Acinetobacter baumannii strain MRSN11745,tetracycline,8
+13323,Acinetobacter baumannii strain MRSN11746,tetracycline,8
+13325,Acinetobacter baumannii strain MRSN11747,tetracycline,8
+13328,Acinetobacter baumannii strain MRSN11749,tetracycline,4
+13330,Acinetobacter baumannii strain MRSN11750,tetracycline,4
+13335,Acinetobacter baumannii strain MRSN11760,tetracycline,8
+13341,Acinetobacter baumannii strain MRSN11765,tetracycline,4
+13348,Acinetobacter baumannii strain MRSN11772,tetracycline,8
+13355,Acinetobacter baumannii strain MRSN11783,tetracycline,8
+13358,Acinetobacter baumannii strain MRSN11788,tetracycline,8
+13365,Acinetobacter baumannii strain MRSN11797,tetracycline,8
+13368,Acinetobacter baumannii strain MRSN11803,tetracycline,8
+13370,Acinetobacter baumannii strain MRSN11804,tetracycline,8
+13372,Acinetobacter baumannii strain MRSN11806,tetracycline,8
+13374,Acinetobacter baumannii strain MRSN11807,tetracycline,8
+13376,Acinetobacter baumannii strain MRSN11811,tetracycline,8
+13378,Acinetobacter baumannii strain MRSN11812,tetracycline,8
+13380,Acinetobacter baumannii strain MRSN11813,tetracycline,8
+13382,Acinetobacter baumannii strain MRSN11815,tetracycline,4
+13384,Acinetobacter baumannii strain MRSN11816,tetracycline,4
+13386,Acinetobacter baumannii strain MRSN11819,tetracycline,2
+13389,Acinetobacter baumannii strain MRSN11821,tetracycline,2
+13391,Acinetobacter baumannii strain MRSN11822,tetracycline,4
+13393,Acinetobacter baumannii strain MRSN11823,tetracycline,8
+13396,Acinetobacter baumannii strain MRSN11826,tetracycline,4
+13400,Acinetobacter baumannii strain MRSN1339,tetracycline,4
+13409,Acinetobacter baumannii strain MRSN15039,tetracycline,8
+13411,Acinetobacter baumannii strain MRSN15042,tetracycline,4
+13415,Acinetobacter baumannii strain MRSN15045,tetracycline,4
+13418,Acinetobacter baumannii strain MRSN15048,tetracycline,8
+13421,Acinetobacter baumannii strain MRSN15065,tetracycline,8
+13423,Acinetobacter baumannii strain MRSN15066,tetracycline,8
+13427,Acinetobacter baumannii strain MRSN15070,tetracycline,4
+13434,Acinetobacter baumannii strain MRSN15079,tetracycline,8
+13437,Acinetobacter baumannii strain MRSN15081,tetracycline,8
+13440,Acinetobacter baumannii strain MRSN15084,tetracycline,8
+13441,Acinetobacter baumannii strain MRSN15084,tetracycline,8
+13443,Acinetobacter baumannii strain MRSN15085,tetracycline,8
+13445,Acinetobacter baumannii strain MRSN15086,tetracycline,8
+13451,Acinetobacter baumannii strain MRSN16874,tetracycline,8
+13453,Acinetobacter baumannii strain MRSN16881,tetracycline,8
+13455,Acinetobacter baumannii strain MRSN16882,tetracycline,8
+13457,Acinetobacter baumannii strain MRSN16896,tetracycline,8
+13459,Acinetobacter baumannii strain MRSN16897,tetracycline,8
+13462,Acinetobacter baumannii strain MRSN16901,tetracycline,8
+13466,Acinetobacter baumannii strain MRSN17593,tetracycline,8
+13477,Acinetobacter baumannii strain MRSN20315,tetracycline,8
+13479,Acinetobacter baumannii strain MRSN20755,tetracycline,8
+13498,Acinetobacter baumannii strain MRSN7072,tetracycline,8
+13504,Acinetobacter baumannii strain MRSN7081,tetracycline,8
+13507,Acinetobacter baumannii strain MRSN7086,tetracycline,8
+13515,Acinetobacter baumannii strain MRSN7108,tetracycline,8
+13528,Acinetobacter baumannii strain MRSN7128,tetracycline,8
+13534,Acinetobacter baumannii strain MRSN7134,tetracycline,8
+13544,Acinetobacter baumannii strain MRSN7147,tetracycline,4
+13547,Acinetobacter baumannii strain MRSN7149,tetracycline,4
+13551,Acinetobacter baumannii strain MRSN7154,tetracycline,8
+13553,Acinetobacter baumannii strain MRSN7155,tetracycline,8
+13559,Acinetobacter baumannii strain MRSN7160,tetracycline,4
+13561,Acinetobacter baumannii strain MRSN7161,tetracycline,8
+13571,Acinetobacter baumannii strain MRSN7173,tetracycline,8
+13576,Acinetobacter baumannii strain MRSN7184,tetracycline,2
+13589,Acinetobacter baumannii strain MRSN7217,tetracycline,8
+13592,Acinetobacter baumannii strain MRSN7220,tetracycline,8
+13595,Acinetobacter baumannii strain MRSN7222,tetracycline,8
+13597,Acinetobacter baumannii strain MRSN7223,tetracycline,8
+13605,Acinetobacter baumannii strain MRSN7232,tetracycline,8
+13607,Acinetobacter baumannii strain MRSN7234,tetracycline,8
+13609,Acinetobacter baumannii strain MRSN7235,tetracycline,8
+13611,Acinetobacter baumannii strain MRSN7236,tetracycline,8
+13614,Acinetobacter baumannii strain MRSN7238,tetracycline,8
+13638,Acinetobacter baumannii strain MRSN7273,tetracycline,4
+13643,Acinetobacter baumannii strain MRSN7279,tetracycline,8
+13646,Acinetobacter baumannii strain MRSN7281,tetracycline,4
+13649,Acinetobacter baumannii strain MRSN7284,tetracycline,4
+13664,Acinetobacter baumannii strain MRSN7304,tetracycline,4
+13666,Acinetobacter baumannii strain MRSN7305,tetracycline,4
+13668,Acinetobacter baumannii strain MRSN7306,tetracycline,4
+13671,Acinetobacter baumannii strain MRSN7309,tetracycline,4
+13673,Acinetobacter baumannii strain MRSN7310,tetracycline,8
+13676,Acinetobacter baumannii strain MRSN7314,tetracycline,4
+13686,Acinetobacter baumannii strain MRSN7328,tetracycline,4
+13688,Acinetobacter baumannii strain MRSN7330,tetracycline,4
+13696,Acinetobacter baumannii strain MRSN7345,tetracycline,2
+13826,Acinetobacter baumannii strain MRSN7521,tetracycline,8
+13974,Acinetobacter baumannii strain MRSN7815,tetracycline,4
+13980,Acinetobacter baumannii strain MRSN7822,tetracycline,8
+13987,Acinetobacter baumannii strain MRSN7834,tetracycline,8
+14008,Acinetobacter baumannii strain MRSN908,tetracycline,8
+14140,Acinetobacter baumannii strain MRSN15038,tigecycline,2
+14167,Acinetobacter baumannii strain MRSN15084,tigecycline,2
+14288,Acinetobacter baumannii strain MRSN10371,tobramycin,8
+14291,Acinetobacter baumannii strain MRSN11659,tobramycin,8
+14293,Acinetobacter baumannii strain MRSN11660,tobramycin,1
+14295,Acinetobacter baumannii strain MRSN11669,tobramycin,4
+14296,Acinetobacter baumannii strain MRSN11669,tobramycin,2
+14298,Acinetobacter baumannii strain MRSN11674,tobramycin,4
+14299,Acinetobacter baumannii strain MRSN11674,tobramycin,2
+14301,Acinetobacter baumannii strain MRSN11679,tobramycin,8
+14302,Acinetobacter baumannii strain MRSN11679,tobramycin,8
+14308,Acinetobacter baumannii strain MRSN11688,tobramycin,8
+14314,Acinetobacter baumannii strain MRSN11701,tobramycin,8
+14315,Acinetobacter baumannii strain MRSN11701,tobramycin,8
+14317,Acinetobacter baumannii strain MRSN11705,tobramycin,8
+14319,Acinetobacter baumannii strain MRSN11706,tobramycin,8
+14322,Acinetobacter baumannii strain MRSN11708,tobramycin,2
+14325,Acinetobacter baumannii strain MRSN11710,tobramycin,8
+14328,Acinetobacter baumannii strain MRSN11713,tobramycin,8
+14335,Acinetobacter baumannii strain MRSN11723,tobramycin,8
+14336,Acinetobacter baumannii strain MRSN11723,tobramycin,16
+14341,Acinetobacter baumannii strain MRSN11729,tobramycin,2
+14342,Acinetobacter baumannii strain MRSN11729,tobramycin,1
+14348,Acinetobacter baumannii strain MRSN11739,tobramycin,8
+14349,Acinetobacter baumannii strain MRSN11739,tobramycin,16
+14351,Acinetobacter baumannii strain MRSN11742,tobramycin,8
+14352,Acinetobacter baumannii strain MRSN11742,tobramycin,8
+14355,Acinetobacter baumannii strain MRSN11745,tobramycin,4
+14356,Acinetobacter baumannii strain MRSN11745,tobramycin,1
+14358,Acinetobacter baumannii strain MRSN11746,tobramycin,4
+14359,Acinetobacter baumannii strain MRSN11746,tobramycin,4
+14361,Acinetobacter baumannii strain MRSN11747,tobramycin,8
+14362,Acinetobacter baumannii strain MRSN11747,tobramycin,8
+14365,Acinetobacter baumannii strain MRSN11749,tobramycin,8
+14367,Acinetobacter baumannii strain MRSN11750,tobramycin,8
+14370,Acinetobacter baumannii strain MRSN11753,tobramycin,8
+14377,Acinetobacter baumannii strain MRSN11765,tobramycin,1
+14378,Acinetobacter baumannii strain MRSN11765,tobramycin,4
+14385,Acinetobacter baumannii strain MRSN11772,tobramycin,8
+14392,Acinetobacter baumannii strain MRSN11783,tobramycin,8
+14393,Acinetobacter baumannii strain MRSN11783,tobramycin,8
+14396,Acinetobacter baumannii strain MRSN11788,tobramycin,8
+14397,Acinetobacter baumannii strain MRSN11788,tobramycin,8
+14404,Acinetobacter baumannii strain MRSN11797,tobramycin,8
+14405,Acinetobacter baumannii strain MRSN11797,tobramycin,16
+14407,Acinetobacter baumannii strain MRSN11801,tobramycin,8
+14409,Acinetobacter baumannii strain MRSN11803,tobramycin,8
+14410,Acinetobacter baumannii strain MRSN11803,tobramycin,8
+14412,Acinetobacter baumannii strain MRSN11804,tobramycin,8
+14413,Acinetobacter baumannii strain MRSN11804,tobramycin,8
+14415,Acinetobacter baumannii strain MRSN11807,tobramycin,2
+14416,Acinetobacter baumannii strain MRSN11807,tobramycin,1
+14418,Acinetobacter baumannii strain MRSN11811,tobramycin,1
+14419,Acinetobacter baumannii strain MRSN11811,tobramycin,4
+14421,Acinetobacter baumannii strain MRSN11812,tobramycin,8
+14423,Acinetobacter baumannii strain MRSN11813,tobramycin,2
+14424,Acinetobacter baumannii strain MRSN11813,tobramycin,4
+14426,Acinetobacter baumannii strain MRSN11815,tobramycin,1
+14427,Acinetobacter baumannii strain MRSN11815,tobramycin,4
+14429,Acinetobacter baumannii strain MRSN11816,tobramycin,1
+14430,Acinetobacter baumannii strain MRSN11816,tobramycin,4
+14432,Acinetobacter baumannii strain MRSN11819,tobramycin,1
+14433,Acinetobacter baumannii strain MRSN11819,tobramycin,4
+14435,Acinetobacter baumannii strain MRSN11820,tobramycin,4
+14437,Acinetobacter baumannii strain MRSN11821,tobramycin,1
+14438,Acinetobacter baumannii strain MRSN11821,tobramycin,2
+14440,Acinetobacter baumannii strain MRSN11822,tobramycin,4
+14441,Acinetobacter baumannii strain MRSN11822,tobramycin,2
+14443,Acinetobacter baumannii strain MRSN11823,tobramycin,1
+14445,Acinetobacter baumannii strain MRSN11826,tobramycin,2
+14446,Acinetobacter baumannii strain MRSN11826,tobramycin,4
+14449,Acinetobacter baumannii strain MRSN1339,tobramycin,1
+14450,Acinetobacter baumannii strain MRSN1339,tobramycin,4
+14453,Acinetobacter baumannii strain MRSN1420,tobramycin,2
+14455,Acinetobacter baumannii strain MRSN1428,tobramycin,1
+14457,Acinetobacter baumannii strain MRSN1439,tobramycin,1
+14459,Acinetobacter baumannii strain MRSN1449,tobramycin,1
+14465,Acinetobacter baumannii strain MRSN15039,tobramycin,8
+14467,Acinetobacter baumannii strain MRSN15042,tobramycin,8
+14471,Acinetobacter baumannii strain MRSN15045,tobramycin,4
+14472,Acinetobacter baumannii strain MRSN15045,tobramycin,1
+14474,Acinetobacter baumannii strain MRSN15046,tobramycin,4
+14475,Acinetobacter baumannii strain MRSN15046,tobramycin,2
+14478,Acinetobacter baumannii strain MRSN15048,tobramycin,4
+14479,Acinetobacter baumannii strain MRSN15048,tobramycin,1
+14482,Acinetobacter baumannii strain MRSN15065,tobramycin,8
+14483,Acinetobacter baumannii strain MRSN15065,tobramycin,16
+14485,Acinetobacter baumannii strain MRSN15066,tobramycin,8
+14489,Acinetobacter baumannii strain MRSN15070,tobramycin,1
+14490,Acinetobacter baumannii strain MRSN15070,tobramycin,2
+14498,Acinetobacter baumannii strain MRSN15079,tobramycin,8
+14499,Acinetobacter baumannii strain MRSN15079,tobramycin,16
+14504,Acinetobacter baumannii strain MRSN15084,tobramycin,8
+14505,Acinetobacter baumannii strain MRSN15084,tobramycin,8
+14507,Acinetobacter baumannii strain MRSN15086,tobramycin,8
+14511,Acinetobacter baumannii strain MRSN1551,tobramycin,1
+14513,Acinetobacter baumannii strain MRSN1598,tobramycin,1
+14515,Acinetobacter baumannii strain MRSN16874,tobramycin,16
+14516,Acinetobacter baumannii strain MRSN16874,tobramycin,8
+14518,Acinetobacter baumannii strain MRSN16881,tobramycin,4
+14522,Acinetobacter baumannii strain MRSN16897,tobramycin,4
+14524,Acinetobacter baumannii strain MRSN16898,tobramycin,1
+14525,Acinetobacter baumannii strain MRSN16898,tobramycin,4
+14527,Acinetobacter baumannii strain MRSN16901,tobramycin,4
+14530,Acinetobacter baumannii strain MRSN17592,tobramycin,1
+14532,Acinetobacter baumannii strain MRSN17593,tobramycin,4
+14533,Acinetobacter baumannii strain MRSN17593,tobramycin,2
+14535,Acinetobacter baumannii strain MRSN1967,tobramycin,16
+14540,Acinetobacter baumannii strain MRSN1987,tobramycin,8
+14543,Acinetobacter baumannii strain MRSN1992,tobramycin,8
+14545,Acinetobacter baumannii strain MRSN1998,tobramycin,8
+14547,Acinetobacter baumannii strain MRSN2009,tobramycin,1
+14550,Acinetobacter baumannii strain MRSN2024,tobramycin,16
+14552,Acinetobacter baumannii strain MRSN20315,tobramycin,8
+14554,Acinetobacter baumannii strain MRSN20755,tobramycin,8
+14555,Acinetobacter baumannii strain MRSN20755,tobramycin,8
+14557,Acinetobacter baumannii strain MRSN2427,tobramycin,16
+14558,Acinetobacter baumannii strain MRSN2427,tobramycin,8
+14560,Acinetobacter baumannii strain MRSN2441,tobramycin,8
+14561,Acinetobacter baumannii strain MRSN2441,tobramycin,16
+14563,Acinetobacter baumannii strain MRSN2821,tobramycin,1
+14564,Acinetobacter baumannii strain MRSN2821,tobramycin,2
+14566,Acinetobacter baumannii strain MRSN2830,tobramycin,2
+14567,Acinetobacter baumannii strain MRSN2830,tobramycin,1
+14569,Acinetobacter baumannii strain MRSN2839,tobramycin,8
+14571,Acinetobacter baumannii strain MRSN2840,tobramycin,8
+14573,Acinetobacter baumannii strain MRSN3360,tobramycin,1
+14576,Acinetobacter baumannii strain MRSN3607,tobramycin,1
+14578,Acinetobacter baumannii strain MRSN3843,tobramycin,2
+14581,Acinetobacter baumannii strain MRSN3941,tobramycin,8
+14583,Acinetobacter baumannii strain MRSN4119,tobramycin,8
+14584,Acinetobacter baumannii strain MRSN4119,tobramycin,16
+14586,Acinetobacter baumannii strain MRSN4481,tobramycin,2
+14588,Acinetobacter baumannii strain MRSN5540,tobramycin,8
+14590,Acinetobacter baumannii strain MRSN6269,tobramycin,8
+14591,Acinetobacter baumannii strain MRSN6269,tobramycin,16
+14593,Acinetobacter baumannii strain MRSN6273,tobramycin,8
+14596,Acinetobacter baumannii strain MRSN7069,tobramycin,2
+14597,Acinetobacter baumannii strain MRSN7069,tobramycin,1
+14600,Acinetobacter baumannii strain MRSN7072,tobramycin,8
+14606,Acinetobacter baumannii strain MRSN7081,tobramycin,8
+14609,Acinetobacter baumannii strain MRSN7086,tobramycin,8
+14610,Acinetobacter baumannii strain MRSN7086,tobramycin,8
+14617,Acinetobacter baumannii strain MRSN7108,tobramycin,1
+14618,Acinetobacter baumannii strain MRSN7108,tobramycin,2
+14631,Acinetobacter baumannii strain MRSN7128,tobramycin,8
+14632,Acinetobacter baumannii strain MRSN7128,tobramycin,16
+14638,Acinetobacter baumannii strain MRSN7134,tobramycin,8
+14639,Acinetobacter baumannii strain MRSN7134,tobramycin,8
+14652,Acinetobacter baumannii strain MRSN7155,tobramycin,8
+14658,Acinetobacter baumannii strain MRSN7161,tobramycin,8
+14659,Acinetobacter baumannii strain MRSN7161,tobramycin,16
+14670,Acinetobacter baumannii strain MRSN7173,tobramycin,8
+14671,Acinetobacter baumannii strain MRSN7173,tobramycin,8
+14676,Acinetobacter baumannii strain MRSN7184,tobramycin,8
+14682,Acinetobacter baumannii strain MRSN7204,tobramycin,8
+14692,Acinetobacter baumannii strain MRSN7220,tobramycin,8
+14701,Acinetobacter baumannii strain MRSN7232,tobramycin,1
+14703,Acinetobacter baumannii strain MRSN7235,tobramycin,4
+14704,Acinetobacter baumannii strain MRSN7235,tobramycin,1
+14706,Acinetobacter baumannii strain MRSN7236,tobramycin,1
+14707,Acinetobacter baumannii strain MRSN7236,tobramycin,4
+14710,Acinetobacter baumannii strain MRSN7238,tobramycin,1
+14711,Acinetobacter baumannii strain MRSN7238,tobramycin,1
+14738,Acinetobacter baumannii strain MRSN7279,tobramycin,8
+14739,Acinetobacter baumannii strain MRSN7279,tobramycin,8
+14756,Acinetobacter baumannii strain MRSN7310,tobramycin,1
+14757,Acinetobacter baumannii strain MRSN7310,tobramycin,4
+14766,Acinetobacter baumannii strain MRSN7330,tobramycin,8
+14772,Acinetobacter baumannii strain MRSN7345,tobramycin,4
+14773,Acinetobacter baumannii strain MRSN7345,tobramycin,1
+14776,Acinetobacter baumannii strain MRSN7347,tobramycin,1
+14777,Acinetobacter baumannii strain MRSN7347,tobramycin,1
+14780,Acinetobacter baumannii strain MRSN7349,tobramycin,2
+14781,Acinetobacter baumannii strain MRSN7349,tobramycin,1
+14790,Acinetobacter baumannii strain MRSN7365,tobramycin,8
+14791,Acinetobacter baumannii strain MRSN7365,tobramycin,8
+14795,Acinetobacter baumannii strain MRSN7370,tobramycin,8
+14798,Acinetobacter baumannii strain MRSN7378,tobramycin,8
+14804,Acinetobacter baumannii strain MRSN7389,tobramycin,16
+14805,Acinetobacter baumannii strain MRSN7389,tobramycin,8
+14810,Acinetobacter baumannii strain MRSN7404,tobramycin,8
+14812,Acinetobacter baumannii strain MRSN7405,tobramycin,1
+14816,Acinetobacter baumannii strain MRSN7411,tobramycin,1
+14817,Acinetobacter baumannii strain MRSN7411,tobramycin,1
+14821,Acinetobacter baumannii strain MRSN7417,tobramycin,2
+14822,Acinetobacter baumannii strain MRSN7417,tobramycin,1
+14824,Acinetobacter baumannii strain MRSN7419,tobramycin,8
+14831,Acinetobacter baumannii strain MRSN7438,tobramycin,1
+14832,Acinetobacter baumannii strain MRSN7438,tobramycin,1
+14835,Acinetobacter baumannii strain MRSN7441,tobramycin,8
+14838,Acinetobacter baumannii strain MRSN7447,tobramycin,8
+14839,Acinetobacter baumannii strain MRSN7447,tobramycin,16
+14841,Acinetobacter baumannii strain MRSN7448,tobramycin,8
+14842,Acinetobacter baumannii strain MRSN7448,tobramycin,8
+14845,Acinetobacter baumannii strain MRSN7460,tobramycin,1
+14846,Acinetobacter baumannii strain MRSN7460,tobramycin,1
+14850,Acinetobacter baumannii strain MRSN7468,tobramycin,1
+14851,Acinetobacter baumannii strain MRSN7468,tobramycin,1
+14856,Acinetobacter baumannii strain MRSN7474,tobramycin,2
+14857,Acinetobacter baumannii strain MRSN7474,tobramycin,1
+14859,Acinetobacter baumannii strain MRSN7475,tobramycin,1
+14860,Acinetobacter baumannii strain MRSN7475,tobramycin,1
+14863,Acinetobacter baumannii strain MRSN7478,tobramycin,2
+14864,Acinetobacter baumannii strain MRSN7478,tobramycin,1
+14876,Acinetobacter baumannii strain MRSN7497,tobramycin,2
+14877,Acinetobacter baumannii strain MRSN7497,tobramycin,1
+14891,Acinetobacter baumannii strain MRSN7521,tobramycin,8
+14915,Acinetobacter baumannii strain MRSN7570,tobramycin,8
+14916,Acinetobacter baumannii strain MRSN7570,tobramycin,8
+14944,Acinetobacter baumannii strain MRSN7629,tobramycin,1
+14945,Acinetobacter baumannii strain MRSN7629,tobramycin,2
+14958,Acinetobacter baumannii strain MRSN7655,tobramycin,1
+14959,Acinetobacter baumannii strain MRSN7655,tobramycin,1
+14966,Acinetobacter baumannii strain MRSN7668,tobramycin,2
+14967,Acinetobacter baumannii strain MRSN7668,tobramycin,2
+14991,Acinetobacter baumannii strain MRSN7706,tobramycin,1
+14992,Acinetobacter baumannii strain MRSN7706,tobramycin,1
+14994,Acinetobacter baumannii strain MRSN7707,tobramycin,2
+14995,Acinetobacter baumannii strain MRSN7707,tobramycin,1
+15005,Acinetobacter baumannii strain MRSN7718,tobramycin,1
+15006,Acinetobacter baumannii strain MRSN7718,tobramycin,2
+15014,Acinetobacter baumannii strain MRSN7730,tobramycin,8
+15015,Acinetobacter baumannii strain MRSN7730,tobramycin,8
+15031,Acinetobacter baumannii strain MRSN7776,tobramycin,8
+15032,Acinetobacter baumannii strain MRSN7776,tobramycin,16
+15054,Acinetobacter baumannii strain MRSN7822,tobramycin,4
+15055,Acinetobacter baumannii strain MRSN7822,tobramycin,1
+15062,Acinetobacter baumannii strain MRSN83,tobramycin,8
+15068,Acinetobacter baumannii strain MRSN888,tobramycin,1
+15071,Acinetobacter baumannii strain MRSN8899,tobramycin,8
+15072,Acinetobacter baumannii strain MRSN8899,tobramycin,16
+15074,Acinetobacter baumannii strain MRSN89,tobramycin,8
+15076,Acinetobacter baumannii strain MRSN890,tobramycin,16
+15078,Acinetobacter baumannii strain MRSN8900,tobramycin,8
+15079,Acinetobacter baumannii strain MRSN8900,tobramycin,16
+15081,Acinetobacter baumannii strain MRSN8901,tobramycin,2
+15082,Acinetobacter baumannii strain MRSN8901,tobramycin,2
+15084,Acinetobacter baumannii strain MRSN8902,tobramycin,16
+15085,Acinetobacter baumannii strain MRSN8902,tobramycin,8
+15087,Acinetobacter baumannii strain MRSN8903,tobramycin,8
+15092,Acinetobacter baumannii strain MRSN908,tobramycin,8
+15093,Acinetobacter baumannii strain MRSN908,tobramycin,16
+15095,Acinetobacter baumannii strain MRSN909,tobramycin,2
+15097,Acinetobacter baumannii strain MRSN910,tobramycin,8
+15099,Acinetobacter baumannii strain MRSN915,tobramycin,1
+15101,Acinetobacter baumannii strain MRSN916,tobramycin,16
+15103,Acinetobacter baumannii strain MRSN917,tobramycin,16
+15105,Acinetobacter baumannii strain MRSN919,tobramycin,8
+15107,Acinetobacter baumannii strain MRSN920,tobramycin,16
+15109,Acinetobacter baumannii strain MRSN921,tobramycin,8
+15112,Acinetobacter baumannii strain MRSN926,tobramycin,16
+15114,Acinetobacter baumannii strain MRSN927,tobramycin,8
+15116,Acinetobacter baumannii strain MRSN929,tobramycin,4
+15118,Acinetobacter baumannii strain MRSN939,tobramycin,8
+15120,Acinetobacter baumannii strain MRSN953,tobramycin,1
+15122,Acinetobacter baumannii strain MRSN966,tobramycin,1
+15181,Acinetobacter baumannii strain MRSN10371,trimethoprim/sulfamethoxazole, 16/304
+15184,Acinetobacter baumannii strain MRSN11653,trimethoprim/sulfamethoxazole, 16/304
+15186,Acinetobacter baumannii strain MRSN11659,trimethoprim/sulfamethoxazole, 2/38
+15188,Acinetobacter baumannii strain MRSN11660,trimethoprim/sulfamethoxazole, 2/38
+15190,Acinetobacter baumannii strain MRSN11669,trimethoprim/sulfamethoxazole, 2/38
+15192,Acinetobacter baumannii strain MRSN11674,trimethoprim/sulfamethoxazole, 16/304
+15194,Acinetobacter baumannii strain MRSN11675,trimethoprim/sulfamethoxazole, 16/304
+15196,Acinetobacter baumannii strain MRSN11679,trimethoprim/sulfamethoxazole, 2/38
+15202,Acinetobacter baumannii strain MRSN11688,trimethoprim/sulfamethoxazole, 2/38
+15208,Acinetobacter baumannii strain MRSN11701,trimethoprim/sulfamethoxazole, 2/38
+15210,Acinetobacter baumannii strain MRSN11705,trimethoprim/sulfamethoxazole, 2/38
+15212,Acinetobacter baumannii strain MRSN11706,trimethoprim/sulfamethoxazole, 16/304
+15215,Acinetobacter baumannii strain MRSN11708,trimethoprim/sulfamethoxazole, 16/304
+15218,Acinetobacter baumannii strain MRSN11710,trimethoprim/sulfamethoxazole, 16/304
+15221,Acinetobacter baumannii strain MRSN11713,trimethoprim/sulfamethoxazole, 2/38
+15228,Acinetobacter baumannii strain MRSN11723,trimethoprim/sulfamethoxazole, 2/38
+15233,Acinetobacter baumannii strain MRSN11729,trimethoprim/sulfamethoxazole, 2/38
+15239,Acinetobacter baumannii strain MRSN11739,trimethoprim/sulfamethoxazole, 16/304
+15241,Acinetobacter baumannii strain MRSN11742,trimethoprim/sulfamethoxazole, 2/38
+15244,Acinetobacter baumannii strain MRSN11745,trimethoprim/sulfamethoxazole, 16/304
+15246,Acinetobacter baumannii strain MRSN11746,trimethoprim/sulfamethoxazole, 2/38
+15248,Acinetobacter baumannii strain MRSN11747,trimethoprim/sulfamethoxazole, 16/304
+15251,Acinetobacter baumannii strain MRSN11749,trimethoprim/sulfamethoxazole, 16/304
+15253,Acinetobacter baumannii strain MRSN11750,trimethoprim/sulfamethoxazole, 2/38
+15256,Acinetobacter baumannii strain MRSN11753,trimethoprim/sulfamethoxazole, 16/304
+15260,Acinetobacter baumannii strain MRSN11760,trimethoprim/sulfamethoxazole, 4/76
+15266,Acinetobacter baumannii strain MRSN11765,trimethoprim/sulfamethoxazole, 2/38
+15273,Acinetobacter baumannii strain MRSN11772,trimethoprim/sulfamethoxazole, 16/304
+15275,Acinetobacter baumannii strain MRSN11774,trimethoprim/sulfamethoxazole, 2/38
+15282,Acinetobacter baumannii strain MRSN11783,trimethoprim/sulfamethoxazole, 2/38
+15285,Acinetobacter baumannii strain MRSN11788,trimethoprim/sulfamethoxazole, 8/152
+15292,Acinetobacter baumannii strain MRSN11797,trimethoprim/sulfamethoxazole, 16/304
+15294,Acinetobacter baumannii strain MRSN11801,trimethoprim/sulfamethoxazole, 2/38
+15296,Acinetobacter baumannii strain MRSN11803,trimethoprim/sulfamethoxazole, 2/38
+15298,Acinetobacter baumannii strain MRSN11804,trimethoprim/sulfamethoxazole, 4/76
+15300,Acinetobacter baumannii strain MRSN11812,trimethoprim/sulfamethoxazole, 2/38
+15302,Acinetobacter baumannii strain MRSN11815,trimethoprim/sulfamethoxazole, 1/19
+15304,Acinetobacter baumannii strain MRSN11816,trimethoprim/sulfamethoxazole, 1/19
+15306,Acinetobacter baumannii strain MRSN11819,trimethoprim/sulfamethoxazole, 2/38
+15308,Acinetobacter baumannii strain MRSN11820,trimethoprim/sulfamethoxazole, 2/38
+15310,Acinetobacter baumannii strain MRSN11821,trimethoprim/sulfamethoxazole, 2/38
+15312,Acinetobacter baumannii strain MRSN11822,trimethoprim/sulfamethoxazole, 1/19
+15314,Acinetobacter baumannii strain MRSN11825,trimethoprim/sulfamethoxazole, 16/304
+15316,Acinetobacter baumannii strain MRSN11826,trimethoprim/sulfamethoxazole, 2/38
+15320,Acinetobacter baumannii strain MRSN1339,trimethoprim/sulfamethoxazole, 1/19
+15330,Acinetobacter baumannii strain MRSN15038,trimethoprim/sulfamethoxazole, 16/304
+15332,Acinetobacter baumannii strain MRSN15039,trimethoprim/sulfamethoxazole, 2/38
+15334,Acinetobacter baumannii strain MRSN15042,trimethoprim/sulfamethoxazole, 16/304
+15338,Acinetobacter baumannii strain MRSN15045,trimethoprim/sulfamethoxazole, 2/38
+15340,Acinetobacter baumannii strain MRSN15046,trimethoprim/sulfamethoxazole, 1/19
+15343,Acinetobacter baumannii strain MRSN15048,trimethoprim/sulfamethoxazole, 2/38
+15346,Acinetobacter baumannii strain MRSN15065,trimethoprim/sulfamethoxazole, 2/38
+15348,Acinetobacter baumannii strain MRSN15066,trimethoprim/sulfamethoxazole, 2/38
+15352,Acinetobacter baumannii strain MRSN15070,trimethoprim/sulfamethoxazole, 2/38
+15360,Acinetobacter baumannii strain MRSN15079,trimethoprim/sulfamethoxazole, 2/38
+15363,Acinetobacter baumannii strain MRSN15081,trimethoprim/sulfamethoxazole, 2/38
+15367,Acinetobacter baumannii strain MRSN15084,trimethoprim/sulfamethoxazole, 16/304
+15368,Acinetobacter baumannii strain MRSN15084,trimethoprim/sulfamethoxazole, 2/38
+15370,Acinetobacter baumannii strain MRSN15085,trimethoprim/sulfamethoxazole, 2/38
+15372,Acinetobacter baumannii strain MRSN15086,trimethoprim/sulfamethoxazole, 2/38
+15378,Acinetobacter baumannii strain MRSN16874,trimethoprim/sulfamethoxazole, 2/38
+15380,Acinetobacter baumannii strain MRSN16881,trimethoprim/sulfamethoxazole, 2/38
+15382,Acinetobacter baumannii strain MRSN16882,trimethoprim/sulfamethoxazole, 2/38
+15384,Acinetobacter baumannii strain MRSN16896,trimethoprim/sulfamethoxazole, 2/38
+15386,Acinetobacter baumannii strain MRSN16897,trimethoprim/sulfamethoxazole, 16/304
+15388,Acinetobacter baumannii strain MRSN16898,trimethoprim/sulfamethoxazole, 16/304
+15390,Acinetobacter baumannii strain MRSN16901,trimethoprim/sulfamethoxazole, 16/304
+15393,Acinetobacter baumannii strain MRSN17592,trimethoprim/sulfamethoxazole, 16/304
+15395,Acinetobacter baumannii strain MRSN17593,trimethoprim/sulfamethoxazole, 16/304
+15408,Acinetobacter baumannii strain MRSN20315,trimethoprim/sulfamethoxazole, 2/38
+15410,Acinetobacter baumannii strain MRSN20755,trimethoprim/sulfamethoxazole, 2/38
+15412,Acinetobacter baumannii strain MRSN2427,trimethoprim/sulfamethoxazole, 16/304
+15414,Acinetobacter baumannii strain MRSN2821,trimethoprim/sulfamethoxazole, 1/19
+15416,Acinetobacter baumannii strain MRSN2830,trimethoprim/sulfamethoxazole, 1/19
+15418,Acinetobacter baumannii strain MRSN2839,trimethoprim/sulfamethoxazole, 2/38
+15420,Acinetobacter baumannii strain MRSN2840,trimethoprim/sulfamethoxazole, 2/38
+15427,Acinetobacter baumannii strain MRSN3941,trimethoprim/sulfamethoxazole, 2/38
+15429,Acinetobacter baumannii strain MRSN4119,trimethoprim/sulfamethoxazole, 2/38
+15432,Acinetobacter baumannii strain MRSN5540,trimethoprim/sulfamethoxazole, 2/38
+15434,Acinetobacter baumannii strain MRSN6269,trimethoprim/sulfamethoxazole, 2/38
+15436,Acinetobacter baumannii strain MRSN6273,trimethoprim/sulfamethoxazole, 16/304
+15439,Acinetobacter baumannii strain MRSN7069,trimethoprim/sulfamethoxazole, 2/38
+15442,Acinetobacter baumannii strain MRSN7072,trimethoprim/sulfamethoxazole, 2/38
+15448,Acinetobacter baumannii strain MRSN7081,trimethoprim/sulfamethoxazole, 16/304
+15451,Acinetobacter baumannii strain MRSN7086,trimethoprim/sulfamethoxazole, 2/38
+15459,Acinetobacter baumannii strain MRSN7108,trimethoprim/sulfamethoxazole, 2/38
+15472,Acinetobacter baumannii strain MRSN7128,trimethoprim/sulfamethoxazole, 2/38
+15478,Acinetobacter baumannii strain MRSN7134,trimethoprim/sulfamethoxazole, 2/38
+15488,Acinetobacter baumannii strain MRSN7147,trimethoprim/sulfamethoxazole, 16/304
+15491,Acinetobacter baumannii strain MRSN7149,trimethoprim/sulfamethoxazole, 2/38
+15495,Acinetobacter baumannii strain MRSN7154,trimethoprim/sulfamethoxazole, 16/304
+15497,Acinetobacter baumannii strain MRSN7155,trimethoprim/sulfamethoxazole, 4/76
+15503,Acinetobacter baumannii strain MRSN7160,trimethoprim/sulfamethoxazole, 16/304
+15505,Acinetobacter baumannii strain MRSN7161,trimethoprim/sulfamethoxazole, 8/152
+15514,Acinetobacter baumannii strain MRSN7170,trimethoprim/sulfamethoxazole, 16/304
+15518,Acinetobacter baumannii strain MRSN7173,trimethoprim/sulfamethoxazole, 2/38
+15523,Acinetobacter baumannii strain MRSN7184,trimethoprim/sulfamethoxazole, 2/38
+15529,Acinetobacter baumannii strain MRSN7204,trimethoprim/sulfamethoxazole, 16/304
+15538,Acinetobacter baumannii strain MRSN7217,trimethoprim/sulfamethoxazole, 2/38
+15541,Acinetobacter baumannii strain MRSN7220,trimethoprim/sulfamethoxazole, 2/38
+15544,Acinetobacter baumannii strain MRSN7222,trimethoprim/sulfamethoxazole, 16/304
+15546,Acinetobacter baumannii strain MRSN7223,trimethoprim/sulfamethoxazole, 2/38
+15554,Acinetobacter baumannii strain MRSN7232,trimethoprim/sulfamethoxazole, 2/38
+15556,Acinetobacter baumannii strain MRSN7234,trimethoprim/sulfamethoxazole, 2/38
+15558,Acinetobacter baumannii strain MRSN7235,trimethoprim/sulfamethoxazole, 16/304
+15560,Acinetobacter baumannii strain MRSN7236,trimethoprim/sulfamethoxazole, 16/304
+15563,Acinetobacter baumannii strain MRSN7238,trimethoprim/sulfamethoxazole, 16/304
+15579,Acinetobacter baumannii strain MRSN7257,trimethoprim/sulfamethoxazole, 2/38
+15590,Acinetobacter baumannii strain MRSN7273,trimethoprim/sulfamethoxazole, 2/38
+15595,Acinetobacter baumannii strain MRSN7279,trimethoprim/sulfamethoxazole, 16/304
+15598,Acinetobacter baumannii strain MRSN7281,trimethoprim/sulfamethoxazole, 2/38
+15601,Acinetobacter baumannii strain MRSN7284,trimethoprim/sulfamethoxazole, 2/38
+15617,Acinetobacter baumannii strain MRSN7304,trimethoprim/sulfamethoxazole, 2/38
+15619,Acinetobacter baumannii strain MRSN7305,trimethoprim/sulfamethoxazole, 2/38
+15621,Acinetobacter baumannii strain MRSN7306,trimethoprim/sulfamethoxazole, 2/38
+15624,Acinetobacter baumannii strain MRSN7309,trimethoprim/sulfamethoxazole, 2/38
+15626,Acinetobacter baumannii strain MRSN7310,trimethoprim/sulfamethoxazole, 2/38
+15629,Acinetobacter baumannii strain MRSN7314,trimethoprim/sulfamethoxazole, 2/38
+15636,Acinetobacter baumannii strain MRSN7324,trimethoprim/sulfamethoxazole, 2/38
+15641,Acinetobacter baumannii strain MRSN7328,trimethoprim/sulfamethoxazole, 16/304
+15643,Acinetobacter baumannii strain MRSN7330,trimethoprim/sulfamethoxazole, 2/38
+15650,Acinetobacter baumannii strain MRSN7344,trimethoprim/sulfamethoxazole, 2/38
+15652,Acinetobacter baumannii strain MRSN7345,trimethoprim/sulfamethoxazole, 1/19
+15655,Acinetobacter baumannii strain MRSN7347,trimethoprim/sulfamethoxazole, 2/38
+15658,Acinetobacter baumannii strain MRSN7349,trimethoprim/sulfamethoxazole, 16/304
+15660,Acinetobacter baumannii strain MRSN7350,trimethoprim/sulfamethoxazole, 16/304
+15665,Acinetobacter baumannii strain MRSN7354,trimethoprim/sulfamethoxazole, 2/38
+15667,Acinetobacter baumannii strain MRSN7355,trimethoprim/sulfamethoxazole, 2/38
+15670,Acinetobacter baumannii strain MRSN7357,trimethoprim/sulfamethoxazole, 2/38
+15672,Acinetobacter baumannii strain MRSN7359,trimethoprim/sulfamethoxazole, 16/304
+15675,Acinetobacter baumannii strain MRSN7361,trimethoprim/sulfamethoxazole, 16/304
+15678,Acinetobacter baumannii strain MRSN7363,trimethoprim/sulfamethoxazole, 2/38
+15681,Acinetobacter baumannii strain MRSN7365,trimethoprim/sulfamethoxazole, 16/304
+15683,Acinetobacter baumannii strain MRSN7366,trimethoprim/sulfamethoxazole, 16/304
+15687,Acinetobacter baumannii strain MRSN7370,trimethoprim/sulfamethoxazole, 2/38
+15689,Acinetobacter baumannii strain MRSN7372,trimethoprim/sulfamethoxazole, 2/38
+15691,Acinetobacter baumannii strain MRSN7373,trimethoprim/sulfamethoxazole, 2/38
+15693,Acinetobacter baumannii strain MRSN7375,trimethoprim/sulfamethoxazole, 2/38
+15696,Acinetobacter baumannii strain MRSN7377,trimethoprim/sulfamethoxazole, 16/304
+15698,Acinetobacter baumannii strain MRSN7378,trimethoprim/sulfamethoxazole, 16/304
+15700,Acinetobacter baumannii strain MRSN7379,trimethoprim/sulfamethoxazole, 2/38
+15702,Acinetobacter baumannii strain MRSN7380,trimethoprim/sulfamethoxazole, 2/38
+15708,Acinetobacter baumannii strain MRSN7386,trimethoprim/sulfamethoxazole, 2/38
+15710,Acinetobacter baumannii strain MRSN7387,trimethoprim/sulfamethoxazole, 2/38
+15712,Acinetobacter baumannii strain MRSN7388,trimethoprim/sulfamethoxazole, 16/304
+15714,Acinetobacter baumannii strain MRSN7389,trimethoprim/sulfamethoxazole, 16/304
+15716,Acinetobacter baumannii strain MRSN7390,trimethoprim/sulfamethoxazole, 2/38
+15718,Acinetobacter baumannii strain MRSN7391,trimethoprim/sulfamethoxazole, 16/304
+15720,Acinetobacter baumannii strain MRSN7392,trimethoprim/sulfamethoxazole, 16/304
+15723,Acinetobacter baumannii strain MRSN7394,trimethoprim/sulfamethoxazole, 16/304
+15727,Acinetobacter baumannii strain MRSN7401,trimethoprim/sulfamethoxazole, 16/304
+15729,Acinetobacter baumannii strain MRSN7402,trimethoprim/sulfamethoxazole, 16/304
+15731,Acinetobacter baumannii strain MRSN7403,trimethoprim/sulfamethoxazole, 16/304
+15733,Acinetobacter baumannii strain MRSN7404,trimethoprim/sulfamethoxazole, 16/304
+15735,Acinetobacter baumannii strain MRSN7405,trimethoprim/sulfamethoxazole, 8/152
+15738,Acinetobacter baumannii strain MRSN7407,trimethoprim/sulfamethoxazole, 2/38
+15740,Acinetobacter baumannii strain MRSN7408,trimethoprim/sulfamethoxazole, 16/304
+15742,Acinetobacter baumannii strain MRSN7409,trimethoprim/sulfamethoxazole, 2/38
+15745,Acinetobacter baumannii strain MRSN7411,trimethoprim/sulfamethoxazole, 16/304
+15748,Acinetobacter baumannii strain MRSN7413,trimethoprim/sulfamethoxazole, 2/38
+15750,Acinetobacter baumannii strain MRSN7414,trimethoprim/sulfamethoxazole, 16/304
+15753,Acinetobacter baumannii strain MRSN7416,trimethoprim/sulfamethoxazole, 2/38
+15755,Acinetobacter baumannii strain MRSN7417,trimethoprim/sulfamethoxazole, 2/38
+15757,Acinetobacter baumannii strain MRSN7418,trimethoprim/sulfamethoxazole, 2/38
+15759,Acinetobacter baumannii strain MRSN7419,trimethoprim/sulfamethoxazole, 2/38
+15762,Acinetobacter baumannii strain MRSN7421,trimethoprim/sulfamethoxazole, 16/304
+15764,Acinetobacter baumannii strain MRSN7423,trimethoprim/sulfamethoxazole, 16/304
+15770,Acinetobacter baumannii strain MRSN7438,trimethoprim/sulfamethoxazole, 16/304
+15773,Acinetobacter baumannii strain MRSN7441,trimethoprim/sulfamethoxazole, 2/38
+15776,Acinetobacter baumannii strain MRSN7447,trimethoprim/sulfamethoxazole, 8/152
+15778,Acinetobacter baumannii strain MRSN7448,trimethoprim/sulfamethoxazole, 4/76
+15780,Acinetobacter baumannii strain MRSN7454,trimethoprim/sulfamethoxazole, 16/304
+15782,Acinetobacter baumannii strain MRSN7455,trimethoprim/sulfamethoxazole, 2/38
+15785,Acinetobacter baumannii strain MRSN7457,trimethoprim/sulfamethoxazole, 16/304
+15788,Acinetobacter baumannii strain MRSN7459,trimethoprim/sulfamethoxazole, 2/38
+15790,Acinetobacter baumannii strain MRSN7460,trimethoprim/sulfamethoxazole, 2/38
+15792,Acinetobacter baumannii strain MRSN7461,trimethoprim/sulfamethoxazole, 16/304
+15794,Acinetobacter baumannii strain MRSN7462,trimethoprim/sulfamethoxazole, 2/38
+15798,Acinetobacter baumannii strain MRSN7467,trimethoprim/sulfamethoxazole, 2/38
+15800,Acinetobacter baumannii strain MRSN7468,trimethoprim/sulfamethoxazole, 2/38
+15802,Acinetobacter baumannii strain MRSN7469,trimethoprim/sulfamethoxazole, 2/38
+15807,Acinetobacter baumannii strain MRSN7474,trimethoprim/sulfamethoxazole, 2/38
+15809,Acinetobacter baumannii strain MRSN7475,trimethoprim/sulfamethoxazole, 2/38
+15812,Acinetobacter baumannii strain MRSN7478,trimethoprim/sulfamethoxazole, 16/304
+15815,Acinetobacter baumannii strain MRSN7481,trimethoprim/sulfamethoxazole, 16/304
+15820,Acinetobacter baumannii strain MRSN7485,trimethoprim/sulfamethoxazole, 16/304
+15829,Acinetobacter baumannii strain MRSN7497,trimethoprim/sulfamethoxazole, 2/38
+15831,Acinetobacter baumannii strain MRSN7498,trimethoprim/sulfamethoxazole, 2/38
+15848,Acinetobacter baumannii strain MRSN7521,trimethoprim/sulfamethoxazole, 2/38
+15866,Acinetobacter baumannii strain MRSN7557,trimethoprim/sulfamethoxazole, 2/38
+15869,Acinetobacter baumannii strain MRSN7560,trimethoprim/sulfamethoxazole, 2/38
+15878,Acinetobacter baumannii strain MRSN7570,trimethoprim/sulfamethoxazole, 2/38
+15883,Acinetobacter baumannii strain MRSN7578,trimethoprim/sulfamethoxazole, 2/38
+15887,Acinetobacter baumannii strain MRSN7582,trimethoprim/sulfamethoxazole, 2/38
+15898,Acinetobacter baumannii strain MRSN7599,trimethoprim/sulfamethoxazole, 2/38
+15902,Acinetobacter baumannii strain MRSN7605,trimethoprim/sulfamethoxazole, 16/304
+15908,Acinetobacter baumannii strain MRSN7617,trimethoprim/sulfamethoxazole, 8/152
+15915,Acinetobacter baumannii strain MRSN7629,trimethoprim/sulfamethoxazole, 16/304
+15918,Acinetobacter baumannii strain MRSN7636,trimethoprim/sulfamethoxazole, 16/304
+15922,Acinetobacter baumannii strain MRSN7640,trimethoprim/sulfamethoxazole, 2/38
+15933,Acinetobacter baumannii strain MRSN7655,trimethoprim/sulfamethoxazole, 1/19
+15938,Acinetobacter baumannii strain MRSN7660,trimethoprim/sulfamethoxazole, 2/38
+15942,Acinetobacter baumannii strain MRSN7668,trimethoprim/sulfamethoxazole, 16/304
+15945,Acinetobacter baumannii strain MRSN7670,trimethoprim/sulfamethoxazole, 16/304
+15953,Acinetobacter baumannii strain MRSN7677,trimethoprim/sulfamethoxazole, 2/38
+15970,Acinetobacter baumannii strain MRSN7706,trimethoprim/sulfamethoxazole, 2/38
+15972,Acinetobacter baumannii strain MRSN7707,trimethoprim/sulfamethoxazole, 16/304
+15982,Acinetobacter baumannii strain MRSN7718,trimethoprim/sulfamethoxazole, 2/38
+15990,Acinetobacter baumannii strain MRSN7730,trimethoprim/sulfamethoxazole, 16/304
+15998,Acinetobacter baumannii strain MRSN7751,trimethoprim/sulfamethoxazole, 2/38
+16009,Acinetobacter baumannii strain MRSN7776,trimethoprim/sulfamethoxazole, 2/38
+16016,Acinetobacter baumannii strain MRSN7790,trimethoprim/sulfamethoxazole, 2/38
+16029,Acinetobacter baumannii strain MRSN7815,trimethoprim/sulfamethoxazole, 16/304
+16036,Acinetobacter baumannii strain MRSN7822,trimethoprim/sulfamethoxazole, 16/304
+16043,Acinetobacter baumannii strain MRSN7834,trimethoprim/sulfamethoxazole, 2/38
+16045,Acinetobacter baumannii strain MRSN83,trimethoprim/sulfamethoxazole, 2/38
+16047,Acinetobacter baumannii strain MRSN85,trimethoprim/sulfamethoxazole, 16/304
+16055,Acinetobacter baumannii strain MRSN8899,trimethoprim/sulfamethoxazole, 2/38
+16058,Acinetobacter baumannii strain MRSN8900,trimethoprim/sulfamethoxazole, 2/38
+16060,Acinetobacter baumannii strain MRSN8901,trimethoprim/sulfamethoxazole, 16/304
+16062,Acinetobacter baumannii strain MRSN8903,trimethoprim/sulfamethoxazole, 16/304
+16068,Acinetobacter baumannii strain MRSN908,trimethoprim/sulfamethoxazole, 8/152
