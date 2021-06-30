@@ -12,7 +12,7 @@
 	Strain_1,Phenotype_1,Resistant,Resistant,Resistant
 	Strain_2,Phenotype_2,Resistant,Susceptible,Resistant
 
- Link to the code : https://github.com/rakesh4osdd/clsi_profile , https://github.com/rakesh4osdd/asist
+ Link to the code : https://github.com/rakesh4osdd/clsi_profile , https://github.com/rakesh4osdd/asist .
  
  
 # ASIST tool suite

@@ -1,2 +1,4 @@
 # Jupyter Notebook
+.hg
+.hgignore
 .ipynb_checkpoints
