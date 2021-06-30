@@ -5,7 +5,7 @@
     </requirements>
     <version_command>python -c "import pandas; print(pandas.__version__)"</version_command>
     <command detect_errors="exit_code"><![CDATA[
-	    "${__tool_directory__}/asist_dynamic.py" "$input1" "$output1"
+	    "python ${__tool_directory__}/asist_dynamic.py" "$input1" "$output1"
     ]]></command>
     <inputs>
         <param type="data" name="input1" format="csv" />
